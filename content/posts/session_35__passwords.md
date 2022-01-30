@@ -5,4 +5,3 @@
 * use a password manager
 * nonsensical rules
 
-

@@ -6,4 +6,3 @@
 * [pvp](https://www.cuttle.cards/)
 * [vs ai](https://gloryofrobots.itch.io/cuttle)
 
-

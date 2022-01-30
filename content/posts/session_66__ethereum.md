@@ -3,4 +3,3 @@
 * [ethviewer](http://ethviewer.live/)
 * [ethstats](https://ethstats.net/)
 
-

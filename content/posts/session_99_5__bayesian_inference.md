@@ -2,4 +2,3 @@
 
 * [Bayesian inference](https://seeing-theory.brown.edu/bayesian-inference/index.html)
 
-

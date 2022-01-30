@@ -2,4 +2,3 @@
 
 * [Cellular Automata](https://ncase.me/sim/)
 
-

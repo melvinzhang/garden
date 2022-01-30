@@ -8,4 +8,3 @@
 * [Old Beijing cloth shoes](https://www.lazada.sg/products/spring-summer-trendy-casual-mens-shoes-old-beijing-cloth-shoes-breathable-non-slip-canvas-shoes-british-sports-lazybones-shoes-board-shoes-i732040230-s2339400646.html?)
 * [Issues with modern shoes](https://breakingmuscle.com/fitness/why-modern-running-shoes-are-terrible)
 
-

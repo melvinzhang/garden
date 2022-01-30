@@ -5,4 +5,3 @@
   * ICO in 2017, made 35M USD in 30s
 * [BAT](https://basicattentiontoken.org/)
 
-

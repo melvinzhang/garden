@@ -20,4 +20,3 @@ scientific pieces of music of any degree of complexity or extent.
 
 > The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.
 
-

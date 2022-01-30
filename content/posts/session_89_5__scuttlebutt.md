@@ -4,4 +4,3 @@
 * decentralized social network
 * https://viewer.scuttlebot.io/@Ew+ujQnMxDVZUYvDg7QYeAwf9K6gxbiMSnBhGS8A2xI=.ed25519
 
-

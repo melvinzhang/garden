@@ -6,4 +6,3 @@
 * phrak-gslp is a good beginner program, 3 days a week, each day is three lifts for 3 sets of 5 reps
 * linear progression means each session increase the weight by a small amount
 
-

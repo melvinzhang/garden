@@ -10,4 +10,3 @@
 * use 2 independent backup software (mitigate software bugs)
 * store a copy of the backup software along the backup (mitigate software disappearing)
 
-

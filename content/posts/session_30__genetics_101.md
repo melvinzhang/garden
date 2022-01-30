@@ -8,4 +8,3 @@
 * Human genome was decoded, between 1900 to 2003, costs 2.7 billion (1991 dollars)
 * price is decreasing rapidly, cheap sequencing will enable precision medicine
 
-

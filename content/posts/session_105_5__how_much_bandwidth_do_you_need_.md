@@ -5,4 +5,3 @@
 * [Recommended download speed](https://blog.seedly.sg/500mbps-vs-1gbps-singapore-broadband/)
 * [Speed test](https://www.speedtest.net/)
 
-

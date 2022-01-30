@@ -4,4 +4,3 @@
 * [David Silver's talk at NIPS 2017](https://www.youtube.com/watch?v=Wujy7OzvdJk)
 * [slides from NIPS 2017](asset/alphazero.pdf)
 
-

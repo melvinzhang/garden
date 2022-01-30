@@ -13,4 +13,3 @@
 * periodic fasting seems to have some positive benefits
 * Eat when you feel hungry
 
-

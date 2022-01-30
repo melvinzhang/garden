@@ -2,4 +2,3 @@
 
 * [visualcapitalist.com/cryptocurrency-redefining-future-of-finance/](https://www.visualcapitalist.com/cryptocurrency-redefining-future-of-finance/)
 
-

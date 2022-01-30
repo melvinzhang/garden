@@ -5,4 +5,3 @@
 * [pythagorean siphon](https://www.youtube.com/watch?v=A-YMHXuiaWw)
 * [siphon misconceptions](https://lockhaven.edu/~dsimanek/museum/themes/siphon.htm)
 
-

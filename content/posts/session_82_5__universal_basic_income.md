@@ -3,4 +3,3 @@
 * [Circles website](https://joincircles.net/)
 * [Circles protocol whitepaper](https://github.com/CirclesUBI/whitepaper)
 
-

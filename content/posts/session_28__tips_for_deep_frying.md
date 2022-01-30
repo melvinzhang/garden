@@ -6,4 +6,3 @@
 * don't overcrowd the pot
 * put food on a draining rack
 
-

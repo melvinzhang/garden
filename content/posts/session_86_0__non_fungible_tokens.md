@@ -3,4 +3,3 @@
 * [OpenSea](https://opensea.io/)
 * [Cryptovoxels](https://www.cryptovoxels.com/)
 
-

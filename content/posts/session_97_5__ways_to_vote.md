@@ -2,4 +2,3 @@
 
 * [To build a better ballot](https://ncase.me/ballot/)
 
-

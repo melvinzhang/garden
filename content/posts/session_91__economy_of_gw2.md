@@ -3,4 +3,3 @@
 * [GW2 Efficiency Trading Post](https://gw2efficiency.com/tradingpost)
 * [GW2 BLTC](https://www.gw2bltc.com/)
 
-

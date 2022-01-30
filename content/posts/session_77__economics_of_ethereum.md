@@ -11,4 +11,3 @@
   * in times of congestion, txns with low Gas price are stuck
 * Spammers must pay Gas fees!
 
-

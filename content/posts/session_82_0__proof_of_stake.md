@@ -5,4 +5,3 @@
 * [Bitcoin energy consumption](https://digiconomist.net/bitcoin-energy-consumption)
 * Singapore consumed 51.7 TWh in 2019 [ref](https://www.ema.gov.sg/singapore-energy-statistics/Ch03/index3)
 
-

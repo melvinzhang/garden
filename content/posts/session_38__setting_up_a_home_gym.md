@@ -9,4 +9,3 @@
 * Need a lot of horizontal space, standard barbell is 2.2m long
 * Possible to get shorter ones such as 1.8m or 1.5m
 
-

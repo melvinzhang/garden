@@ -6,4 +6,3 @@
 * off in 1 day per 3030 years, much better than the Julian cal of 1 in 128 years
 * earth rotation is slowing down due to energy tranfer to the moon, leap second is inserted
 
-

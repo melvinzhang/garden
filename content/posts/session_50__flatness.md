@@ -4,4 +4,3 @@
 * Surface plates as the basis of precision engineering
 * Joseph Whitworth, 3 plates technique in 1830s
 
-

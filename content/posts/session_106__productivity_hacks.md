@@ -4,4 +4,3 @@
 * Keep a daily journal
 * [Prefer async communication](https://github.com/magarena/magarena/issues)
 
-

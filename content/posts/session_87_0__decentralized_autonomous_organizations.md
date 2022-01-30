@@ -6,4 +6,3 @@
 * [KyberDAO](https://kyber.org/vote)
 * [Moloch DAO](https://www.molochdao.com/)
 
-

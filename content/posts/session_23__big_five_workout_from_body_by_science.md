@@ -5,4 +5,3 @@
 * vertical arm pull
 * vertical arm push
 * leg push
-

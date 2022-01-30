@@ -3,4 +3,3 @@
 * [digital gardening history](https://maggieappleton.com/garden-history)
 * [Andy's working notes](https://notes.andymatuschak.org/)
 
-

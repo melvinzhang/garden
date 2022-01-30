@@ -2,4 +2,3 @@
 
 * [Understanding Race](https://understandingrace.org/)
 
-

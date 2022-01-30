@@ -5,4 +5,3 @@
 * [conclave case study](https://conclave-team.github.io/conclave-site/)
 * [crdt in atom](https://www.infoq.com/presentations/github-crdt/)
 
-

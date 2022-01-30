@@ -7,4 +7,3 @@
 * [qv.geek.sg](https://qv.geek.sg/)
 * [quadracticvote](https://quadraticvote.co/)
 
-

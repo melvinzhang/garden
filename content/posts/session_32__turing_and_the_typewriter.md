@@ -8,4 +8,3 @@
   ACE was built in 1950 after Turing left NPL. It was the fastest machine of
   its time with a clock speed of 1Mhz
 
-

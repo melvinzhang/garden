@@ -4,4 +4,3 @@
 * [Kingsmith WalkingPad A1 Pro](https://www.walkingpad.com/)
 * [Experience with a treadmill desk](https://www.intotheminds.com/blog/en/walking-while-working-my-experience-with-a-treadmill-desk/)
 
-

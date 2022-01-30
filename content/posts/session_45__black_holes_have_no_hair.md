@@ -6,4 +6,3 @@
 * no information about things that fall in can be retrieved
 * aka the no-hair theorem
 
-

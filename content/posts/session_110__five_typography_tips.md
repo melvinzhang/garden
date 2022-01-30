@@ -8,4 +8,3 @@
   * [bold or italic](https://practicaltypography.com/bold-or-italic.html)
   * [hierarchical headings](https://practicaltypography.com/hierarchical-headings.html)
 
-

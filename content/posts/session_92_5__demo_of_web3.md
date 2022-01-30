@@ -5,4 +5,3 @@
 * Swapping ETH with [Uniswap](https://app.uniswap.org/)
 * Minting NFT with [Rarible](https://ropsten.rarible.com/)
 
-

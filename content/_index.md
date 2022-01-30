@@ -1,8 +1,4 @@
-+++
-title = "Index"
-author = ["Melvin Zhang"]
-type = "index"
-+++
+{"title": "Index", "type": "index"}
 
 # Welcome to my digital garden
 

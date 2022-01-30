@@ -5,4 +5,3 @@
 * [VDO.Ninja](https://vdo.ninja/)
 * [Conclave](https://www.conclave.tech/)
 
-

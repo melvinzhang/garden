@@ -5,4 +5,3 @@
 * Getting aDAI from [AAVE](https://testnet.aave.com/)
 * Playing [Aavegotchi](https://testnet.aavegotchi.com/)
 
-

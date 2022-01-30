@@ -7,4 +7,3 @@
 * Exercise is good, training is better
 * Not as hard as you think, can be very simple
 
-

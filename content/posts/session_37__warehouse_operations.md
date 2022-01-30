@@ -6,4 +6,3 @@
 * delivering of orders (last mile)
 * showed Amazon Prime singapore vi#eo
 
-

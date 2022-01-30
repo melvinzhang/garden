@@ -5,4 +5,3 @@
 * [Redragon mouse](https://www.lazada.sg/catalog/?q=redragon+mouse)
 * [Optical mouse workings](https://www.youtube.com/watch?v=SAaESb4wTCM)
 
-

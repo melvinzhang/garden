@@ -5,4 +5,3 @@
 * [slides](https://www.slideshare.net/Qvi/mmorpg)
 * [Scenery in SWTOR](https://www.youtube.com/watch?v=GwXAwuBZVL4)
 
-

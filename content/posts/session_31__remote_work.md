@@ -17,4 +17,3 @@
   * work life and home life start getting mixed together
     * fix: have fix boundaries, eg close the door when working
 
-

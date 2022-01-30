@@ -25,4 +25,3 @@ Rates updates as of 12th March 2021
   * [Celsius Network](https://celsius.network/rates/) (centralized), 10.51% per annum for USD stablecoins
   * [Aave](https://aave.com/) (decentralied), 9.29 - 12.40% per annum for USD stablecoins (past 30 day average)
 
-

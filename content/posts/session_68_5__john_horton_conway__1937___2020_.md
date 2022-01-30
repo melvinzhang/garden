@@ -6,4 +6,3 @@
 * [Life in Life](https://www.youtube.com/watch?v=xP5-iIeKXE8)
 * [Open problems](https://www.conwaylife.com/wiki/Problem)
 
-

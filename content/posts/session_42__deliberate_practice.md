@@ -7,4 +7,3 @@
 * In strength training, this is called "progressive overload"
 * Using deliberate practice for public speaking
 
-

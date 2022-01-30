@@ -5,4 +5,3 @@
 * [Electric Toothbrush](https://www.amazon.com/Electric-Toothbrush-Fairywill-E11-Rechargeable/dp/B08L9CQ9X5)
 * [Ebook Reader](https://onyxboox.com/boox_nova3)
 
-

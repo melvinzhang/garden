@@ -5,4 +5,3 @@
 * [David Clear's cartoons](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 * [Obsidian](https://obsidian.md/)
 
-

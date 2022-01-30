@@ -7,4 +7,3 @@
 * [Public ledger](https://dappradar.com/hub/wallet)
 * [Open source](https://zcom.tech/wp-content/uploads/2020/04/Example-of-open-source-software.jpg)
 
-

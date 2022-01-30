@@ -4,4 +4,3 @@
 * [GANs explained](https://developers.google.com/machine-learning/gan)
 * [bat-moth arms race](https://jeb.biologists.org/sites/default/files/highwire/jexbio/219/11.cover-source.jpg)
 
-

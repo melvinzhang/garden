@@ -2,4 +2,3 @@
 
 [YouTube: How Banks Create Money](https://www.youtube.com/watch?v=JG5c8nhR3LE)
 
-

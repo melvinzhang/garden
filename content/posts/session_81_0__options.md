@@ -8,4 +8,3 @@
 * [Buffet Meme](https://www.trendfollowing.com/2013/09/10/warren-buffet-meme/)
 * [Opyn](https://opyn.co/)
 
-

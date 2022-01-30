@@ -8,4 +8,3 @@
 * Factoring needs thousands of logical qbits, millions of physical qbits
 * Not going to replace classical computers
 
-

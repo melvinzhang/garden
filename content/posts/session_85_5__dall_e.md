@@ -2,4 +2,3 @@
 
 * [OpenAI DALL·E](https://openai.com/blog/dall-e/)
 
-

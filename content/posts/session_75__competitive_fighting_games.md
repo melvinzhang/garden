@@ -16,4 +16,3 @@
 * Footsies, whiff punish, Okizeme
 * [Fighting Game AI](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/)
 
-

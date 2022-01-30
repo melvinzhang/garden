@@ -7,4 +7,3 @@
 * Tail bone (coccyx): our ancestor lives in trees
 * Hair: we've lost a lot of it already, some are pretty useful, others less so
 
-

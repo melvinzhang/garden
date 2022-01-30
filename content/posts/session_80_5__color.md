@@ -5,4 +5,3 @@
 * [How we see color](https://www.youtube.com/watch?v=l8_fZPHasdo)
 * [Human Cone Action Spectra](https://www.unm.edu/~toolson/human_cone_response.htm)
 
-

@@ -13,4 +13,3 @@
   * e-greedy: with prob e explore, 1-e exploit
   * thompson sampling: [demo](https://learnforeverlearn.com/bandits/)
 
-

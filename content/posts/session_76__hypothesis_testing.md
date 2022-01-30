@@ -5,4 +5,3 @@
   * [Calculators](https://www.evanmiller.org/ab-testing/)
 * [Mastering A/B testing with Bayesian statistics](https://www.slideshare.net/Voluum/mastering-ab-testing-with-bayesian-statistics)
 
-

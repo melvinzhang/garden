@@ -6,4 +6,3 @@
 * it comes thick as it drys and may turn yellow due to an enzyme produced by antibodies
 * nasal irrigation flushes saline water into sinuses to help flush out the thick mucus and relieve symptoms
 
-
