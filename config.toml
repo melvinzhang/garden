@@ -1,4 +1,4 @@
-baseURL = "https://garden.melvinzhang.net/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Melvin's Digital Garden"
 theme = "cortex"
