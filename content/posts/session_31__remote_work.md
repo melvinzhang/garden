@@ -1,6 +1,5 @@
 {"title": "Session 31: Remote work", "tags": []}
 
-
 * working over the Internet from anywhere in the world
 * elance, upwork: platforms to hire freelancers to work remotely
 * full-time remote work as an employee

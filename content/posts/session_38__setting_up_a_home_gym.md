@@ -1,5 +1,4 @@
 {"title": "Session 38: Setting up a home gym", "tags": []}
-
 * About the cost of 1 year of gym membership for basic setup with
   * barbell
   * 75kg of weight plates

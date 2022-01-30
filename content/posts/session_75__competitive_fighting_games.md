@@ -1,5 +1,4 @@
 {"title": "Session 75: Competitive Fighting Games", "tags": []}
-
 * [Xian vs MenaRD CPT 2017](https://www.youtube.com/watch?v=UGD0rYWpSDU&t=103)
 * 1 on 1, no randomness, pure skill
 * real time, latency is a problem, solved by rollback netcode

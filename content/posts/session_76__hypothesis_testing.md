@@ -1,5 +1,4 @@
 {"title": "Session 76: Hypothesis Testing", "tags": []}
-
 * null hypothesis significance testing (NHST)
   * null hypothesis and alternative hypothesis
   * [Calculators](https://www.evanmiller.org/ab-testing/)

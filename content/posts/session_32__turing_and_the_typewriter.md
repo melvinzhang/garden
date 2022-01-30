@@ -1,6 +1,5 @@
 {"title": "Session 32: Turing and the Typewriter", "tags": []}
 
-
 * Typewriter as the inspiration for the first model of computation, Turing's a-machine
   'a' stands for automatic
 

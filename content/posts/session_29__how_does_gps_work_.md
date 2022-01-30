@@ -1,6 +1,5 @@
 {"title": "Session 29: How does GPS work?", "tags": []}
 
-
 in conjunction with World Space Week 2018
 
 ![https://www.gofleet.com/the-thens-nows-of-gps-tracking/](asset/gps-tracking-timeline_.png)

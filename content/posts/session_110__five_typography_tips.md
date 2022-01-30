@@ -1,5 +1,4 @@
 {"title": "Session 110: Five typography tips", "tags": []}
-
 * [Matthew Butterick](https://typographyforlawyers.com/about-matthew-butterick.html)
 * [Practical Typography](https://practicaltypography.com/)
   * [one space between sentences](https://practicaltypography.com/one-space-between-sentences.html)

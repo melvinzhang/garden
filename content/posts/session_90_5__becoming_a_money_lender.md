@@ -1,5 +1,4 @@
 {"title": "Session 90.5: Becoming a money lender", "tags": []}
-
 Rates updates as of 12th March 2021
 
 * [Savings account](https://www.posb.com.sg/personal/default.page)

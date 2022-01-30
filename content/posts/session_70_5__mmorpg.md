@@ -1,5 +1,4 @@
 {"title": "Session 70.5: MMORPG", "tags": []}
-
 * Examples: [Project Gorgon](https://projectgorgon.com/), [EverQuest](https://www.everquest2.com/home/), [SWTOR](https://www.swtor.com/)
 * Player versus Environment (PvE) and Player versus Player (PvP)
 * [slides](https://www.slideshare.net/Qvi/mmorpg)

@@ -1,5 +1,4 @@
 {"title": "Session 97.5: Radical transparency", "tags": []}
-
 * [Radical Transparency](https://raydalioprinciples.blogspot.com/2019/03/life-principle-13a-radical-open.html)
 * [Data.gov.sg](https://data.gov.sg/)
 * [Buffer's Transparency](https://buffer.com/transparency)

@@ -1,7 +1,4 @@
----
-title: Learning Day
----
-
+{"title": "Learning Day", "tags": []}
 Started out an an internal sharing session at Praxium. Currently a weekly Zoom
 session held on Friday evening, 7 to 10pm.
 

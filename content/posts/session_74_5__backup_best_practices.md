@@ -1,5 +1,4 @@
 {"title": "Session 74.5: Backup best practices", "tags": []}
-
 * different from syncing, keep historical versions
 * Grandfather-father-son rotation
 * more than 1 physical location (1 local and 1 cloud)

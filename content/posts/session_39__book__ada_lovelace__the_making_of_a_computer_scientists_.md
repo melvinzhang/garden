@@ -1,5 +1,4 @@
 {"title": "Session 39: Book \"Ada Lovelace: The Making of a Computer Scientists\"", "tags": []}
-
 * based on letters from the Lovelace-Byron archive at the Bodleian Library of the University of Oxford
 * [AAL timeline](https://www.timetoast.com/timelines/ada-lovelace)
 * [AAL's mathematical papers](https://www.claymath.org/publications/ada-lovelaces-mathematical-papers)

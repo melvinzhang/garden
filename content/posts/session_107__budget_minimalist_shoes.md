@@ -1,5 +1,4 @@
 {"title": "Session 107: Budget minimalist shoes", "tags": []}
-
 * [Born to run](https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189)
 * [Modern running shoes](https://www.runnersworld.com/gear/a20842305/how-to-buy-the-right-running-shoes/)
 * [How Raramuri Runners Dominate Ultra-Marathons in Sandals](https://youtu.be/25DE-1rO3qM?t=184)

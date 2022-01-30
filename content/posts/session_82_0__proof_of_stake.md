@@ -1,5 +1,4 @@
 {"title": "Session 82.0: Proof of stake", "tags": []}
-
 * [launchpad](https://launchpad.ethereum.org/)
 * [Proof of stake](https://www.youtube.com/watch?v=M3EFi_POhps)
 * [Bitcoin energy consumption](https://digiconomist.net/bitcoin-energy-consumption)

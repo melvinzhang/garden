@@ -1,5 +1,4 @@
 {"title": "Session 77: Economics of Ethereum", "tags": []}
-
 * [ethgas.io](https://ethgas.io/)
 * [ethviewer.live](http://ethviewer.live/)
 * [Historical Gas prices](https://explore.duneanalytics.com/public/dashboards/ZN89dYu9g2ErUDWhEJJbLlsXxZRAiOprTL0eGdU6)

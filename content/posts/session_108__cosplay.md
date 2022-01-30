@@ -1,5 +1,4 @@
 {"title": "Session 108: Cosplay", "tags": []}
-
 * [SG cosplay scene](https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/26566559.JPG?itok=PwKvrdDk)
 * [Aunty Shirley](https://www.facebook.com/auntyshirleychua/)
 * [Low cost cosplay](https://www.facebook.com/Lowcostcosplay)

@@ -1,5 +1,4 @@
 {"title": "Session 106.5: Things GW2 does differently", "tags": []}
-
 * No sub, core game is free. Pay for expansions.
 * Dynamic Events
 * Player helping players

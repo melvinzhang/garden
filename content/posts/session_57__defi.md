@@ -1,5 +1,4 @@
 {"title": "Session 57: DeFi", "tags": []}
-
 * Decentralized Finance (DeFi)
 * [defiprime](https://defiprime.com/)
 * leverages smart contracts

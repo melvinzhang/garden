@@ -1,5 +1,4 @@
 {"title": "Session 54: Multi-arm bandits", "tags": []}
-
 * what is it? background.
 * applications
   * clinical trial

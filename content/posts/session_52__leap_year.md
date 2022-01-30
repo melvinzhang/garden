@@ -1,5 +1,4 @@
 {"title": "Session 52: Leap year", "tags": []}
-
 * 1/4 - 1/100 + 1/400
 * or venn diagram
 * or average day is 365.2425

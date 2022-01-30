@@ -1,6 +1,5 @@
 {"title": "Session 30: Genetics 101", "tags": []}
 
-
 * human -> cells -> nucleus -> chromosomes
 * chromosome is tightly coiled DNA, DNA is made up of 4 letters, AGTC
 * there are about 3 billion base pairs in Human DNA
