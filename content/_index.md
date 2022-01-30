@@ -2,19 +2,15 @@
 
 # Welcome to my digital garden
 
-The goal is to consolidate all of my writings on this site. At the moment, I
-have several sites, one for [Learning Day](https://www.facebook.com/groups/praxiumlearning)
-and another for [blog posts](https://blog.melvinzhang.net/).
-
 Learning about the [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten)
 has reignited my interest in developing ideas from notes. This site is one among many
 [Digital Gardens](https://github.com/MaggieAppleton/digital-gardeners#digital-garden-directory).
 
-My personal notes is stored in a single text file. The idea is to merge all the
-content into that file and then extract parts of it to be published here.
+My personal notes are stored in a single text file. The goal is to merge all the
+content into the file and extract parts of it to be published here.
 
 ## Current progress
-* [My learning day sharings](/posts/learning_day)
+* [My Learning Day sharings](/posts/learning_day/)
 
 ## Inspiration
 * [Andy's working notes](https://notes.andymatuschak.org/)
