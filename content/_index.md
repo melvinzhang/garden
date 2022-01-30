@@ -18,7 +18,7 @@ My personal notes is stored in a single text file. The idea is to merge all the
 content into that file and then extract parts of it to be published here.
 
 ## Current progress
-* [My learning day sharings](/posts/ld) in one giant note (to be split up later)
+* [My learning day sharings](/posts/learning_day)
 
 ## Inspiration
 * [Andy's working notes](https://notes.andymatuschak.org/)
