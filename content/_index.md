@@ -12,6 +12,7 @@ extract parts of it to be published here.
 
 ## Current progress
 * [My Learning Day sharings](/posts/learning_day/)
+* [My blog posts (2008-2011)](/posts/blog_posts/)
 
 ## Inspiration
 * [Andy's working notes](https://notes.andymatuschak.org/)
