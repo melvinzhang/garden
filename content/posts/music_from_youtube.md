@@ -4,6 +4,6 @@ category: music
 
 These days I've been using YouTube as a music player. Enjoy :)
 
-{% youtube kEoEyHNhXmc %}
+{{< youtube kEoEyHNhXmc >}}
 
 The singer is [Olivia Ong](http://oliviaong.com/), who is Singaporean. Thanks to Elizabeth for introducing this singer to me.

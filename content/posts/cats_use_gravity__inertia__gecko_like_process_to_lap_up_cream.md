@@ -1,5 +1,5 @@
 {"title": "Cats use gravity, inertia, gecko-like process to lap up cream  ", "tags": ["blog"]}
-date: 2010-11-12 10:04:00.000000000 +08:00
+date: 2010-11-12 10:04:00 +08:00
 category: physics
 
 {% img /images/2010/11/12/cats-use-gravity-inertia-gecko-like-process-t/17358712-media_httpstaticarste_lejck.jpg 490 %}

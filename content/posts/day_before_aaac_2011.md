@@ -1,5 +1,5 @@
 {"title": "Day before AAAC 2011  ", "tags": ["blog"]}
-date: 2011-04-20 00:04:00.000000000 +08:00
+date: 2011-04-20 00:04:00 +08:00
 category: travel
 
 The 4th AAAC conference was held in Hsinchu, Taiwan. Hon Wai and I reached Hsinchu one day before the conference and we explored the NTHU campus and the <br>area around our hotel.

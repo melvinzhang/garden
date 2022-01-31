@@ -1,5 +1,5 @@
 {"title": "AAAC 2011 Day Two  ", "tags": ["blog"]}
-date: 2011-04-20 21:59:25.000000000 +08:00
+date: 2011-04-20 21:59:25 +08:00
 category: travel
 
 After the conference, we went around the campus town and bought some street

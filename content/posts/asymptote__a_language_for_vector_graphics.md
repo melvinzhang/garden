@@ -1,5 +1,5 @@
 {"title": "Asymptote: A language for vector graphics  ", "tags": ["blog"]}
-date: 2009-04-02 05:56:50.000000000 +08:00
+date: 2009-04-02 05:56:50 +08:00
 category: graphics
 
 [Asymptote](http://asymptote.sourceforge.net/) is a language for describing

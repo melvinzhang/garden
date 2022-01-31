@@ -1,5 +1,5 @@
 {"title": "I'm noticing a trend  ", "tags": ["blog"]}
-date: 2008-12-17 13:55:12.000000000 +08:00
+date: 2008-12-17 13:55:12 +08:00
 category: software
 
 Whenever I'm experimenting with web based software, I will usually try to

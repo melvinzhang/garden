@@ -1,5 +1,5 @@
 {"title": "Bowling, Badminton and Buffet at Swiss Past Vs Present Games Day  ", "tags": ["blog"]}
-date: 2009-09-15 16:49:59.000000000 +08:00
+date: 2009-09-15 16:49:59 +08:00
 category: scss
 
 The second annual Swiss Cottage Past vs Present Games Day was held on the 5th

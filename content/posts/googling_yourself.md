@@ -1,5 +1,5 @@
 {"title": "Googling yourself  ", "tags": ["blog"]}
-date: 2008-04-14 01:47:29.000000000 +08:00
+date: 2008-04-14 01:47:29 +08:00
 category: search
 
 At the NOI awards ceremony yesterday, I met up with Mr Gi Soong Chee, a

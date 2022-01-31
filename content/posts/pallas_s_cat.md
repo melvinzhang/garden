@@ -1,5 +1,5 @@
 {"title": "Pallas's Cat  ", "tags": ["blog"]}
-date: 2010-07-16 09:20:07.000000000 +08:00
+date: 2010-07-16 09:20:07 +08:00
 category: cat
 
 {% img http://www.biolib.cz/IMG/GAL/10521.jpg 500 %}

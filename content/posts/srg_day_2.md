@@ -1,5 +1,5 @@
 {"title": "SRG Day 2  ", "tags": ["blog"]}
-date: 2008-01-13 02:50:00.000000000 +08:00
+date: 2008-01-13 02:50:00 +08:00
 category: robotics
 
 The three events held on the morning of the second day of the Singapore Robotic Games are:
@@ -11,7 +11,7 @@ The three events held on the morning of the second day of the Singapore Robotic 
 ### RC Sumo
 RC Sumo is almost the same as the autonomous sumo content, except that the robots are controlled by human handlers. Essentially two robots face off on a circular platform and the first robot to be pushed off the platform loses. The inclusion of the handlers makes the matches more exciting as sometimes the autonomous matches simply becomes a straight forward pushing contest. The handlers are typically less aggressive and tend to move about the platform more carefully. SRG's sumo competition is modeled after a contest in Japan, below is a video of the Japanese version.
 
-{% youtube 7OWopN7Wysg %}
+{{< youtube 7OWopN7Wysg >}}
 
 ### Micromouse
 Watching the micromouse competition brings back some fond memories of my secondary school days. I was in the Computer Club back then and we had a micromouse group. I was never directly involved with the micromouse teams, but watching an autonomous robot navigate a maze inspired me to think about how problem solving skills can be incorporated into a robot.

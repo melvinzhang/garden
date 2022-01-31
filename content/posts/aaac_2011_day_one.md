@@ -1,5 +1,5 @@
 {"title": "AAAC 2011 Day One  ", "tags": ["blog"]}
-date: 2011-04-20 21:48:25.000000000 +08:00
+date: 2011-04-20 21:48:25 +08:00
 category: travel
 
 The keynote for the first day was given by Peter Eades from Australia. Peter's talk is IMHO the best talk in the whole conference. He gave a broad overview of the area of graph drawing and went into some depth for a number of problems he worked on.

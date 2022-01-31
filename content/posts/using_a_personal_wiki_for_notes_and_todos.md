@@ -1,5 +1,5 @@
 {"title": "Using a personal wiki for notes and todos  ", "tags": ["blog"]}
-date: 2009-12-23 09:58:26.000000000 +08:00
+date: 2009-12-23 09:58:26 +08:00
 category: notes
 
 Originally appeared

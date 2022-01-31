@@ -1,5 +1,5 @@
 {"title": "Writing under pressure  ", "tags": ["blog"]}
-date: 2009-01-25 13:53:29.000000000 +08:00
+date: 2009-01-25 13:53:29 +08:00
 category: writing
 
 Guest blogging for the NUS SoC blog has taught me that it is important to set

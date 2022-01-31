@@ -1,5 +1,5 @@
 {"title": "Leaving Paris soon  ", "tags": ["blog"]}
-date: 2008-10-18 14:05:00.000000000 +08:00
+date: 2008-10-18 14:05:00 +08:00
 category: travel
 
 {% img /images/2008/10/18/leaving-paris-soon/11675160-D1_01_room.jpg 500 %}

@@ -1,5 +1,5 @@
 {"title": "IOI 2008 is over  ", "tags": ["blog"]}
-date: 2008-08-24 14:37:54.000000000 +08:00
+date: 2008-08-24 14:37:54 +08:00
 category: contest
 
 IOI has finally ended but the Singapore team is staying one additional day

@@ -1,5 +1,5 @@
 {"title": "Computational Biology  ", "tags": ["blog"]}
-date: 2008-04-13 13:51:00.000000000 +08:00
+date: 2008-04-13 13:51:00 +08:00
 category: research
 
 Terry Nguyen and Justin suggested that I write about Computational Biology. So here it is :-)

@@ -1,5 +1,5 @@
 {"title": "Touring Xu Jia Hui  ", "tags": ["blog"]}
-date: 2011-04-24 21:02:00.000000000 +08:00
+date: 2011-04-24 21:02:00 +08:00
 category: travel
 
 These photos taken while walking around the Xu Jia Hui area in Shanghai. The name Xu Jia Hui actually means the area where Xu Guangqi's descendants live. I also visited the tomb of Xu Guangqi today but forgot to take photos.

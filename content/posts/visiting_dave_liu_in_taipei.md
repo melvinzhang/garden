@@ -1,5 +1,5 @@
 {"title": "Visiting Dave Liu in Taipei  ", "tags": ["blog"]}
-date: 2011-04-20 22:17:17.000000000 +08:00
+date: 2011-04-20 22:17:17 +08:00
 category: travel
 
 In the morning, we took the HSR to Taipei to meet Dave Liu (Hon Wai's PhD advisor) for lunch. We met up at the Celestial Restaurant and had a very good lunch and chat with Prof Liu. After that we walked back to the HSR station, took the rail to Taoyuan and then boarded the flight back to Shanghai.

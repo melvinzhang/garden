@@ -1,5 +1,5 @@
 {"title": "Software is Hard  ", "tags": ["blog", "teaching"]}
-date: 2008-05-16 07:19:28.000000000 +08:00
+date: 2008-05-16 07:19:28 +08:00
 category: programming
 
 I've been revisiting some code I wrote a couple of months ago in order to
@@ -21,4 +21,5 @@ invaluable.
 > understands that it is really the field of assembling instructions for doing...
 > anything. Anything that people want to get done. It's sort of a meta-field that
 > encompasses almost all other fields, with more being added every day.
-> -- from [Reddit comment by Whisper](http://www.reddit.com/r/programming/comments/6j1mf/how_reddit_will_maybe_save_software_development/c03zf02)
+>
+> -- [Reddit comment by Whisper](http://www.reddit.com/r/programming/comments/6j1mf/how_reddit_will_maybe_save_software_development/c03zf02)

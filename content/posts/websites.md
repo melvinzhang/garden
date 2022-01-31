@@ -1,5 +1,5 @@
 {"title": "Websites  ", "tags": ["blog"]}
-date: 2008-01-22 15:38:00.000000000 +08:00
+date: 2008-01-22 15:38:00 +08:00
 category: web
 
 My first website was started in 1999 after my 'A' levels but before I was enlisted. It was a very simple web site written by hand using HTML and CSS. The purpose was to learn HTML but it also served as a page which I would put up mini reviews of freeware games/applications. The main page also contains a number of dated entries to indicate when the site was updated and some snippets of what I was doing in real life. The last entry which was dated August 9, 2000 was posted on National Day, see below.

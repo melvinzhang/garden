@@ -1,5 +1,5 @@
 {"title": "My favorite algorithm  ", "tags": ["blog"]}
-date: 2009-12-23 18:04:53.000000000 +08:00
+date: 2009-12-23 18:04:53 +08:00
 category: cs
 
 This post originally appeared

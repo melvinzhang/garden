@@ -1,5 +1,5 @@
 {"title": "Data driven programming assignments  ", "tags": ["blog"]}
-date: 2009-12-23 09:48:06.000000000 +08:00
+date: 2009-12-23 09:48:06 +08:00
 category: teaching
 
 Originally appeared

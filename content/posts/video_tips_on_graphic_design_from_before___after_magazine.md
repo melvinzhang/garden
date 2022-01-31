@@ -1,5 +1,5 @@
 {"title": "Video tips on graphic design from Before & After magazine  ", "tags": ["blog"]}
-date: 2010-09-22 09:47:00.000000000 +08:00
+date: 2010-09-22 09:47:00 +08:00
 category: design
 
 {% img /images/2010/09/22/video-tips-on-graphic-design-from-before-afte/15316617-media_httpwwwbamagazi_xfiFq.gif 500 %}
