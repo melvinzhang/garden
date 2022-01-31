@@ -1,7 +1,11 @@
 {"title": "Learning Day", "tags": []}
-Started out an an internal sharing session at Praxium. Currently a weekly Zoom
-session held on Friday evening, 7 to 10pm.
 
+Learing Day is a public meetup where everyone who attends shares for 15mins.
+Events are posted in this [FB group](https://www.facebook.com/groups/praxiumlearning/).
+
+Meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
+
+The following is a list of topics I've shared in past LDs:
 * [LD 111.5: Collaborative editing](/posts/ld_111_5__collaborative_editing/)
 * [LD 111: Cuttle](/posts/ld_111__cuttle/)
 * [LD 110.5: Digital gardening](/posts/ld_110_5__digital_gardening/)
