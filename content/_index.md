@@ -6,8 +6,9 @@ Learning about the [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkas
 has reignited my interest in developing ideas from notes. This site is one among many
 [Digital Gardens](https://github.com/MaggieAppleton/digital-gardeners#digital-garden-directory).
 
-My personal notes are stored in a single text file. The goal is to merge all the
-content into the file and extract parts of it to be published here.
+Most of my notes are stored in a single text file except for blog posts and
+social media posts. The goal is to merge all the content into one file and
+extract parts of it to be published here.
 
 ## Current progress
 * [My Learning Day sharings](/posts/learning_day/)
