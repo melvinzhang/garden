@@ -26,7 +26,7 @@ Posts:
 * [The World's Worst Inventions  ](/posts/the_world_s_worst_inventions/)
 * [Pallas's Cat  ](/posts/pallas_s_cat/)
 * [Loving You  ](/posts/loving_you/)
-* [Moved To Melvinzhang.Net  ](/posts/moved_to_melvinzhang_net/)
+* [Moved to melvinzhang.net  ](/posts/moved_to_melvinzhang_net/)
 * [First post on Posterous!  ](/posts/first_post_on_posterous_/)
 * [Using a personal wiki for notes and todos  ](/posts/using_a_personal_wiki_for_notes_and_todos/)
 * [Relevance of research skills  ](/posts/relevance_of_research_skills/)
