@@ -28,7 +28,7 @@ topic which may be stored in different files/pieces of paper. A more useful
 note taking system should allow one to create hyperlinks between different
 notes and to easily search for specific pieces of information.
 
-{% img /images/2009/12/23/using-a-personal-wiki-for-notes-and-todos/11636311-media_httplh5ggphtcom_ggsum.jpg A screenshot of TiddlyWiki from WikiMatrix.org %}
+{{< figure src="/images/2009/12/23/using-a-personal-wiki-for-notes-and-todos/11636311-media_httplh5ggphtcom_ggsum.jpg" caption="A screenshot of TiddlyWiki from WikiMatrix.org" >}}
 
 My solution, as you might have guessed from the title, is to use a wiki
 engine. Unfortunately, most wiki software require a web server and database

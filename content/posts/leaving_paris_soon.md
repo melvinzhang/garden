@@ -2,33 +2,33 @@
 date: 2008-10-18 14:05:00 +08:00
 category: travel
 
-{% img /images/2008/10/18/leaving-paris-soon/11675160-D1_01_room.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675153-D1_02_room.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675147-D2_01_conf.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675141-D2_02_talk.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675133-D2_03_talk.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675127-D2_04_talk.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675120-D2_05_talk.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675110-D2_06_talk.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675100-D2_07_pan.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675094-D2_08_pan.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675085-D2_09_pan.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675080-D2_10_park.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675076-D2_11_park.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675069-D2_12_park.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675059-D4_tower1.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675056-D4_tower2.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675049-D4_tower3.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675043-D4_tower4.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675036-D5_louvre1.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675024-D5_louvre3.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675019-D5_louvre4.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675016-D5_louvre5.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675009-D5_louvre6.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11674995-D5_louvre8.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11674988-D5_louvre9.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11675004-D5_louvre7.jpg 500 %}
-{% img /images/2008/10/18/leaving-paris-soon/11674984-D5_street1.jpg 500 %}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675160-D1_01_room.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675153-D1_02_room.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675147-D2_01_conf.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675141-D2_02_talk.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675133-D2_03_talk.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675127-D2_04_talk.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675120-D2_05_talk.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675110-D2_06_talk.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675100-D2_07_pan.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675094-D2_08_pan.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675085-D2_09_pan.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675080-D2_10_park.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675076-D2_11_park.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675069-D2_12_park.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675059-D4_tower1.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675056-D4_tower2.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675049-D4_tower3.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675043-D4_tower4.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675036-D5_louvre1.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675024-D5_louvre3.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675019-D5_louvre4.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675016-D5_louvre5.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675009-D5_louvre6.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11674995-D5_louvre8.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11674988-D5_louvre9.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11675004-D5_louvre7.jpg" width=500 >}}
+{{< figure src="/images/2008/10/18/leaving-paris-soon/11674984-D5_street1.jpg" width=500 >}}
 
 My trip to Paris for the RECOMB Comparative Genomics workshop is coming to an
 end. It has been a great week.

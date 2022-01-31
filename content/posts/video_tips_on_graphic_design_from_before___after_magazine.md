@@ -2,7 +2,7 @@
 date: 2010-09-22 09:47:00 +08:00
 category: design
 
-{% img /images/2010/09/22/video-tips-on-graphic-design-from-before-afte/15316617-media_httpwwwbamagazi_xfiFq.gif 500 %}
+{{< figure src="/images/2010/09/22/video-tips-on-graphic-design-from-before-afte/15316617-media_httpwwwbamagazi_xfiFq.gif" width=500 >}}
 
 via [bamagazine.com](http://www.bamagazine.com/Articles.asp?ID=172)
 

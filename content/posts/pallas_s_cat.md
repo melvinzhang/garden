@@ -2,7 +2,7 @@
 date: 2010-07-16 09:20:07 +08:00
 category: cat
 
-{% img http://www.biolib.cz/IMG/GAL/10521.jpg 500 %}
+{{< figure src="http://www.biolib.cz/IMG/GAL/10521.jpg" width=500 >}}
 
 These little (big) guys are the oldest living relative of modern day cats. The
 [Pallas’s Cat](http://en.wikipedia.org/wiki/Pallas%27s_Cat) is the oldest

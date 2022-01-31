@@ -9,7 +9,7 @@ language as (x,y) and (x,y,z) respectively.
 
 Recently, I wanted to create a simple illustration for a programming task on stacks. Using Asymptote, I created the following image:
 
-{% img /images/2009/04/02/asymptote-a-language-for-vector-graphics/11636347-media_httpmelvinzhang_uJgwh.png 480 %}
+{{< figure src="/images/2009/04/02/asymptote-a-language-for-vector-graphics/11636347-media_httpmelvinzhang_uJgwh.png" width=480 >}}
 
 A structured image is similar to a structured program because it can be
 decomposed into simpler elements that are repeated with slight differences,

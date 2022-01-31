@@ -8,6 +8,6 @@ Whenever someone asks me what is my major, I'll say that I am part Computer Scie
 
 Computational biology is the application of computational techniques for tackling problems in biology. The problems can be broadly classified into two types. The first is to assist in the design/interpretation/analysis of high throughput experiments, such as micro arrays, tandem mass spectroscopy and DNA sequencing machines. The second is to discover meaningful patterns from biological data to improve our understanding of the underlying biological mechanisms.
 
-{% img /images/2008/04/13/computational-biology/11636390-media_httpnbcrsdscedu_oCxpb.gif 500 %}
+{{< figure src="/images/2008/04/13/computational-biology/11636390-media_httpnbcrsdscedu_oCxpb.gif" width=500 >}}
 
 My own work in the comparative genomics of gene order is from the second category. The data I am considering is a set of gene orders, where a gene order is the sequence of genes that makes up the genome of a species. Although many species share a large number of genes, the arrangement of these genes are different due to large scale rearrangement events (see Figure 1 above) that has the effect of shuffling the genes around.

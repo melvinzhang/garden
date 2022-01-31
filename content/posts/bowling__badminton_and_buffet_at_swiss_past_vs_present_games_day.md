@@ -10,8 +10,8 @@ committee members to come down and support the games. I realized I shouldn’t
 avoid the event just because no one else from my class is going, I should just
 go down and get to know the other alumni and current students.
 
-{% img /images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636325-media_httpmelvinzhang_tDDut.png Bowling@CDANS %}
-{% img /images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636326-media_httpmelvinzhang_HpcsG.png Lane where I was playing %}
+{{< figure src="/images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636325-media_httpmelvinzhang_tDDut.png" caption="Bowling@CDANS" >}}
+{{< figure src="/images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636326-media_httpmelvinzhang_HpcsG.png" caption="Lane where I was playing" >}}
 
 The bowling competition was held at CDANS, opposite Swiss Cottage. I was
 “coerced” into joining the game and was assigned to play alongside two new
@@ -19,8 +19,8 @@ alumni. I figured they must be from Swiss Bowlers as they had their own
 carrying bags and bowling balls. We played a total of three games and my scores
 were: 104, 77, 83.
 
-{% img /images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636327-media_httpmelvinzhang_CDCAE.png Badminton@Swiss Hall %}
-{% img /images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636331-media_httpmelvinzhang_jeinC.png Floorball@Quadrangle %}
+{{< figure src="/images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636327-media_httpmelvinzhang_CDCAE.png" caption="Badminton@Swiss Hall" >}}
+{{< figure src="/images/2009/09/15/bowling-badminton-and-buffet-at-swiss-past-vs-present-games-day/11636331-media_httpmelvinzhang_jeinC.png" caption="Floorball@Quadrangle" >}}
 
 I had lunch with a group of alumni at CDANS before walking back to Swiss
 Cottage for the afternoon games. Due to lack of players, Annie and I joined in
