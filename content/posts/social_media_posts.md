@@ -1,6 +1,7 @@
 {"title": "Social media posts", "tags": []}
 
 Posts:
+* [FB posts 2022](/posts/fb_posts_2022/)
 * [FB posts 2021](/posts/fb_posts_2021/)
 * [FB posts 2020](/posts/fb_posts_2020/)
 * [FB posts 2019](/posts/fb_posts_2019/)

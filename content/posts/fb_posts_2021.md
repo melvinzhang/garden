@@ -1,4 +1,7 @@
 {"title": "FB posts 2021", "tags": []}
+Dec 14: Support charity and get rewarded with awesome games, ends Dec 14 2359 GMT. I chose https://www.autistica.org.uk/. The hardest part is entering all the 50+ steam keys...
+https://jinglejam.tiltify.com/
+
 Dec 08: YT recommended a video on smart notes which led me down a rabbit hole into the Zettelkasten method and Evergreen notes. What an eye-opener it has been! I've been writing notes badly all along, which explains why I rarely refer to them. The key is to write notes on one idea/concept and find connections between the new note and existing ones and link them with sufficient context.
 https://notes.andymatuschak.org/Evergreen_notes
 
