@@ -11,9 +11,9 @@ social media posts. The goal is to merge all the content into one file and
 extract parts of it to be published here.
 
 ## Current progress
-* [Learning Day sharings](/posts/learning_day/)
-* [Blog posts (2008-2011)](/posts/blog_posts/)
-* [Social media posts (2008-present)](/posts/social_media_posts/)
+* [Learning Day sharings]({{< relref "learning_day" >}})
+* [Social media posts]({{< relref "social_media_posts" >}})
+* [Blog posts (2008–2011)]({{< relref "blog_posts" >}})
 
 ## Inspiration
 * [Andy's working notes](https://notes.andymatuschak.org/)
