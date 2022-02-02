@@ -1,4 +1,4 @@
-{"title": "Music from YouTube  ", "tags": ["blog"]}
+{"title": "Music from YouTube", "tags": ["blog"]}
 date: 2008-02-10 08:26:00
 category: music
 

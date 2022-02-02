@@ -1,4 +1,4 @@
-{"title": "Visiting Dave Liu in Taipei  ", "tags": ["blog"]}
+{"title": "Visiting Dave Liu in Taipei", "tags": ["blog"]}
 date: 2011-04-20 22:17:17 +08:00
 category: travel
 

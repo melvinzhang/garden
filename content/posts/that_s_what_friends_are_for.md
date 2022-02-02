@@ -1,4 +1,4 @@
-{"title": "That's What Friends Are For  ", "tags": ["blog"]}
+{"title": "That's What Friends Are For", "tags": ["blog"]}
 date: 2008-05-09 05:55:00 +08:00
 category: music
 

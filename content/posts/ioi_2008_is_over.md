@@ -1,4 +1,4 @@
-{"title": "IOI 2008 is over  ", "tags": ["blog"]}
+{"title": "IOI 2008 is over", "tags": ["blog"]}
 date: 2008-08-24 14:37:54 +08:00
 category: contest
 

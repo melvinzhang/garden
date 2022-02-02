@@ -1,4 +1,4 @@
-{"title": "I'm noticing a trend  ", "tags": ["blog"]}
+{"title": "I'm noticing a trend", "tags": ["blog"]}
 date: 2008-12-17 13:55:12 +08:00
 category: software
 

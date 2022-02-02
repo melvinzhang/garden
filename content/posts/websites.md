@@ -1,4 +1,4 @@
-{"title": "Websites  ", "tags": ["blog"]}
+{"title": "Websites", "tags": ["blog"]}
 date: 2008-01-22 15:38:00 +08:00
 category: web
 

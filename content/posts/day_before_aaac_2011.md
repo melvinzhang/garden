@@ -1,4 +1,4 @@
-{"title": "Day before AAAC 2011  ", "tags": ["blog"]}
+{"title": "Day before AAAC 2011", "tags": ["blog"]}
 date: 2011-04-20 00:04:00 +08:00
 category: travel
 

@@ -1,4 +1,4 @@
-{"title": "Data driven programming assignments  ", "tags": ["blog"]}
+{"title": "Data driven programming assignments", "tags": ["blog"]}
 date: 2009-12-23 09:48:06 +08:00
 category: teaching
 

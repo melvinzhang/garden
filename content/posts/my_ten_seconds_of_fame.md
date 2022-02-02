@@ -1,4 +1,4 @@
-{"title": "My ten seconds of fame  ", "tags": ["blog"]}
+{"title": "My ten seconds of fame", "tags": ["blog"]}
 date: 2011-07-24 21:38:00 +08:00
 category: interview
 

@@ -1,4 +1,4 @@
-{"title": "Blogging from the command line  ", "tags": ["blog"]}
+{"title": "Blogging from the command line", "tags": ["blog"]}
 date: 2009-04-04 01:00:17 +08:00
 category: math
 

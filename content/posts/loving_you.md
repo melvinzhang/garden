@@ -1,4 +1,4 @@
-{"title": "Loving You  ", "tags": ["blog"]}
+{"title": "Loving You", "tags": ["blog"]}
 date: 2010-07-16 05:10:20 +08:00
 category: music
 

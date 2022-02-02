@@ -1,4 +1,4 @@
-{"title": "First post on Posterous!  ", "tags": ["blog"]}
+{"title": "First post on Posterous!", "tags": ["blog"]}
 date: 2010-07-09 12:47:10 +08:00
 category: blogging
 

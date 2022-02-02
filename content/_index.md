@@ -6,7 +6,7 @@ Learning about the [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkas
 has reignited my interest in developing ideas from notes[^ins]. This site[^bts] is one among many
 [Digital Gardens](https://github.com/MaggieAppleton/digital-gardeners#digital-garden-directory).
 
-## Writings
+## Starting points
 * [Learning Day sharings]({{< relref "learning_day" >}})
 * [Social media posts]({{< relref "social_media_posts" >}})
 * [Blog posts (2008–2011)]({{< relref "blog_posts" >}})

@@ -1,4 +1,4 @@
-{"title": "Relevance of research skills  ", "tags": ["blog"]}
+{"title": "Relevance of research skills", "tags": ["blog"]}
 date: 2009-12-23 09:37:42 +08:00
 comments: true
 category: research

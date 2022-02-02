@@ -1,4 +1,4 @@
-{"title": "Pallas's Cat  ", "tags": ["blog"]}
+{"title": "Pallas's Cat", "tags": ["blog"]}
 date: 2010-07-16 09:20:07 +08:00
 category: cat
 

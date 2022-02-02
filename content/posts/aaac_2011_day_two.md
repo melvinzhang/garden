@@ -1,4 +1,4 @@
-{"title": "AAAC 2011 Day Two  ", "tags": ["blog"]}
+{"title": "AAAC 2011 Day Two", "tags": ["blog"]}
 date: 2011-04-20 21:59:25 +08:00
 category: travel
 

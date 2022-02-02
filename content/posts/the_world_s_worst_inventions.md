@@ -1,4 +1,4 @@
-{"title": "The World's Worst Inventions  ", "tags": ["blog"]}
+{"title": "The World's Worst Inventions", "tags": ["blog"]}
 date: 2010-07-28 10:12:53 +08:00
 category: talk
 

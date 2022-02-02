@@ -1,4 +1,4 @@
-{"title": "SRG Day 2  ", "tags": ["blog"]}
+{"title": "SRG Day 2", "tags": ["blog"]}
 date: 2008-01-13 02:50:00 +08:00
 category: robotics
 

@@ -1,4 +1,4 @@
-{"title": "Computational Biology  ", "tags": ["blog"]}
+{"title": "Computational Biology", "tags": ["blog"]}
 date: 2008-04-13 13:51:00 +08:00
 category: research
 

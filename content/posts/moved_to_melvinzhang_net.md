@@ -1,4 +1,4 @@
-{"title": "Moved to melvinzhang.net  ", "tags": ["blog"]}
+{"title": "Moved to melvinzhang.net", "tags": ["blog"]}
 date: 2010-07-14 10:46:00 +08:00
 category: blogging
 

@@ -1,4 +1,4 @@
-{"title": "Guest blogging for NUS SoC blog  ", "tags": ["blog"]}
+{"title": "Guest blogging for NUS SoC blog", "tags": ["blog"]}
 date: 2009-01-06 16:54:24 +08:00
 category: soc
 

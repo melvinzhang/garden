@@ -1,4 +1,4 @@
-{"title": "Blogging with Email  ", "tags": ["blog"]}
+{"title": "Blogging with Email", "tags": ["blog"]}
 date: 2011-04-25 10:56:00 +08:00
 category: blogging
 

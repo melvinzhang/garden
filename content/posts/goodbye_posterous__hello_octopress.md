@@ -1,4 +1,4 @@
-{"title": "Goodbye Posterous, Hello Octopress  ", "tags": ["blog"]}
+{"title": "Goodbye Posterous, Hello Octopress", "tags": ["blog"]}
 date: 2013-05-08 20:57
 category: tools
 

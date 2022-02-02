@@ -1,4 +1,4 @@
-{"title": "Touring Xu Jia Hui  ", "tags": ["blog"]}
+{"title": "Touring Xu Jia Hui", "tags": ["blog"]}
 date: 2011-04-24 21:02:00 +08:00
 category: travel
 

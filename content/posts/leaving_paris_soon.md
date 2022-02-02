@@ -1,4 +1,4 @@
-{"title": "Leaving Paris soon  ", "tags": ["blog"]}
+{"title": "Leaving Paris soon", "tags": ["blog"]}
 date: 2008-10-18 14:05:00 +08:00
 category: travel
 

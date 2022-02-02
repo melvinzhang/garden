@@ -1,4 +1,4 @@
-{"title": "Googling yourself  ", "tags": ["blog"]}
+{"title": "Googling yourself", "tags": ["blog"]}
 date: 2008-04-14 01:47:29 +08:00
 category: search
 

@@ -1,4 +1,4 @@
-{"title": "Software is Hard  ", "tags": ["blog", "teaching"]}
+{"title": "Software is Hard", "tags": ["blog", "teaching"]}
 date: 2008-05-16 07:19:28 +08:00
 category: programming
 

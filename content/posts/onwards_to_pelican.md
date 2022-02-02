@@ -1,4 +1,4 @@
-{"title": "Onwards to Pelican  ", "tags": ["blog"]}
+{"title": "Onwards to Pelican", "tags": ["blog"]}
 date: 2020-08-04 19:11:51
 category: tools
 

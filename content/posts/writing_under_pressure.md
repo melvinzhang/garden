@@ -1,4 +1,4 @@
-{"title": "Writing under pressure  ", "tags": ["blog"]}
+{"title": "Writing under pressure", "tags": ["blog"]}
 date: 2009-01-25 13:53:29 +08:00
 category: writing
 

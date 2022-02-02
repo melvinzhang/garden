@@ -1,4 +1,4 @@
-{"title": "Bowling, Badminton and Buffet at Swiss Past Vs Present Games Day  ", "tags": ["blog"]}
+{"title": "Bowling, Badminton and Buffet at Swiss Past Vs Present Games Day", "tags": ["blog"]}
 date: 2009-09-15 16:49:59 +08:00
 category: scss
 

@@ -1,4 +1,4 @@
-{"title": "From Research to Teaching and Outreach  ", "tags": ["blog"]}
+{"title": "From Research to Teaching and Outreach", "tags": ["blog"]}
 date: 2009-12-23 09:42:13 +08:00
 category: outreach
 

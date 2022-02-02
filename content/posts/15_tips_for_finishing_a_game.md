@@ -1,4 +1,4 @@
-{"title": "15 tips for finishing a game  ", "tags": ["blog"]}
+{"title": "15 tips for finishing a game", "tags": ["blog"]}
 date: 2010-09-18 17:39:00 +08:00
 category: dev
 

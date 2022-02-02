@@ -1,4 +1,4 @@
-{"title": "My favorite algorithm  ", "tags": ["blog"]}
+{"title": "My favorite algorithm", "tags": ["blog"]}
 date: 2009-12-23 18:04:53 +08:00
 category: cs
 

@@ -1,4 +1,4 @@
-{"title": "Dangerous Knowledge  ", "tags": ["blog"]}
+{"title": "Dangerous Knowledge", "tags": ["blog"]}
 date: 2010-09-14 16:23:55 +08:00
 category: documentary
 

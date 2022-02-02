@@ -1,4 +1,4 @@
-{"title": "Asymptote: A language for vector graphics  ", "tags": ["blog"]}
+{"title": "Asymptote: A language for vector graphics", "tags": ["blog"]}
 date: 2009-04-02 05:56:50 +08:00
 category: graphics
 
