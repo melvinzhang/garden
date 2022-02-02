@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Melvin's Digital Garden"
+title = "Melvin's digital garden"
 theme = "cortex"
 
 [params]

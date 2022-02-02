@@ -1,4 +1,4 @@
-{"title": "Index", "type": "index"}
+{"title": "Melvin's digital garden", "type": "index"}
 
 # Welcome to my digital garden
 
