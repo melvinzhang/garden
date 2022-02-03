@@ -3,7 +3,9 @@
 Learing Day is a public meetup where everyone who attends shares for 15mins.
 Events are posted in this [FB group](https://www.facebook.com/groups/praxiumlearning/).
 
-Meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
+The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
+
+Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
 * [LD 111.5: Collaborative editing]({{< relref "ld_111_5__collaborative_editing" >}})
