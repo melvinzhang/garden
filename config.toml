@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Melvin's digital garden"
 theme = "cortex"
+disableKinds = ["RSS"]
 
 [params]
 email = "melvinzhang@gmail.com"
