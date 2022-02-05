@@ -2,7 +2,7 @@
 
 Tools/practices which has made a significant improvement for me.
 
-[Linux desktop setup]({{< relref "linux_desktop_setup" >}})
+[GNU/Linux]({{< relref "gnu_linux" >}})
 
 [Makefile]({{< relref "makefile" >}})
 
