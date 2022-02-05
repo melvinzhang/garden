@@ -7,3 +7,6 @@ publish:
 	hugo
 	rm -rvf public
 	git push
+
+clean:
+	-rm -rvf public
