@@ -14,4 +14,5 @@
 * [Computer science education]({{< relref "computer_science_education" >}})
 * [algorithmic trading]({{< relref "algorithmic_trading" >}})
 * [Bootstrapping compiler/interpreter]({{< relref "bootstrapping_compiler_interpreter" >}})
+* [Tools for thought]({{< relref "tools_for_thought" >}})
 
