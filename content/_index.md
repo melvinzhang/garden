@@ -10,6 +10,7 @@ They are no longer just an archive of thoughts but rather a way to develop new
 ideas.  I'm putting some of my notes here[^bts] in the spirit of [Learning in public](https://www.swyx.io/learn-in-public/).
 
 ## Starting points
+* [Game changers]({{< relref "game_changers" >}})
 * [Research interests]({{< relref "research_interests" >}})
 * [Learning Day sharings]({{< relref "learning_day" >}})
 * [Social media posts]({{< relref "social_media_posts" >}})
