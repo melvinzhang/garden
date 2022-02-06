@@ -1,11 +1,15 @@
 {"title": "Standing desk", "tags": []}
-Why standing? [http://opinionator.blogs.nytimes.com/2010/02/23/stand-up-while-you-read-this/?pagemode=print]
 
-Adjustable keyboard and mouse platform, [http://www.akp-inc.com/index.html]
+My current setup is IKEA coffee table on top of desk, as shown in
+[The Standesk 2200](https://alphacolin.com/ikea-standing-desk-for-22-dollars/)
 
-[http://kylecordes.com/2010/standing-desk]
+Standing allows me to move freely and if I need to move to get something, I
+don't have to "get up" from my chair.
 
-[http://blogs.lessthandot.com/index.php/ITProfessionals/ITProcesses/trying-the-stand-up-desk]
+I've always found sitting in a chair uncomfortable afer a while and have
+considered getting better chairs. I've used an exercise ball as a chair for a
+while and it is an improvement over a regular chair.
 
-Desk at home = 77cm
-Desk at Hoiio = 73.5cm
+Then I had the insight that getting rid of sitting altogether is a more elegant
+solution.
+

@@ -8,7 +8,7 @@ Tools/practices which has made a significant improvement for me.
 
 [Note taking]({{< relref "note_taking" >}}) specifically Zettelkasten, started from a YouTube video on smart notes
 
-[Strength training]({{< relref "strength_training" >}}) started with Body by Science and Gym machines, now with barbells
+[Strength training]({{< relref "strength_training" >}}) started with Body by Science and gym machines, now using barbells
 
 [Standing desk]({{< relref "standing_desk" >}})
 
@@ -26,12 +26,7 @@ Tools/practices which has made a significant improvement for me.
 
 [Pretotype]({{< relref "pretotype" >}})
 
-Electric toothbrush
-  those that vibrate rather than rotate
-  more enjoyable brushing experience since the hard work is taken care of
+[LaTeX]({{< relref "latex" >}})
 
-Minimalism
-
-LaTeX for technical writing
-  pandoc markdown to latex
+[Household appliances]({{< relref "household_appliances" >}})
 
