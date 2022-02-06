@@ -10,7 +10,7 @@ https://github.com/melvinzhang/meta2-lua
 converts compiler described in meta2 to lua
 
 http://mainisusuallyafunction.blogspot.com/2012/04/scheme-without-special-forms.html
-  metacircular evaluator in two parts
-  https://github.com/kmcallister/qoppa
+* metacircular evaluator in two parts
+* https://github.com/kmcallister/qoppa
 
 A Minimalistic Verified Bootstrapped Compiler

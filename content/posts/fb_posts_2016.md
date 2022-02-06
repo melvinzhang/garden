@@ -57,6 +57,7 @@ Mar 13: Solving Gregory Chaitin's "Exploring Randomness" chapter 3, exercise 7, 
 Ex 7: The software for this chapter uses an experimental new primitive function was-read to speed up the program prefix γ. I'm not satisfied with this---invent a better solution!
 
 Sol:
+```
 delta (length 1176) proves that H(x,y) <= H(x) + H(y|x) + 1176
 
 define delta
@@ -65,7 +66,7 @@ define delta
   let x  eval x*            [calculate x from x*]
   let y  (y* bits x*)       [calculate y from y* and bits of x*]
   cons x cons y nil
-
+```
 Seems a bit too good to be true. Can anyone verify if this solution is a proper one?
 https://github.com/melvinzhang/ait-lisp/commit/d9b89bbce79bf484f8d66b714426609b27665042
 

@@ -3,10 +3,10 @@
 refers to the method Luhmann use to number his notes, to give them a fixed address in his Zettelkasten
 for example:
 11
-  11a
-    11a1
-    11a2
-  11b
+* 11a
+  * 11a1
+  * 11a2
+* 11b
 12
 
 https://medium.com/@ethomasv/the-folgezettel-conundrum-20b14dc986ec

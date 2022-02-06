@@ -30,7 +30,7 @@ Publish markdown files using src/write_notes.py
 * render to web via Hugo and Cortex theme
 * alternatively consider [Quartz](https://quartz.jzhao.xyz/)
 
-## Possible improvements:
+## Possible improvements
 formatting mostly in org-mode
 * markdown seems to be better supported but maybe it doesn't matter as long as it is consistent
 * many variants of markdown, pandoc seems to have many good extensions

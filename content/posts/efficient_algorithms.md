@@ -6,9 +6,9 @@ smallest automata to separate two words
 Optimal Algorithm Configuration
 scheduling elevators
 online graph exploration
-  used by robot vacuum cleaner to clean every location
-  start from s visit all nodes and return to s, minimize the total cost
-  DFS has competitive ratio 2 for unweighted undirected graph and that is optimal
+* used by robot vacuum cleaner to clean every location
+* start from s visit all nodes and return to s, minimize the total cost
+* DFS has competitive ratio 2 for unweighted undirected graph and that is optimal
 finding code clones with mismatches
 
 CREATED: 200701060340

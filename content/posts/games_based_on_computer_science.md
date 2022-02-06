@@ -1,26 +1,26 @@
 {"title": "Games based on Computer Science", "tags": ["game", "computer_science", "teaching"]}
 
 CS Unplugged
-  http://csunplugged.com/
+* http://csunplugged.com/
 
 Lightbot
-  program robot to move
-  https://lightbot.com/
+* program robot to move
+* https://lightbot.com/
 
 Manufactoria
-  recognize binary string
-  http://pleasingfungus.com/Manufactoria/
+* recognize binary string
+* http://pleasingfungus.com/Manufactoria/
 
 Factorio
-  build complex pipelines
+* build complex pipelines
 
 Cube composer
-  functional transform puzzle
-  http://david-peter.de/cube-composer/
+* functional transform puzzle
+* http://david-peter.de/cube-composer/
 
 CodeCombat
-  programs agents
-  https://codecombat.com/
+* programs agents
+* https://codecombat.com/
 
 [A Rough List Of Programming/Optimization Puzzlers](https://steamcommunity.com/app/375820/discussions/0/481115363863361128/)
 
@@ -35,13 +35,13 @@ https://codecombat.com/ puzzles and rts with Python or Javascript
 https://logicworld.net/ build digital circuits
 
 Roblox
-  allows scripting with Lua
+* allows scripting with Lua
 
 Codekingdoms
-  taught at LCCL minecraft camp
-  block based language for modding minecraft and making roblox games
+* taught at LCCL minecraft camp
+* block based language for modding minecraft and making roblox games
 
 [Project Malmo](https://github.com/microsoft/malmo)
-  platform for AI research by MS research
-  ask students to write agents to solve tasks
+* platform for AI research by MS research
+* ask students to write agents to solve tasks
 

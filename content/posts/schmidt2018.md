@@ -9,9 +9,9 @@ parent topic. It is only an indication of the current train of thought.
 Numbering though alternate numbers and letters to represent an extensible tree structure.
 
 Three types of links:
-  overview of a subject
-  outline for a train of thought
-  direct reference
+* overview of a subject
+* outline for a train of thought
+* direct reference
 
 Keyword index serve as an entrypoint into the system. Only directly links to a few starting points for that keyword
 

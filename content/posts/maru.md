@@ -10,7 +10,7 @@ Steps Toward Expressive Programming Systems
 Yes, we can lookup the eval/apply function dynamically.
 Macros, message passing, multi methods can be implemented by the programmer
 
-#+BEGIN_SRC lisp
+```lisp
 (define eval (lambda (exp env)
   (apply (tuple-at *evaluators* (type-of exp)) (list exp env) env)))
 
@@ -18,10 +18,10 @@ Macros, message passing, multi methods can be implemented by the programmer
   (if (subr? fn)
     (call (<subr>-implementation fn) args env)
     (apply (tuple-at *applicators* (type-of fn)) (list fn args env) env))))
-#+END_SRC
+```
 
 ** Original language sematics expressed as composition rules
-#+BEGIN_SRC lisp
+```lisp
 (set-tuple-at *evaluators* <symbol> (lambda (exp env)
   (cdr (assoc exp env))))
 
@@ -36,5 +36,5 @@ Macros, message passing, multi methods can be implemented by the programmer
 
 (set-tuple-at *applicators* <expr> (lambda (fn args env)
   (eval (<expr>-body fn) (pairlis (<expr>-formals fn) args (<expr>-environment fn)))))
-#+END_SRC
+```
 
