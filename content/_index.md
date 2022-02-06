@@ -11,6 +11,7 @@ ideas.  I'm putting some of my notes here[^bts] in the spirit of [Learning in pu
 
 ## Starting points
 * [Game changers]({{< relref "game_changers" >}})
+* [Contributions]({{< relref "contributions" >}})
 * [Research interests]({{< relref "research_interests" >}})
 * [Learning Day sharings]({{< relref "learning_day" >}})
 * [Social media posts]({{< relref "social_media_posts" >}})
