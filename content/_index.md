@@ -10,12 +10,13 @@ They are no longer just an archive of thoughts but rather a way to develop new
 ideas.  I'm putting some of my notes here[^bts] in the spirit of [Learning in public](https://www.swyx.io/learn-in-public/).
 
 ## Starting points
+* [Top of mind]({{< relref "top_of_mind" >}})
 * [Game changers]({{< relref "game_changers" >}})
 * [Contributions]({{< relref "contributions" >}})
 * [Research interests]({{< relref "research_interests" >}})
-* [Learning Day sharings]({{< relref "learning_day" >}})
+* [Learning Day]({{< relref "learning_day" >}})
 * [Social media posts]({{< relref "social_media_posts" >}})
-* [Blog posts (2008–2011)]({{< relref "blog_posts" >}})
+* [Blog posts]({{< relref "blog_posts" >}})
 
 [^bts]: The [source](https://github.com/melvinzhang/garden) is hosted on
 [GitHub](https://github.com/). [Hugo](https://gohugo.io/) generates the site
