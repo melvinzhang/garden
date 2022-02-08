@@ -5,6 +5,7 @@ Interactive fiction
 * Zork
 * Curveship
   * https://nickm.com/curveship/
+* https://ifdb.org/
 
 MUD
 * MUD1 and MUD2
