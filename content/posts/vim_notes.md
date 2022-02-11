@@ -11,7 +11,6 @@ src/print_tags.py to collect tags and generate a tags file to enable the above c
 * using the title as id (like wikis) creates links that are more readable compared to Luhmann's id or timestamps
 
 notes initially folded using modeline in first note to set markers as *- and -*.
-typing the opening marker automatically inserts the closing marker
 
 title as identifier
 * title is not stable, renaming a title breaks links
@@ -29,6 +28,8 @@ Prefix tags with # and prefix backlinks with @ in tags file
 Publish markdown files using src/write_notes.py
 * render to web via Hugo and Cortex theme
 * alternatively consider [Quartz](https://quartz.jzhao.xyz/)
+
+Modify Ctrl-] to create a new note with the word under cursor if it does not exist
 
 ## Possible improvements
 formatting mostly in org-mode

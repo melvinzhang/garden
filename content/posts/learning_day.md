@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 112.5: Evergreen notes]({{< relref "ld_112_5__evergreen_notes" >}})
 * [LD 112: Nature's Phlebotomist]({{< relref "ld_112__nature_s_phlebotomist" >}})
 * [LD 111.5: Collaborative editing]({{< relref "ld_111_5__collaborative_editing" >}})
 * [LD 111: Cuttle]({{< relref "ld_111__cuttle" >}})
