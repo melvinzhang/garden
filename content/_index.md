@@ -6,8 +6,9 @@ Since 2006, I've kept notes on various subjects of interest. In 2021, I
 learnt about the [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten) and [Digital
 Gardens](https://maggieappleton.com/garden-history) and it changed the way I view my notes.
 
-They are no longer just an archive of thoughts but rather a way to develop new
-ideas.  I'm putting some of my notes here[^bts] in the spirit of [Learning in public](https://www.swyx.io/learn-in-public/).
+They are no longer an archive but rather a way to develop and incubate new ideas.
+I'm putting some of my notes here[^bts] in the spirit of
+[Learning in public](https://www.swyx.io/learn-in-public/).
 
 ## Starting points
 * [Top of mind]({{< relref "top_of_mind" >}})

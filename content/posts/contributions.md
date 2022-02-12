@@ -1,7 +1,9 @@
 {"title": "Contributions", "tags": []}
 
 * [AI comparison]({{< relref "ai_comparison" >}})
+* [Becoming a better problem solver: A CS perspective]({{< relref "becoming_a_better_problem_solver__a_cs_perspective" >}})
 * [bit-scheme]({{< relref "bit_scheme" >}})
+* [Building a Turing Machine emulator to explore Turing’s great ideas]({{< relref "building_a_turing_machine_emulator_to_explore_turing_s_great_ideas" >}})
 * [Career chats @Swiss 2022]({{< relref "career_chats__swiss_2022" >}})
 * [Clustering based Gene Cluster Discovery]({{< relref "clustering_based_gene_cluster_discovery" >}})
 * [Computer science education]({{< relref "computer_science_education" >}})
@@ -12,11 +14,13 @@
 * [Gene Order Phylogeny]({{< relref "gene_order_phylogeny" >}})
 * [Gene Team Tree]({{< relref "gene_team_tree" >}})
 * [LCCL Computational thinking day]({{< relref "lccl_computational_thinking_day" >}})
+* [Lessons from Developing an AI to Play Magic: The Gathering]({{< relref "lessons_from_developing_an_ai_to_play_magic__the_gathering" >}})
 * [melvinzhang.net]({{< relref "melvinzhang_net" >}})
 * [MGRAlgorithm]({{< relref "mgralgorithm" >}})
 * [Ortholog Assignment Problem]({{< relref "ortholog_assignment_problem" >}})
 * [scheme2llvm compiler]({{< relref "scheme2llvm_compiler" >}})
 * [Sliding Window Cluster]({{< relref "sliding_window_cluster" >}})
+* [Solving the TSP for warehouses]({{< relref "solving_the_tsp_for_warehouses" >}})
 * [telegram bot for teaching english]({{< relref "telegram_bot_for_teaching_english" >}})
 * [Unequal Content Phylogeny]({{< relref "unequal_content_phylogeny" >}})
 * [Using Elo rating to estimate learner's skill and question difficulty]({{< relref "using_elo_rating_to_estimate_learner_s_skill_and_question_difficulty" >}})
