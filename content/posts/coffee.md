@@ -5,7 +5,7 @@ Vietnamese coffee made with phin is as strong as an expresso.
 
 Trung Nguyen
 * https://en.wikipedia.org/wiki/Trung_Nguy%C3%AAn
-* 6.5SGD for 500g for "S" blend on Lazzda
+* 6.5SGD for 500g for "S" blend on Lazada
 * 7SGD for phin on Lazada
 
 Gold Kili Kopi-O Kosong

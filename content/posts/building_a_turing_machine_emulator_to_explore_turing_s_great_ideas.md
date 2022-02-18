@@ -11,5 +11,5 @@ In this talk, we will develop our own Turing Machine emulator and execute some
 of Turing’s machines and show how his ideas shaped our understanding of
 Programming and Computer Science.
 
-https://vimeo.com/162980170
+{{< vimeo 162980170 >}}
 

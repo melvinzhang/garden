@@ -11,9 +11,6 @@ Manufactoria
 * recognize binary string
 * http://pleasingfungus.com/Manufactoria/
 
-Factorio
-* build complex pipelines
-
 Cube composer
 * functional transform puzzle
 * http://david-peter.de/cube-composer/
