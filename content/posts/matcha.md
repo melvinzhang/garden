@@ -1,6 +1,6 @@
 {"title": "Matcha", "tags": ["purchase"]}
 
-https://www.greentea.sg/pages/matcha-purchase-guide
+[Matcha infographic](https://matcha-tea.com/matcha/the-match-tea-infographic-tells-the-whole-story)
 
 [Making Matcha (step by step)](https://www.youtube.com/watch?v=nmzj4FBH_Qg)
 
@@ -8,11 +8,11 @@ https://www.nussadoclub.org/matcha/ recommends [Aoarashi](https://japanesetea.sg
 
 [Shaken not whisked](https://www.youtube.com/watch?v=EYwZtAMi6HY)
 
-From greentea.sg
+From [greentea.sg](https://www.greentea.sg/pages/matcha-purchase-guide)
 * Meiko Uji Matcha (culinary grade), 28/100g
 * Harumi Nishio Daily Matcha, 35/100g
 
-From japanesetea.sg
+From [japanesetea.sg](https://japanesetea.sg/matcha/standard/)
 * Wakatake (culinary grade), 33.5/100g
 * Aoarashi by Marukyu Koyamaen, 39/100g
 
