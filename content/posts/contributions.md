@@ -13,6 +13,7 @@
 * [Gene Cluster Discovery]({{< relref "gene_cluster_discovery" >}})
 * [Gene Order Phylogeny]({{< relref "gene_order_phylogeny" >}})
 * [Gene Team Tree]({{< relref "gene_team_tree" >}})
+* [How Alan Turing accidentally invented Software]({{< relref "how_alan_turing_accidentally_invented_software" >}})
 * [LCCL Computational thinking day]({{< relref "lccl_computational_thinking_day" >}})
 * [Lessons from Developing an AI to Play Magic: The Gathering]({{< relref "lessons_from_developing_an_ai_to_play_magic__the_gathering" >}})
 * [melvinzhang.net]({{< relref "melvinzhang_net" >}})

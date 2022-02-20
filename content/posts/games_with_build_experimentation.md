@@ -38,4 +38,6 @@ Deck builder
 * Dream Quest
 * [Card Quest](https://store.steampowered.com/app/493080/Card_Quest/)
 * Slay the spire
+* Quantum Protocol
+* Vault of the Void
 
