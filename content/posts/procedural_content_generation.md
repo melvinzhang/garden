@@ -7,8 +7,9 @@ Dwarf Fortress
 
 Minecraft
 * world gen
+* [Classic Minecraft](https://classic.minecraft.net/)
 
-AI Dungeon
+[AI Dungeon](https://play.aidungeon.io/)
 * text gen, GPT-3
 
 Ultima Ratio Regum

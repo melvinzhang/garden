@@ -1,9 +1,13 @@
-{"title": "LD 39: Book \"Ada Lovelace: The Making of a Computer Scientists\"", "tags": []}
-* based on letters from the Lovelace-Byron archive at the Bodleian Library of the University of Oxford
-* [AAL timeline](https://www.timetoast.com/timelines/ada-lovelace)
-* [AAL's mathematical papers](https://www.claymath.org/publications/ada-lovelaces-mathematical-papers)
-* [Sketch of the Analytic Engine](https://www.fourmilab.ch/babbage/sketch.html)
-* Quotes from AAL's notes at the end of her translation
+{"title": "Ada Lovelace: The Making of a Computer Scientist", "tags": []}
+based on letters from the Lovelace-Byron archive at the Bodleian Library of the University of Oxford
+
+[AAL timeline](https://www.timetoast.com/timelines/ada-lovelace)
+
+[AAL's mathematical papers](https://www.claymath.org/publications/ada-lovelaces-mathematical-papers)
+
+[Sketch of the Analytic Engine](https://www.fourmilab.ch/babbage/sketch.html)
+
+Quotes from AAL's notes at the end of her translation:
 
 > But the science of operations, as derived from mathematics more especially,
 is a science of itself, and has its own abstract truth and value; just as
