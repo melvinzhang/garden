@@ -4,13 +4,23 @@ deck. It predates Magic: the Gathering but has similar mechanics such as units
 and effects. A simple alternative to the ever-growing complexities of MTG and
 the like.
 
+[cuttle@bgg](https://boardgamegeek.com/boardgame/115370/cuttle)
+
 # open problems
-is there a first player advantage?
-do the variants make the game more strategic?
-can an AI play better than a person?
-can we learn strategy from an AI?
+* is there a first player advantage?
+* do the variants make the game more strategic?
+* can an AI play better than a person?
+* can we learn strategy from an AI?
+
+# software
+* [multiplayer web](https://www.cuttle.cards/)
+* [play with bot](https://gloryofrobots.itch.io/cuttle)
 
 # rules
+* [Richard Sipie's Cuttle FAQ](https://www.geocities.ws/richardsipie/cuttle.htm)
+* [pagat rules](https://www.pagat.com/combat/cuttle.html)
+* [shmup rules](https://github.com/shmup/card-game-rules/blob/master/cuttle.md)
+
 First player starts with 5 cards, second player starts with 6.
 Rest of the cards are in the draw pile. There is an empty scrap pile
 
@@ -61,11 +71,4 @@ variant:
 * Jack - Transfer control of an opponent's card in play.
 * Queen - (are not protected by themself or by other Queens. if a Queen was Jacked, it does not protect that Jack just like it does not protect itself)
 * King - Reduce the number of points needed to win by 7.
-
-rules https://github.com/shmup/card-game-rules/blob/master/cuttle.md
-rules https://www.pagat.com/combat/cuttle.html
-
-# software
-multiplayer web https://www.cuttle.cards/
-play with bot https://gloryofrobots.itch.io/cuttle
 
