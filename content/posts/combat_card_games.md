@@ -3,6 +3,12 @@
 # Custom cards
 * Yugioh
 * Magic: the Gathering
+* Prismata
+* KARDS - The WWII Card Game
+* The Horus Heresy: Legions
+* Keyforge
+  * each deck is unique, procedurally generated
+  * community site for online play, https://thecrucible.online/
 
 # Using a standard 52 card deck
 * [Cuttle]({{< relref "cuttle" >}})

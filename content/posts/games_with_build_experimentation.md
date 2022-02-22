@@ -29,6 +29,7 @@ Collectible card games
 * 2047 CCG
 * Library of Ruina
   * defeat guests and collect books
+* [Hidden Dimensions 3](http://nulll-void.com/games/wiki/doku.php?id=hd3:hd3)
 
 Deck builder
 * Dominion
@@ -40,4 +41,5 @@ Deck builder
 * Slay the spire
 * Quantum Protocol
 * Vault of the Void
+* Star Realms
 
