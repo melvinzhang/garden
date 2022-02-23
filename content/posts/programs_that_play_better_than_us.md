@@ -11,3 +11,5 @@ Magic: The Gathering
 
 https://www.slideshare.net/melvinzhang/programs-that-play-better-than-us
 
+Presented at Friday Hacks #117, 9th September 2016
+

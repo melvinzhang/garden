@@ -1,6 +1,7 @@
 {"title": "Contributions", "tags": []}
 
 * [AI comparison]({{< relref "ai_comparison" >}})
+* [Beating us at our own Games]({{< relref "beating_us_at_our_own_games" >}})
 * [Becoming a better problem solver: A CS perspective]({{< relref "becoming_a_better_problem_solver__a_cs_perspective" >}})
 * [bit-scheme]({{< relref "bit_scheme" >}})
 * [Building a Turing Machine emulator to explore Turing’s great ideas]({{< relref "building_a_turing_machine_emulator_to_explore_turing_s_great_ideas" >}})
@@ -10,6 +11,7 @@
 * [CS4243 project]({{< relref "cs4243_project" >}})
 * [CS5228 project]({{< relref "cs5228_project" >}})
 * [Fourier-transform infrared spectroscopy]({{< relref "fourier_transform_infrared_spectroscopy" >}})
+* [Functional programming from first principles]({{< relref "functional_programming_from_first_principles" >}})
 * [Gene Cluster Discovery]({{< relref "gene_cluster_discovery" >}})
 * [Gene Order Phylogeny]({{< relref "gene_order_phylogeny" >}})
 * [Gene Team Tree]({{< relref "gene_team_tree" >}})
@@ -17,6 +19,7 @@
 * [LCCL Computational thinking day]({{< relref "lccl_computational_thinking_day" >}})
 * [Lessons from Developing an AI to Play Magic: The Gathering]({{< relref "lessons_from_developing_an_ai_to_play_magic__the_gathering" >}})
 * [melvinzhang.net]({{< relref "melvinzhang_net" >}})
+* [META II: A compiler-compiler that generates its own code]({{< relref "meta_ii__a_compiler_compiler_that_generates_its_own_code" >}})
 * [MGRAlgorithm]({{< relref "mgralgorithm" >}})
 * [Optimize all the things with MiniZinc]({{< relref "optimize_all_the_things_with_minizinc" >}})
 * [Ortholog Assignment Problem]({{< relref "ortholog_assignment_problem" >}})

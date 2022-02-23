@@ -1,5 +1,7 @@
 {"title": "Coffee", "tags": ["purchase"]}
 
+Ratio of water to coffee should be about 17:1
+
 Ground coffee is cheaper per gram as compared to coffee bags.
 Vietnamese coffee made with phin is as strong as an expresso.
 
