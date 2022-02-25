@@ -1,9 +1,14 @@
 {"title": "Coffee", "tags": ["purchase"]}
 
-Ratio of water to coffee should be about 17:1
+Tried Vietnamese coffee at Fat Saigon Boy outlet in Science Park
 
-Ground coffee is cheaper per gram as compared to coffee bags.
-Vietnamese coffee made with phin is as strong as an expresso.
+Brewed with a metal filter (phin), see https://www.youtube.com/watch?v=HURkJz9N0QI
+
+In Singapore, phin and Vietnamese coffee power are imported by [Mei Le Pte Ltd](https://meile.com.sg/products)
+
+Ratio of water to coffee should be about 14-18:1, consider 17:1 for drip coffee brewing
+
+Ground coffee is cheaper per gram as compared to coffee powder in prepackaged filter bags
 
 Trung Nguyen
 * https://en.wikipedia.org/wiki/Trung_Nguy%C3%AAn
