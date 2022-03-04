@@ -8,7 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
-* [LD 114: Metabolism myths]({{< relref "metabolism_myths" >}})
+* [LD 114: Regicide]({{< relref "regicide" >}})
 * [LD 113.5: Coffee]({{< relref "coffee" >}})
 * [LD 113: Matcha]({{< relref "matcha" >}})
 * [LD 112.5: Evergreen notes]({{< relref "ld_112_5__evergreen_notes" >}})

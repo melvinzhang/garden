@@ -17,3 +17,5 @@ From [japanesetea.sg](https://japanesetea.sg/matcha/standard/)
 * Aoarashi by Marukyu Koyamaen, 39/100g
 
 Horikoshi Mini Glass Jar With Grip Lid
+
+Use water at 80c

@@ -19,9 +19,9 @@ Gold Kili Kopi-O Kosong
 * http://goldkili.com/kopishop-story/
 * 4.70 for 20x10g
 
-OWL Kopi-O Kosong
+OWL Kopitiam Roast & Ground Heritage Blend Coffee, 500g
 * https://www.owl.com.sg/our_story/our-history/
-* 5.90 for 20x10g
+* 6.45 for 500g
 
 Yit Foh Tenom Kopi O Kosong
 * 5.70 for 12x10g (9.50 for 20)
