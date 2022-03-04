@@ -1,10 +1,10 @@
 {"title": "Regicide", "tags": []}
 
-From https://www.badgersfrommars.com/, funded by Kickstarter in May 2020
+From https://www.badgersfrommars.com/, [funded by Kickstarter in May 2020](https://www.kickstarter.com/projects/badgersfrommars/regicide)
 
-1-4 coop card game, players against the royals.
+1-4 players against the royals, using standard 52-card deck and 2 jokers.
 
-Android/iOS Companion App to keep track of the health/attack. Solo mode.
+Android/iOS Companion App to keep track of the health/attack and solo mode.
 
 [Learn to play](https://www.youtube.com/watch?v=7XoRlKzLobk)
 
