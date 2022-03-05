@@ -12,9 +12,9 @@
 
 # Using a standard 52 card deck
 * [Cuttle]({{< relref "cuttle" >}})
+* [Regicide]({{< relref "regicide" >}})
 * [Le Val](https://levaldesetoiles.fr/)
 * [Dueling Nobles](https://boardgamegeek.com/boardgame/14715/dueling-nobles)
-* [Regicide]({{< relref "regicide" >}})
 * [Duel 52](http://juddmadden.com/duel52/index.html)
 * [Doom Crop](http://www.doomcrop.com/)
 * [The battle for Trionfey](http://www.fan-o.com/instructions.html)

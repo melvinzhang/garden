@@ -8,7 +8,5 @@
 
 [combat card games]({{< relref "combat_card_games" >}})
 
-[Matcha]({{< relref "matcha" >}})
-
-[Coffee]({{< relref "coffee" >}})
+[Single player games]({{< relref "single_player_games" >}})
 

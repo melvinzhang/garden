@@ -19,6 +19,13 @@ CodeCombat
 * programs agents
 * https://codecombat.com/
 
+Human Resource Machine
+* https://tomorrowcorporation.com/human-resource-machine-hour-of-code-edition
+
+Code Master
+* by Mark Engelberg
+* https://www.thinkfun.com/products/code-master/
+
 [A Rough List Of Programming/Optimization Puzzlers](https://steamcommunity.com/app/375820/discussions/0/481115363863361128/)
 
 https://www.gamedeveloper.com/disciplines/games-that-teach-programming-a-brief-overview
@@ -41,4 +48,6 @@ Codekingdoms
 [Project Malmo](https://github.com/microsoft/malmo)
 * platform for AI research by MS research
 * ask students to write agents to solve tasks
+
+Hour of Code
 
