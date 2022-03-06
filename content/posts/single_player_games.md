@@ -11,6 +11,13 @@ https://myautoma.github.io/
 
 [Gridcannon](https://www.pentadact.com/2019-08-20-gridcannon-a-single-player-game-with-regular-playing-cards/)
 
+Spirit Island
+* defeat invaders using fast and slow powers
+* invaders explore, build, and ravage
+* played on a map with different terrains
+
+[Legendary: A Marvel Deck Building Game](https://piotrdrozdz96.github.io/Marvel-Legendary/)
+
 [Card Capture](https://boardgamegeek.com/boardgame/264566/card-capture)
 
 [Poker Suite by Cheapass Games](http://www.standardgames.com/PokerSuite.pdf)

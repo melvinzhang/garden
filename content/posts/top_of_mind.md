@@ -10,3 +10,7 @@
 
 [Single player games]({{< relref "single_player_games" >}})
 
+[hot chocolate]({{< relref "hot_chocolate" >}})
+
+[IT explained with games]({{< relref "it_explained_with_games" >}})
+

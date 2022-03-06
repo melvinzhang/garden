@@ -13,7 +13,9 @@ Playing without a game model
 [MagArena](https://github.com/magarena/magarena/wiki/AI-Overview)
 * [AI comparison]({{< relref "ai_comparison" >}})
 
-[Race for the galaxy AI](http://keldon.net/rftg/)
+Race for the Galaxy
+* [Source for Keldon Jones's AI](http://keldon.net/rftg/)
+* [Video of Temple Gate Games's AI](https://www.gdcvault.com/play/1025226/-Race-for-the-Galaxy)
 
 [Dominion AI by Temple Gate](https://www.polygon.com/22440924/dominion-app-neural-network-ai-release-date-price)
 

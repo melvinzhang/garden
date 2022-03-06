@@ -37,9 +37,6 @@
   * defeat nameless
   * static market
   * no shuffling
-* Spirit Island
-  * defeat invaders
-  * random market (draw 4, keep 1)
 * Spectromancer
   * reduce opponent hp
   * random market
@@ -47,5 +44,6 @@
   * defeat sequence of enemies
   * reward cards
   * customize deck
+* Thunderstone
 * Nowhere Prophet
 * Codex
