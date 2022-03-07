@@ -1,6 +1,9 @@
 {"title": "IT explained with games", "tags": []}
 
-https://github.com/OMerkel/Scrum-Card-Game
+[Scrum Card Game](https://github.com/OMerkel/Scrum-Card-Game)
+* experince work in a simulated SCRUM sprint
+* contains story, event, solution, problem cards
+* stories are IT themes, rest are generic
 
 [Ship It!](https://postlight.com/insights/ship-it-the-game-of-product-management)
 * goal is to be the first to ship all three phases of the project
