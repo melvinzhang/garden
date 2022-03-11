@@ -49,5 +49,8 @@ Codekingdoms
 * platform for AI research by MS research
 * ask students to write agents to solve tasks
 
+[Turing Tumble](https://www.turingtumble.com/)
+* build an analog computer using falling marbles
+
 Hour of Code
 

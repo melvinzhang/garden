@@ -31,3 +31,7 @@ Using games
 * [Games based on Computer Science]({{< relref "games_based_on_computer_science" >}})
 
 [Computational thinking]({{< relref "computational_thinking" >}})
+
+Web
+* https://brython.info/
+

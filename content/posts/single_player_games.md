@@ -16,6 +16,12 @@ Spirit Island
 * invaders explore, build, and ravage
 * played on a map with different terrains
 
+Mage Knight
+
+Paladin's Oath
+
+Gloomhaven
+
 [Legendary: A Marvel Deck Building Game](https://piotrdrozdz96.github.io/Marvel-Legendary/)
 
 [Card Capture](https://boardgamegeek.com/boardgame/264566/card-capture)

@@ -1,8 +1,8 @@
 {"title": "Deck Builder", "tags": []}
 
-* Dominion
-  * the original, most vp wins
-  * static market
+[Static market games](https://boardgamegeek.com/geeklist/239929/static-market-deck-building-games) have a fixed set of cards to acquire.
+
+* [Dominion]({{< relref "dominion" >}})
 * Ascension
   * most honor points wins
   * random market
@@ -44,6 +44,7 @@
   * defeat sequence of enemies
   * reward cards
   * customize deck
+* Puzzle Strike
 * Thunderstone
 * Nowhere Prophet
 * Codex
