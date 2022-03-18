@@ -10,6 +10,9 @@ Ratio of water to coffee should be about 14-18:1, consider 17:1 for drip coffee 
 
 Ground coffee is cheaper per gram as compared to coffee powder in prepackaged filter bags
 
+Coffee interferes with cortisol production. Morning is not the best time as cortisol should be high.
+Prefer mid-morning/early afternoon (9-11am), before 2-3pm.
+
 Trung Nguyen
 * https://en.wikipedia.org/wiki/Trung_Nguy%C3%AAn
 * 6.5SGD for 500g for "S" blend on Lazada
