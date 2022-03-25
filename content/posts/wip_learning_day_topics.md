@@ -1,5 +1,4 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
-* [Ranking items given positive and negative ratings]({{< relref "ranking_items_given_positive_and_negative_ratings" >}})
 * [uplift modelling](https://speakerdeck.com/gerbenoostra/preventing-churn-like-a-bandit)
 * Reading your mind
 * The Signal and the Noise

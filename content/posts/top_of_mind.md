@@ -14,3 +14,5 @@
 
 [IT explained with games]({{< relref "it_explained_with_games" >}})
 
+[Algorithms for people]({{< relref "algorithms_for_people" >}})
+
