@@ -34,3 +34,7 @@ Kismet
 [Thinking About People: Designing Games for Social Simulation](https://www.gamasutra.com/blogs/MituKhandakerKokoris/20150325/239662/Thinking_About_People_Designing_Games_for_Social_Simulation.php)
 
 [Game Technology Center @ ethz](https://gtc.inf.ethz.ch/research/emergent-narrative.html)
+
+Generating puzzles
+* solver, generator, filter
+

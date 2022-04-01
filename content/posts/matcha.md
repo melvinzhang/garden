@@ -16,6 +16,7 @@ From [japanesetea.sg](https://japanesetea.sg/matcha/standard/)
 * Wakatake (culinary grade), 33.5/100g
 * Aoarashi by Marukyu Koyamaen, 39/100g
 
-Horikoshi Mini Glass Jar With Grip Lid
+Oasis Stainless Steel Insulated Food Flask 450ML
+ONEISALL 400ml Stainless Steel Vacuum Flask
 
 Use water at 80c

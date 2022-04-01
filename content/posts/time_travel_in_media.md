@@ -23,9 +23,28 @@ Gateways by SmudgedCat
 5D Chess with Multiverse Time Trave
 * [trailer](https://www.youtube.com/watch?v=EBzX1ybigmw)
 
+[Block Pushing puzzle Game But You Can Time Travel](https://versificator.itch.io/block-pushing-puzzle-game-but-you-can-time-travel)
+* Sokoban with time portals that can travel a fixed amount forward or backwards in time
+* Boxes cannot enter time portals
+* Past selves are not allowed to see current self.
+* Past selves do not need to return to portal.
+
+[Executioner's insomnia](https://gamaverse.com/executioners-insomnia-game/)
+
+[Causality](https://store.steampowered.com/app/559930/Causality/)
+
 Iron Danger
+
+[Undo](https://lunadyedred.itch.io/undo) short 20 level puzzle where you can rewind the time of objects
+
+[Tres Undos](https://knexator.itch.io/tres-undos) multiple layers of undo and objects immune to them.
+
+[So Broken](https://coreymartin.itch.io/sobroken) sokoban where you are immune to undo
 
 http://www.paradox.how/
 
-https://en.wikipedia.org/wiki/List_of_games_containing_time_travel
-
+References:
+* [List of games containing time travel](https://en.wikipedia.org/wiki/List_of_games_containing_time_travel)
+* [Puzzles About Time Travel](https://knexator.github.io/time-genres/)
+* [Modelling time travel in fiction](https://qntm.org/models)
+* [Time Travel in Fiction Rundown](https://www.youtube.com/watch?v=d3zTfXvYZ9s)
