@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 116.5: Huberman daily protocols]({{< relref "huberman_daily_protocols" >}})
 * [LD 116: Sokoban]({{< relref "sokoban" >}})
 * [LD 115.5: Time travel in media]({{< relref "time_travel_in_media" >}})
 * [LD 115: Ranking items given positive and negative ratings]({{< relref "ranking_items_given_positive_and_negative_ratings" >}})

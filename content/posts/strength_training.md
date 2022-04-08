@@ -1,5 +1,9 @@
 {"title": "Strength training", "tags": []}
 
+# Timing
+8-10pm is more than 12 hours after waking, not ideal.
+Try shifting to 4-6pm, just before dinner.
+
 # Current plan
 * Zercher squat
 * Zercher walk
