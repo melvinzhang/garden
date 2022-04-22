@@ -1,6 +1,7 @@
 {"title": "Sokoban", "tags": []}
 
 Invented in 1981 by Hiroyuki Imabayashi
+* [Sokoban Touch](https://play.google.com/store/apps/details?id=jp.thinkingrabbit.sokobantouch_free)
 * [Sokoban in JS](http://birrell.org/andrew/sokoban/)
 
 Proved PSPACE-complete in 1997

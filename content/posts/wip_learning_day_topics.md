@@ -1,4 +1,8 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* kolmogorov complexity
+* busy beaver on the counter machine
+* simulate bitcoin mining using online sha256 calculator
+  * https://emn178.github.io/online-tools/sha256.html
 * [uplift modelling](https://speakerdeck.com/gerbenoostra/preventing-churn-like-a-bandit)
 * Reading your mind
 * The Signal and the Noise
