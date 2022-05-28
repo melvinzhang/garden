@@ -8,6 +8,8 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 119: Origami]({{< relref "origami" >}})
+* [LD 118.5: Stablecoins]({{< relref "stablecoins" >}})
 * [LD 118: Waste treatment]({{< relref "waste_treatment" >}})
 * [LD 117.5: Survival analysis]({{< relref "survival_analysis" >}})
 * [LD 117: Blockchain mining]({{< relref "blockchain_mining" >}})
@@ -69,7 +71,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 88.0: Natural Language Processing]({{< relref "ld_88_0__natural_language_processing" >}})
 * [LD 87.5: Groceries 1]({{< relref "ld_87_5__groceries_1" >}})
 * [LD 87.0: Decentralized Autonomous Organizations]({{< relref "ld_87_0__decentralized_autonomous_organizations" >}})
-* [LD 86.5: Stablecoin]({{< relref "ld_86_5__stablecoin" >}})
+* [LD 86.5: Stablecoins]({{< relref "stablecoins" >}})
 * [LD 86.0: Non-Fungible Tokens]({{< relref "ld_86_0__non_fungible_tokens" >}})
 * [LD 85.5: DALL·E]({{< relref "ld_85_5__dall_e" >}})
 * [LD 85.0: Camera and lenses]({{< relref "ld_85_0__camera_and_lenses" >}})

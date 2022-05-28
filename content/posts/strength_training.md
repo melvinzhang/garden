@@ -1,5 +1,8 @@
 {"title": "Strength training", "tags": []}
 
+# Dead hang
+16 in (45 - 9)s = 2.25s per swing
+
 # Timing
 8-10pm is more than 12 hours after waking, not ideal.
 Try shifting to 4-6pm, just before dinner.
