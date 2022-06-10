@@ -11,3 +11,7 @@ Computational Thinking in Education: A Pedagogical Perspective edited by Aman Ya
 
 Mediacorp Channel 8 晨光第一线 interviewed Hon Wai at 20m28s
 https://www.mewatch.sg/watch/Jan-2022-Morning-Express-266337
+
+Workshop for seniors
+* Preparing for a digital world
+

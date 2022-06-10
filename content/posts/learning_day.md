@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 120: Big Five workout from Body by Science]({{< relref "big_five_workout_from_body_by_science" >}})
 * [LD 119: Origami]({{< relref "origami" >}})
 * [LD 118.5: Stablecoins]({{< relref "stablecoins" >}})
 * [LD 118: Waste treatment]({{< relref "waste_treatment" >}})
@@ -135,4 +136,4 @@ The following is a list of topics I've shared in past LDs:
 * [LD 26: Making your own running sandals]({{< relref "ld_26__making_your_own_running_sandals" >}})
 * [LD 25: What is real time bidding?]({{< relref "ld_25__what_is_real_time_bidding_" >}})
 * [LD 24: Folding a hexahexaflexagon]({{< relref "ld_24__folding_a_hexahexaflexagon" >}})
-* [LD 23: Big Five workout from Body by Science]({{< relref "ld_23__big_five_workout_from_body_by_science" >}})
+* [LD 23: Big Five workout from Body by Science]({{< relref "big_five_workout_from_body_by_science" >}})

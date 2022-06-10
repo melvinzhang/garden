@@ -16,8 +16,10 @@ Try shifting to 4-6pm, just before dinner.
 
 # Books
 Body by Science
+* [Demo by Doug McGuff](https://www.youtube.com/watch?v=FVhhbC51_3k)
+* [Summary](https://blas.com/body-by-science/)
 
-Starting Strength: Basic Barbell Training,
+Starting Strength: Basic Barbell Training
 
 # 7 day workout plan
 * M: Press
