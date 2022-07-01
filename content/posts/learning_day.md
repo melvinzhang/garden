@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 121: Secure multiparty computation]({{< relref "secure_multiparty_computation" >}})
 * [LD 120: Big Five workout from Body by Science]({{< relref "big_five_workout_from_body_by_science" >}})
 * [LD 119: Origami]({{< relref "origami" >}})
 * [LD 118.5: Stablecoins]({{< relref "stablecoins" >}})
@@ -103,7 +104,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 68.5: John Horton Conway (1937 - 2020)]({{< relref "ld_68_5__john_horton_conway__1937___2020_" >}})
 * [LD 68: Zero Knowledge Proof]({{< relref "ld_68__zero_knowledge_proof" >}})
 * [LD 67.5: Decentralized Applications (DApps)]({{< relref "ld_67_5__decentralized_applications__dapps_" >}})
-* [LD 66: Ethereum]({{< relref "ld_66__ethereum" >}})
+* [LD 66: Ethereum]({{< relref "ethereum" >}})
 * [LD 65: Stock exchange]({{< relref "ld_65__stock_exchange" >}})
 * [LD 61: Procedural content generation]({{< relref "procedural_content_generation" >}})
 * [LD 58: Brave and BAT]({{< relref "ld_58__brave_and_bat" >}})

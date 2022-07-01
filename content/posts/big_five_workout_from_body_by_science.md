@@ -1,5 +1,7 @@
 {"title": "Big Five workout from Body by Science", "tags": []}
 
+[Body by Science](https://www.amazon.com/Body-Science-Research-Strength-Training/dp/0071597174)
+
 [Doug McGuff performing the Big Five](https://www.youtube.com/watch?v=FVhhbC51_3k)
 * horizontal arm pull
 * horizontal arm push
