@@ -1,13 +1,14 @@
 {"title": "Computer science education", "tags": ["teaching", "contrib", "interest"]}
 CREATED: 200710180306
 
-How to interest people in CS?
-How to make CS more interesting/relevant?
-How to make programming easier and more fun?
-How to make debugging easier?
-How to make programming assignments more fun and less stressful?
-* provide more feedback
-How to make algorithms more interesting?
+Open problems
+* How to interest people in CS?
+* How to make CS more interesting/relevant?
+* How to make programming easier and more fun?
+* How to make debugging easier?
+* How to make programming assignments more fun and less stressful?
+  * provide more feedback
+* How to make algorithms more interesting?
 
 Stack: an open-source collection of teaching activities for understanding and practicing CS concepts.
 https://github.com/teaching-lab/stack-cs-activities
@@ -34,4 +35,9 @@ Using games
 
 Web
 * https://brython.info/
+
+CS3230 Design and Analysis of Algorithms
+* [CS3230 Project]({{< relref "cs3230_project" >}})
+* [Comments for CS3230]({{< relref "comments_for_cs3230" >}})
+* [tricky divide and conquer problem]({{< relref "tricky_divide_and_conquer_problem" >}})
 
