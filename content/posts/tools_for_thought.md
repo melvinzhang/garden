@@ -14,12 +14,13 @@ Reading and writing are learned. Speaking and drawing are natural.
 see https://www.linguisticsociety.org/resource/whats-difference-between-speech-and-writing
 
 Writing is one of our the most powerful thinking aid! Similar but different than drawing.
+See http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf
 
-See [Paul2021]({{< relref "paul2021" >}}) and Mindhacker
+Extended mind thesis, see [Paul2021]({{< relref "paul2021" >}}) and Mindhacker
 
 Types of writing:
-[journaling]({{< relref "journaling" >}})
-[Note taking]({{< relref "note_taking" >}})
+* [journaling]({{< relref "journaling" >}})
+* [Note taking]({{< relref "note_taking" >}})
 
 [spaced repetition]({{< relref "spaced_repetition" >}})
 

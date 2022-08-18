@@ -1,4 +1,4 @@
-{"title": "LD 36: Nasal irrigation", "tags": []}
+{"title": "Nasal irrigation", "tags": []}
 
 * our body produces 1-1.5l of mucus a day, it slides down our throat
 * during an infection mucus may be blocked and do not drain out properly

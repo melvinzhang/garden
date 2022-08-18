@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 125: Go]({{< relref "go" >}})
 * [LD 123: Cosmic Sociology]({{< relref "cosmic_sociology" >}})
 * [LD 122: DeFi MOOC]({{< relref "defi_mooc" >}})
 * [LD 121: Secure multiparty computation]({{< relref "secure_multiparty_computation" >}})
@@ -126,7 +127,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 39: Ada Lovelace: The Making of a Computer Scientist]({{< relref "ada_lovelace__the_making_of_a_computer_scientist" >}})
 * [LD 38: Setting up a home gym]({{< relref "ld_38__setting_up_a_home_gym" >}})
 * [LD 37: Warehouse operations]({{< relref "ld_37__warehouse_operations" >}})
-* [LD 36: Nasal irrigation]({{< relref "ld_36__nasal_irrigation" >}})
+* [LD 36: Nasal irrigation]({{< relref "nasal_irrigation" >}})
 * [LD 35: Passwords]({{< relref "ld_35__passwords" >}})
 * [LD 34: AlphaZero]({{< relref "ld_34__alphazero" >}})
 * [LD 33: phrak-gslp]({{< relref "ld_33__phrak_gslp" >}})
