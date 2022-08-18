@@ -1,8 +1,15 @@
 {"title": "Programming languages", "tags": ["pl", "interest"]}
 [Maru]({{< relref "maru" >}}) [Hacking Maru]({{< relref "hacking_maru" >}})
+
 GraalVM and Truffle framework
+
 https://github.com/carp-lang/Carp
+
 https://ziglang.org/
+
+https://nim-lang.org/
+
+https://crystal-lang.org/
 
 compilers typically move from a higher level of abstraction to a lower one
 * [scheme2llvm compiler]({{< relref "scheme2llvm_compiler" >}})

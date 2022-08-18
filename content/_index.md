@@ -15,6 +15,7 @@ I'm putting some of my notes here[^bts] in the spirit of
 * [Game changers]({{< relref "game_changers" >}})
 * [Contributions]({{< relref "contributions" >}})
 * [Research interests]({{< relref "research_interests" >}})
+* [Literature notes]({{< relref "literature_notes" >}})
 * [Learning Day]({{< relref "learning_day" >}})
 * [Social media posts]({{< relref "social_media_posts" >}})
 * [Blog posts]({{< relref "blog_posts" >}})
