@@ -33,10 +33,7 @@
 * Shards of Infinity
   * reduce opponent hp
   * random market
-* Aeon's End
-  * defeat nameless
-  * static market
-  * no shuffling
+* [Aeon's End]({{< relref "aeon_s_end" >}})
 * Spectromancer
   * reduce opponent hp
   * random market
