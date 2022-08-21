@@ -41,3 +41,6 @@ CS3230 Design and Analysis of Algorithms
 * [Comments for CS3230]({{< relref "comments_for_cs3230" >}})
 * [tricky divide and conquer problem]({{< relref "tricky_divide_and_conquer_problem" >}})
 
+[selfie](http://selfie.cs.uni-salzburg.at/)
+* self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor
+

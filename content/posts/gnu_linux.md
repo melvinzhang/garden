@@ -15,3 +15,6 @@ My current distribution is [Kali Linux](https://www.kali.org/).
 AFAIK, it is the only Debian derivative that uses a rolling release, making it
 possible to update without needing to reinstall.
 
+Using the kali-last-snapshot branch for more stability as it undergoes release testing.
+All else fails, there is [linux recovery]({{< relref "linux_recovery" >}})
+
