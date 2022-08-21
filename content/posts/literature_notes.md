@@ -378,6 +378,8 @@
 * [Node.js for multiplayer mobile game]({{< relref "node_js_for_multiplayer_mobile_game" >}})
 * [Design, test, prototype in 12 days]({{< relref "design__test__prototype_in_12_days" >}})
 * [Hack and Tell 2015-07-02 2000]({{< relref "hack_and_tell_2015_07_02_2000" >}})
+* [Autonomous Vehicles: advances, algorithms, and the road ahead]({{< relref "autonomous_vehicles__advances__algorithms__and_the_road_ahead" >}})
+* [Autonomous Vehicles for Mobility on Demand]({{< relref "autonomous_vehicles_for_mobility_on_demand" >}})
 * [HyperLedger project: updates from the blockchain]({{< relref "hyperledger_project__updates_from_the_blockchain" >}})
 * [Play | Game | Fail]({{< relref "play___game___fail" >}})
 * [Future of the game industry]({{< relref "future_of_the_game_industry" >}})
