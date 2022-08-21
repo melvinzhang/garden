@@ -386,4 +386,6 @@
 * [Hack and Tell Singapore]({{< relref "hack_and_tell_singapore" >}})
 * [Hack and tell 2018-07-05]({{< relref "hack_and_tell_2018_07_05" >}})
 * [Hack and Tell 2019]({{< relref "hack_and_tell_2019" >}})
+* [PyConSG Education summit 2019]({{< relref "pyconsg_education_summit_2019" >}})
 * [Career chats @Swiss 2022]({{< relref "career_chats__swiss_2022" >}})
+* [PyConSG Education summit 2022]({{< relref "pyconsg_education_summit_2022" >}})
