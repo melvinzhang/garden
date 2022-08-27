@@ -1,4 +1,5 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* singapore constitution
 * kolmogorov complexity
 * busy beaver on the counter machine
 * [uplift modelling](https://speakerdeck.com/gerbenoostra/preventing-churn-like-a-bandit)

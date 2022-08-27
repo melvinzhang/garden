@@ -1,4 +1,4 @@
-{"title": "Go", "tags": []}
+{"title": "Go", "tags": ["game"]}
 
 Capture Go teaching method
 * teaching method advocated by Yasuda Yasutoshi
@@ -17,3 +17,11 @@ Stone Counting teaching method
 
 [Tromp-Taylor rules](https://tromp.github.io/go.html)
 
+https://online-go.com/
+
+https://www.learn-go.net/
+
+Computer Go
+* https://github.com/sai-dev/sai
+  * SAI: a Sensible Artificial Intelligence that plays with handicap and targets high scores in 9×9 Go
+* https://github.com/lightvector/KataGo
