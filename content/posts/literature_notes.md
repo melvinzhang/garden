@@ -391,3 +391,4 @@
 * [PyConSG Education summit 2019]({{< relref "pyconsg_education_summit_2019" >}})
 * [Career chats @Swiss 2022]({{< relref "career_chats__swiss_2022" >}})
 * [PyConSG Education summit 2022]({{< relref "pyconsg_education_summit_2022" >}})
+* [underwater robotics]({{< relref "underwater_robotics" >}})

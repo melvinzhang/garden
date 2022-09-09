@@ -14,3 +14,7 @@ https://www.slideshare.net/melvinzhang/solving-the-tsp-for-warehouses
 
 Presented at Friday Hacks #162, 26th October 2018b
 
+Additional materials:
+* Christofides algorithm
+* A (Slightly) Improved Approximation Algorithm for Metric TSP
+

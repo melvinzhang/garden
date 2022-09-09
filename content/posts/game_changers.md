@@ -26,7 +26,7 @@ Tools/practices which has made a significant improvement for me.
 
 [Pretotype]({{< relref "pretotype" >}})
 
-[LaTeX]({{< relref "latex" >}})
+[technical writing]({{< relref "technical_writing" >}})
 
 [Household appliances]({{< relref "household_appliances" >}})
 

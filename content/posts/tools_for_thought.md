@@ -24,3 +24,5 @@ Types of writing:
 
 [spaced repetition]({{< relref "spaced_repetition" >}})
 
+https://www.rationality.org/resources/handbook
+

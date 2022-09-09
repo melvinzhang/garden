@@ -23,3 +23,5 @@ Race for the Galaxy
 
 [microRTS](https://sites.google.com/site/micrortsaicompetition/)
 
+[Computer Go]({{< relref "computer_go" >}})
+
