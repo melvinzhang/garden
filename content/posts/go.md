@@ -13,7 +13,7 @@ Solving Ponnuki-Go on small boards
 * 6x6 empty board is unknown
   * assuming optimal start is stable centre, then black wins
 
-!Computer_Go
+[Computer Go]({{< relref "computer_go" >}})
 
 4x4 puzzles
 * Cho U’s 4 by 4 Go Puzzle
@@ -26,9 +26,9 @@ Media
 * The Surrounding Game
 
 Learning resources
+* [Learn to play Go](https://www.learn-go.net/)
 * [Tromp-Taylor rules](https://tromp.github.io/go.html)
 * [OGS](https://online-go.com/)
-* https://www.learn-go.net/
 * [AI Sensei](https://ai-sensei.com/)
 * [Michael Redmond's beginner lessons](https://www.youtube.com/playlist?list=PLW5_cMTm0wvamCNX7qNoUqbXxeHt9n67i)
 * [极简围棋](https://www.zhihu.com/remix/albums/1023297931847290880)
