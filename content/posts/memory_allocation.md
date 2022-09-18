@@ -12,3 +12,6 @@ TCMalloc http://goog-perftools.sourceforge.net/doc/tcmalloc.html
 Memory Pool System
 Boehm-Demers-Weiser
 
+CPython + glibc malloc may leak memory as malloc uses sbrk for small blocks and
+CPython does not perform compaction. Switch to jemalloc.
+

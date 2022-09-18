@@ -7,7 +7,7 @@ My learnings
   * connections are important, many insights are about connecting two separate ideas
 * integrate readings by breaking it down into separate notes, one per idea
 
-Zettelkasten method
+[Zettelkasten method](https://zettelkasten.de/introduction/)
 * for developing thoughts, not building an archive
 * used by Niklas Luhmann
 * unique id for each note
@@ -16,23 +16,21 @@ Zettelkasten method
   * debate about note sequence [Folgezettel]({{< relref "folgezettel" >}})
 * tags, body with links, references
 * links should explain the relationship
-* ref: https://zettelkasten.de/introduction/ [Schmidt2018]({{< relref "schmidt2018" >}})
+* see [Schmidt2018]({{< relref "schmidt2018" >}})
 
-Evergreen notes
+[Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 * atomic
 * concept-oriented
 * densely linked
 * prefer associative ontologies to hierarchical taxonomies
 * write notes for yourself by default, disregarding audience
-* ref: https://notes.andymatuschak.org/Evergreen_notes
 
-Manfred Kuehn's digital ZK
+[Manfred Kuehn's digital ZK](https://www.connectedtext.com/manfred.php)
 * found wiki to be the right fit, easy linking and one thought/fact
 * prefer association over hierachy
 * prefer wiki links to using numbered ids
 * Mills' "On Intellectual Craftsmanship"
 * write in your own words
-* ref: https://www.connectedtext.com/manfred.php
 
 Beatrice Webb Appendix C: The art of note-taking
 * break up reading into individial cards and rearrange them
@@ -40,8 +38,7 @@ Beatrice Webb Appendix C: The art of note-taking
 * date, source of information
 * finding the best arrangemet of notes is part of the discovery process
 
-Types of notes
-* source: https://www.seanlawson.net/2020/10/zettelkasten-method-what-why-how-of-getting-started/
+[Types of notes](https://www.seanlawson.net/2020/10/zettelkasten-method-what-why-how-of-getting-started/)
 * summary
   * summary and optional comments
   * optional links to other notes
@@ -57,6 +54,7 @@ Related literature
 * Commonplace book
 * Building a second brain, PARA
 * Hack 17, “Write Magnificent Notes”
+* Weinberg on Writing: The Fieldstone Method
 
 Implementation:
 * Tiddlywiki

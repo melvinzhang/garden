@@ -6,6 +6,7 @@
 * [efficient algorithms]({{< relref "efficient_algorithms" >}})
 * [embedded scripting language]({{< relref "embedded_scripting_language" >}})
 * [game ai]({{< relref "game_ai" >}})
+* [Intelligent tutoring system]({{< relref "intelligent_tutoring_system" >}})
 * [memory allocation]({{< relref "memory_allocation" >}})
 * [memory management]({{< relref "memory_management" >}})
 * [parsing]({{< relref "parsing" >}})

@@ -15,3 +15,5 @@ https://www.mewatch.sg/watch/Jan-2022-Morning-Express-266337
 Workshop for seniors
 * Preparing for a digital world
 
+[CT for humanities students](https://comp-think.github.io/)
+
