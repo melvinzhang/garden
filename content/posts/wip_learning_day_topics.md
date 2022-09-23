@@ -1,4 +1,6 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* egg drop experiment
+* crumpled paper demo
 * singapore constitution
 * kolmogorov complexity
 * busy beaver on the counter machine

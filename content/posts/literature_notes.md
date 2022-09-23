@@ -379,6 +379,7 @@
 * [Design, test, prototype in 12 days]({{< relref "design__test__prototype_in_12_days" >}})
 * [Hack and Tell 2015-07-02 2000]({{< relref "hack_and_tell_2015_07_02_2000" >}})
 * [Julia at the frontier: fast, flexible, fun]({{< relref "julia_at_the_frontier__fast__flexible__fun" >}})
+* [Tic-Tac-Toe with React Native and SocketIO]({{< relref "tic_tac_toe_with_react_native_and_socketio" >}})
 * [Autonomous Vehicles: advances, algorithms, and the road ahead]({{< relref "autonomous_vehicles__advances__algorithms__and_the_road_ahead" >}})
 * [Autonomous Vehicles for Mobility on Demand]({{< relref "autonomous_vehicles_for_mobility_on_demand" >}})
 * [HyperLedger project: updates from the blockchain]({{< relref "hyperledger_project__updates_from_the_blockchain" >}})

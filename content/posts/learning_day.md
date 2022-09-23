@@ -8,7 +8,8 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
-* [LD 125: Computer Go]({{< relref "computer_go" >}})
+* [LD 127: NRIC checksum]({{< relref "nric_checksum" >}})
+* [LD 126: Computer Go]({{< relref "computer_go" >}})
 * [LD 125: Go]({{< relref "go" >}})
 * [LD 123: Cosmic Sociology]({{< relref "cosmic_sociology" >}})
 * [LD 122: DeFi MOOC]({{< relref "defi_mooc" >}})

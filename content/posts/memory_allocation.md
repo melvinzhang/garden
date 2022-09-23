@@ -8,6 +8,7 @@ nedmalloc http://www.nedprod.com/programs/portable/nedmalloc/
 jemalloc http://www.canonware.com/jemalloc/
 dlmalloc, ptmalloc
 TCMalloc http://goog-perftools.sourceforge.net/doc/tcmalloc.html
+mimalloc https://github.com/microsoft/mimalloc
 
 Memory Pool System
 Boehm-Demers-Weiser

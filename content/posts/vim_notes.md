@@ -31,6 +31,8 @@ Publish markdown files using src/write_notes.py
 
 Modify Ctrl-] to create a new note with the word under cursor if it does not exist
 
+Auto run parser on save via BufWritePost in vimrc
+
 ## Possible improvements
 formatting mostly in org-mode
 * markdown seems to be better supported but maybe it doesn't matter as long as it is consistent

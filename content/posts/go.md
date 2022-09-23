@@ -4,7 +4,7 @@ Demo to a big group, each person suggest one move
 
 [Capture Go teaching method](https://senseis.xmp.net/?AtariGoTeachingMethod)
 * teaching method advocated by Yasuda Yasutoshi
-* see https://gowrite.net/hactar/
+* [Hactar Go](https://gowrite.net/hactar/)
 * proved PSPACE-complete in "Go Complexities"
 * https://forums.online-go.com/t/capture-go-problems/31531/22
 * group with single eye larger than 1 liberty is alive
