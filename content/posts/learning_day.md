@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 128: Groceries]({{< relref "groceries" >}})
 * [LD 127: NRIC checksum]({{< relref "nric_checksum" >}})
 * [LD 126: Computer Go]({{< relref "computer_go" >}})
 * [LD 125: Go]({{< relref "go" >}})
@@ -43,7 +44,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 106.5: Things GW2 does differently]({{< relref "ld_106_5__things_gw2_does_differently" >}})
 * [LD 106: Productivity hacks]({{< relref "ld_106__productivity_hacks" >}})
 * [LD 105.5: How much bandwidth do you need?]({{< relref "ld_105_5__how_much_bandwidth_do_you_need_" >}})
-* [LD 105: Groceries 2]({{< relref "ld_105__groceries_2" >}})
+* [LD 105: Groceries]({{< relref "groceries" >}})
 * [LD 104.5: Aavegotchi]({{< relref "ld_104_5__aavegotchi" >}})
 * [LD 104: Simpson's Paradox]({{< relref "ld_104__simpson_s_paradox" >}})
 * [LD 103.5: Home remedy]({{< relref "ld_103_5__home_remedy" >}})
@@ -76,7 +77,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 89: Emergent Narrative]({{< relref "ld_89__emergent_narrative" >}})
 * [LD 88.5: Server emulation]({{< relref "ld_88_5__server_emulation" >}})
 * [LD 88.0: Natural Language Processing]({{< relref "ld_88_0__natural_language_processing" >}})
-* [LD 87.5: Groceries 1]({{< relref "ld_87_5__groceries_1" >}})
+* [LD 87.5: Groceries]({{< relref "groceries" >}})
 * [LD 87.0: Decentralized Autonomous Organizations]({{< relref "ld_87_0__decentralized_autonomous_organizations" >}})
 * [LD 86.5: Stablecoins]({{< relref "stablecoins" >}})
 * [LD 86.0: Non-Fungible Tokens]({{< relref "ld_86_0__non_fungible_tokens" >}})
@@ -101,7 +102,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 74: Multiplayer AI Dungeon and GPT-3]({{< relref "ld_74__multiplayer_ai_dungeon_and_gpt_3" >}})
 * [LD 73: Pan seared Salmaon]({{< relref "ld_73__pan_seared_salmaon" >}})
 * [LD 72.5: Cryptocurrency]({{< relref "ld_72_5__cryptocurrency" >}})
-* [LD 71.5: Multi-user Dungeon aka MUD]({{< relref "ld_71_5__multi_user_dungeon_aka_mud" >}})
+* [LD 71.5: MUD]({{< relref "mud" >}})
 * [LD 71: Making Interactive Fiction with Twine]({{< relref "ld_71__making_interactive_fiction_with_twine" >}})
 * [LD 70.5: MMORPG]({{< relref "ld_70_5__mmorpg" >}})
 * [LD 69.5: WebRTC demos]({{< relref "ld_69_5__webrtc_demos" >}})

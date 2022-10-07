@@ -18,6 +18,7 @@
 * [Duel 52](http://juddmadden.com/duel52/index.html)
 * [Doom Crop](http://www.doomcrop.com/)
 * [The battle for Trionfey](http://www.fan-o.com/instructions.html)
+* [Figgie](https://figgie.com/)
 
 # reference
 https://www.pagat.com/combat/

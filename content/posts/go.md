@@ -10,9 +10,13 @@ Demo to a big group, each person suggest one move
 * group with single eye larger than 1 liberty is alive
 
 [Stone counting teaching method](https://senseis.xmp.net/?StoneCountingTeachingMethod)
+* used in Ancient chinese rules
 * [Crazy sensei rules](https://www.crazy-sensei.com/?lang=en&location=rules)
 * [Dieter Verhofstadt recommended introduction](https://senseis.xmp.net/?DieterVerhofstadt%2FrecommendedIntroduction)
-* used in Ancient chinese rules
+* [純棋](http://jungo.go-en.com/)
+  * (用純棋，10分鐘學會圍棋)[https://video.trend.org/course/用純棋10分鐘學會圍棋]
+* [SquishyGo](https://puyogo.app/en/)
+* [Cosumi Jungo](https://www.cosumi.net/jungo.html)
 
 Solving Ponnuki-Go on small boards
 * 6x6 with crosscut: black wins
@@ -24,6 +28,11 @@ Solving Ponnuki-Go on small boards
 Kill-all Go
 * White wins if it can have at least one stone on the board
 * KataGo using komi 80.5 thinks that 9x9 H5 is white win, 9x9 H6 is black win
+
+Komi
+* points given to white so that optimal play results in a draw
+* [KataGo results](https://www.lifein19x19.com/viewtopic.php?p=259396)
+* under area scoring: 4 for 6x6, 9 for 7x7, 10 for 8x8, 7 for 9x9
 
 Kropki
 * also known as Dots

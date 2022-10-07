@@ -44,3 +44,5 @@ CS3230 Design and Analysis of Algorithms
 [selfie](http://selfie.cs.uni-salzburg.at/)
 * self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor
 
+[A Data-Centric Introduction to Computing](https://dcic-world.org/)
+

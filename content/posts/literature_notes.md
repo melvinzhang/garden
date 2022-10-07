@@ -385,6 +385,7 @@
 * [HyperLedger project: updates from the blockchain]({{< relref "hyperledger_project__updates_from_the_blockchain" >}})
 * [Play | Game | Fail]({{< relref "play___game___fail" >}})
 * [Future of the game industry]({{< relref "future_of_the_game_industry" >}})
+* [Designing for Performance]({{< relref "designing_for_performance" >}})
 * [Scientific computing using Cython]({{< relref "scientific_computing_using_cython" >}})
 * [Hack and Tell 2017-07-18]({{< relref "hack_and_tell_2017_07_18" >}})
 * [Hack and tell [2017-09-19 Tue 19:09]]({{< relref "hack_and_tell__2017_09_19_tue_19_09_" >}})

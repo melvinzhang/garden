@@ -23,6 +23,7 @@ Roguelike
   * https://tangaria.com/history/
 * Cataclysm: Dark Days Ahead
 * https://github.com/tmewett/BrogueCE
+* [Elona+ Custom-GX](https://github.com/Ruin0x11/ElonaPlusCustom-GX)
 
 MMORPG
 * Guild Wars 2
