@@ -46,3 +46,5 @@ CS3230 Design and Analysis of Algorithms
 
 [A Data-Centric Introduction to Computing](https://dcic-world.org/)
 
+Gradually introduce new syntax, [Hedy](https://www.hedycode.com/)
+

@@ -2,6 +2,8 @@
 
 [Go-Playing Programs](https://senseis.xmp.net/?GoPlayingPrograms)
 
+[Igowin](https://www.smart-games.com/igowin.html)
+
 [AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago)
 
 Inspired new moves, such as the early 3-3 invasion. See https://senseis.xmp.net/?AIRevolution

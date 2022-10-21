@@ -19,4 +19,6 @@ From [japanesetea.sg](https://japanesetea.sg/matcha/standard/)
 * Wakatake (culinary grade), 33.5/100g
 * Aoarashi by Marukyu Koyamaen, 39/100g
 
+Marukyu Koyamaen Aoarashi 34.20 on Shopee, shipped from Japan, took 2 weeks.
+
 Use water at 80c

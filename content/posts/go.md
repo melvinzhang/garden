@@ -1,6 +1,11 @@
 {"title": "Go", "tags": ["game"]}
 
-Demo to a big group, each person suggest one move
+Progress
+* 15k on Igowin
+
+Teaching
+* Demo to a big group, each person suggest one move
+* 6x6 with stone counting
 
 [Capture Go teaching method](https://senseis.xmp.net/?AtariGoTeachingMethod)
 * teaching method advocated by Yasuda Yasutoshi
