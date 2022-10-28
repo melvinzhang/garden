@@ -69,7 +69,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 95: ConQUEST MUD]({{< relref "ld_95__conquest_mud" >}})
 * [LD 94.5: How to cut a cake fairly]({{< relref "ld_94_5__how_to_cut_a_cake_fairly" >}})
 * [LD 94: Internal Combustion Engine]({{< relref "ld_94__internal_combustion_engine" >}})
-* [LD 93: Recommended electronics]({{< relref "ld_93__recommended_electronics" >}})
+* [LD 93: Household appliances]({{< relref "household_appliances" >}})
 * [LD 92.5: Demo of Web3]({{< relref "ld_92_5__demo_of_web3" >}})
 * [LD 92: Turing's machine on 50 pound note]({{< relref "ld_92__turing_s_machine_on_50_pound_note" >}})
 * [LD 91.5: How to remember anything]({{< relref "ld_91_5__how_to_remember_anything" >}})
