@@ -18,6 +18,10 @@ Given comparisons determine rank
 * https://github.com/Janzert/halite_ranking
 * https://github.com/OpenDebates/openskill.py
 
+Time varying
+* https://www.remi-coulom.fr/WHR/
+* https://github.com/lucasmaystre/kickscore
+
 Active ranking: determine what comparisons to perform
 * https://proceedings.mlr.press/v70/maystre17a.html proves that Quicksort works well under the Bradley-Terry model
 * https://github.com/gfxdisp/asap based on expected information gain

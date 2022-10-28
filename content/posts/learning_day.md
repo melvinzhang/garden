@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 130: Video editing]({{< relref "video_editing" >}})
 * [LD 129: Ranking from pairwise comparisons]({{< relref "ranking_from_pairwise_comparisons" >}})
 * [LD 128: Groceries]({{< relref "groceries" >}})
 * [LD 127: NRIC checksum]({{< relref "nric_checksum" >}})
@@ -136,7 +137,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 34: AlphaZero]({{< relref "ld_34__alphazero" >}})
 * [LD 33: phrak-gslp]({{< relref "ld_33__phrak_gslp" >}})
 * [LD 32: Turing and the Typewriter]({{< relref "ld_32__turing_and_the_typewriter" >}})
-* [LD 31: Remote work]({{< relref "ld_31__remote_work" >}})
+* [LD 31: Remote work]({{< relref "remote_work" >}})
 * [LD 30: Genetics 101]({{< relref "ld_30__genetics_101" >}})
 * [LD 29: How does GPS work?]({{< relref "ld_29__how_does_gps_work_" >}})
 * [LD 28: Tips for deep frying]({{< relref "ld_28__tips_for_deep_frying" >}})

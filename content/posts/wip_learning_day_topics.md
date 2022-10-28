@@ -1,4 +1,6 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* https://ciechanow.ski/sound/
+* https://www.onezoom.org/
 * egg drop experiment
 * crumpled paper demo
 * singapore constitution
