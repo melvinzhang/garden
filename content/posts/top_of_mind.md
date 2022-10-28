@@ -16,3 +16,5 @@
 
 [Algorithms for people]({{< relref "algorithms_for_people" >}})
 
+[Barcamp 2022]({{< relref "barcamp_2022" >}})
+
