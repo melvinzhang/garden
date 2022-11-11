@@ -1,10 +1,12 @@
 {"title": "tree of life", "tags": []}
 
+https://covariants.org/
+
 https://www.onezoom.org/
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC383294/
+Estimated total of 5-10 million species https://ourworldindata.org/biodiversity-and-wildlife
 
-https://www.ox.ac.uk/news/2022-02-25-university-oxford-researchers-create-largest-ever-human-family-tree
+Human-mouse-rat tree https://www.ncbi.nlm.nih.gov/pmc/articles/PMC383294/
 
-Estimated 5-10 million species https://ourworldindata.org/biodiversity-and-wildlife
+https://newsroom.uw.edu/news/two-pulses-denisovans-contributed-east-asian-ancestry
 
