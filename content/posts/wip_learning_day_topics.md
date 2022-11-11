@@ -1,6 +1,7 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* microphone
+* 21 card trick
 * https://ciechanow.ski/sound/
-* https://www.onezoom.org/
 * egg drop experiment
 * crumpled paper demo
 * singapore constitution

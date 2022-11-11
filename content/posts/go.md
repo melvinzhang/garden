@@ -68,5 +68,6 @@ Learning resources
 * [101围棋网](https://www.101weiqi.com/)
 * [Michael Redmond's beginner lessons](https://www.youtube.com/playlist?list=PLW5_cMTm0wvamCNX7qNoUqbXxeHt9n67i)
 * [极简围棋](https://www.zhihu.com/remix/albums/1023297931847290880)
+* 用純棋10分鐘學會圍棋
 * 81 Little Lions
 * The Art of 9x9 Go
