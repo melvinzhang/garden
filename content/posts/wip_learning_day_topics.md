@@ -1,4 +1,5 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* how blood pressure monitor works
 * microphone
 * 21 card trick
 * https://ciechanow.ski/sound/

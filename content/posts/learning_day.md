@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 131: Self-working magic]({{< relref "self_working_magic" >}})
 * [LD 130: Tree of Life]({{< relref "tree_of_life" >}})
 * [LD 129: Ranking from pairwise comparisons]({{< relref "ranking_from_pairwise_comparisons" >}})
 * [LD 128: Groceries]({{< relref "groceries" >}})

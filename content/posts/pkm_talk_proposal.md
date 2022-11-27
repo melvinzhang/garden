@@ -2,6 +2,8 @@
 
 Title: Level up your note taking skills and cultivate new ideas
 
+Alt title: Building a personal knowledge mangement tool in Vim
+
 # Elevator Pitch (300 chars)
 
 Do you struggle to remember what you've learned? I took notes for every talk I

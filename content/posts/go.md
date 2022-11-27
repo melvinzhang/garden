@@ -36,6 +36,7 @@ Kill-all Go
 
 Komi
 * points given to white so that optimal play results in a draw
+* [Mini-GO results](https://www.mathpuzzle.com/go.html)
 * [KataGo results](https://www.lifein19x19.com/viewtopic.php?p=259396)
 * under area scoring: 4 for 6x6, 9 for 7x7, 10 for 8x8, 7 for 9x9
 
@@ -67,6 +68,7 @@ Learning resources
 * [Go Magic](https://gomagic.org/)
 * [101围棋网](https://www.101weiqi.com/)
 * [Michael Redmond's beginner lessons](https://www.youtube.com/playlist?list=PLW5_cMTm0wvamCNX7qNoUqbXxeHt9n67i)
+* [12 Week Miracle by Baduk TV](https://www.youtube.com/playlist?list=PLOZuftTHq-NYwYfT3Pcd5Dzck8_rnlLKk)
 * [极简围棋](https://www.zhihu.com/remix/albums/1023297931847290880)
 * 用純棋10分鐘學會圍棋
 * 81 Little Lions
