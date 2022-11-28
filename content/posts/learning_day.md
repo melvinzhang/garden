@@ -119,7 +119,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 58: Brave and BAT]({{< relref "ld_58__brave_and_bat" >}})
 * [LD 57: DeFi]({{< relref "ld_57__defi" >}})
 * [LD 56: Quantum Supremacy]({{< relref "ld_56__quantum_supremacy" >}})
-* [LD 54: Multi-arm bandits]({{< relref "ld_54__multi_arm_bandits" >}})
+* [LD 54: Multi-arm bandits]({{< relref "multi_arm_bandits" >}})
 * [LD 53: Breakfast, Lunch, Dinner]({{< relref "ld_53__breakfast__lunch__dinner" >}})
 * [LD 52: Leap year]({{< relref "ld_52__leap_year" >}})
 * [LD 51: Game Theory with Tic-Tac-Toe]({{< relref "ld_51__game_theory_with_tic_tac_toe" >}})
