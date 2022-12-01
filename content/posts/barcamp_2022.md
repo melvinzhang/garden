@@ -1,4 +1,4 @@
-{"title": "Barcamp 2022", "tags": []}
+{"title": "Barcamp 2022", "tags": ["contrib"]}
 
 29 Oct 9:30am - 5:30pm, SP Digital Office in Dhoby Ghaut
 
