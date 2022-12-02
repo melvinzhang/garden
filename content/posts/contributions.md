@@ -22,6 +22,7 @@
 * [melvinzhang.net]({{< relref "melvinzhang_net" >}})
 * [META II: A compiler-compiler that generates its own code]({{< relref "meta_ii__a_compiler_compiler_that_generates_its_own_code" >}})
 * [MGRAlgorithm]({{< relref "mgralgorithm" >}})
+* [open source contributions]({{< relref "open_source_contributions" >}})
 * [Optimize all the things with MiniZinc]({{< relref "optimize_all_the_things_with_minizinc" >}})
 * [Ortholog Assignment Problem]({{< relref "ortholog_assignment_problem" >}})
 * [Programs that Play better than Us]({{< relref "programs_that_play_better_than_us" >}})
