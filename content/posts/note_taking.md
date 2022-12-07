@@ -77,6 +77,8 @@ Other tooling:
 * athens
 * obsidian
 * foam
+* [Silver Bullet](https://silverbullet.md/)
+* Bangle.io
 
 timeline
 * earliest note is from 2006-12-29
