@@ -72,13 +72,15 @@ Implementation:
 * custom format in vim
   * [Vim notes]({{< relref "vim_notes" >}})
 
-Other tooling:
-* logseq
-* athens
-* obsidian
-* foam
+Other tools:
+* [logseq](https://logseq.com/)
+* [obsidian](https://obsidian.md/)
+* [foam](https://foambubble.github.io/foam/)
+* [dendron](https://www.dendron.so/)
 * [Silver Bullet](https://silverbullet.md/)
+* [Silicon Notes](https://github.com/cu/silicon)
 * Bangle.io
+* athens
 
 timeline
 * earliest note is from 2006-12-29

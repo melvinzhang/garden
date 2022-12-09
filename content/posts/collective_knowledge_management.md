@@ -6,3 +6,5 @@ knowledge graph
 wiki
 * https://www.bookstackapp.com/
 
+[outline](https://www.getoutline.com/)
+

@@ -37,7 +37,7 @@ finding code clones with mismatches
 * PQ tree
 * Threaded binary tree
 * [Optimal resizable arrays](https://arxiv.org/abs/2211.11009)
-
+  * extension of [Resizable Arrays in Optimal Time and Space](https://sedgewick.io/wp-content/themes/sedgewick/papers/1999Optimal.pdf)
 
 # Order statistics
 * selection can be solved in linear time

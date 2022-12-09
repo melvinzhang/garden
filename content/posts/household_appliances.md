@@ -20,6 +20,10 @@ Reduces the time to prepare meals.
 
 [Split Mechanical Keyboard](http://www.smartyao.com/page930.html)
 
+# Durable mouse
+
+Gaming mouse have more durable clickers, e.g. Redragon Centrophorus
+
 # Ebook reader
 
 [Ebook Reader](https://onyxboox.com/boox_nova3)
