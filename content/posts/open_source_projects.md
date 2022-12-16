@@ -1,4 +1,4 @@
-{"title": "open source contributions", "tags": ["contrib"]}
+{"title": "open source projects", "tags": ["contrib"]}
 
 [Linux build](https://github.com/melvinzhang/liberation-circuit-linux) of [Liberation Circuit](https://linleyh.itch.io/liberation-circuit) using [exodus](https://github.com/intoli/exodus) to bundle up dependencies
 
@@ -6,5 +6,7 @@
 
 [scheme2llvm](https://github.com/melvinzhang/scheme2llvm) is a scheme to LLVM compiler written in scheme.
 
-[malmopy](https://github.com/melvinzhang/malmopy) provide a Pythonic API for interacting with [Project Malmo](https://github.com/microsoft/malmo)
+[malmopy](https://github.com/melvinzhang/malmopy) provide a Pythonic API for interacting with [Project Malmo](https://github.com/microsoft/malmo).
+
+[ismcts](https://github.com/melvinzhang/ismcts) is a Python 3 implementation of Information Set Monte Carlo Tree Search.
 

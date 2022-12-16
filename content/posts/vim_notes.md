@@ -1,6 +1,7 @@
 {"title": "Vim notes", "tags": ["vim_notes"]}
 
 idea of using a single file with vim tags was first noted in 2010-04-04
+* also mentioned in https://www.edwinwenink.xyz/posts/43-notes_tagging/
 
 use ! to link another note/tag, for example [Vim notes]({{< relref "vim_notes" >}})
 * started with @ but there are some conflicts with url and python decorator

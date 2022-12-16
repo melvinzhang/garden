@@ -1,10 +1,7 @@
 {"title": "Collective knowledge management", "tags": []}
 
-knowledge graph
-* https://www.athensresearch.org/
+[outline](https://www.getoutline.com/)
 
 wiki
 * https://www.bookstackapp.com/
-
-[outline](https://www.getoutline.com/)
 

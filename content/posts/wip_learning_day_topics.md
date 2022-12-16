@@ -1,4 +1,7 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* https://indieweb.org/
+* https://ludii.games/index.php
+* dwarf fortress
 * how blood pressure monitor works
 * microphone
 * 21 card trick

@@ -1,5 +1,7 @@
 {"title": "Strength training", "tags": []}
 
+https://thefitness.wiki/routines/strength-training-muscle-building/
+
 # Dead hang
 16 in (45 - 9)s = 2.25s per swing
 
@@ -17,6 +19,7 @@ Try shifting to 4-6pm, just before dinner.
 # Books
 Body by Science
 * [Demo by Doug McGuff](https://www.youtube.com/watch?v=FVhhbC51_3k)
+* [Dough McGuff coaching](https://www.youtube.com/watch?v=Tvq6wxsWiLg)
 * [Summary](https://blas.com/body-by-science/)
 
 Starting Strength: Basic Barbell Training

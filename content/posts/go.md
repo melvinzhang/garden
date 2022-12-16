@@ -30,6 +30,11 @@ Solving Ponnuki-Go on small boards
 * 6x6 empty board is unknown
   * assuming optimal start is stable centre, then black wins
 
+One-eyed Go
+* stones cannot be put in intersections with no liberties
+* much easier to make a living group
+* https://senseis.xmp.net/?OneEyedGo
+
 Kill-all Go
 * White wins if it can have at least one stone on the board
 * KataGo using komi 80.5 thinks that 9x9 H5 is white win, 9x9 H6 is black win
@@ -61,6 +66,7 @@ Media
 * The Surrounding Game
 
 Learning resources
+* [Tiger's mouth](http://tigersmouth.org/)
 * [Learn to play Go](https://www.learn-go.net/)
 * [Tromp-Taylor rules](https://tromp.github.io/go.html)
 * [OGS](https://online-go.com/)

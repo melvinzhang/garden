@@ -26,3 +26,7 @@ Types of writing:
 
 https://www.rationality.org/resources/handbook
 
+https://www.betaworks.com/event/render-tools-for-thinking
+
+https://www.jerrysbrain.com/welcome
+

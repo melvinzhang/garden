@@ -1,5 +1,8 @@
 {"title": "Groceries", "tags": []}
 
+Part 4
+* [original & spicy tempe crackers](https://shopee.sg/-Shop-Malaysia-original-spicy-tempe-crackers-500g-i.209277230.9736874970)
+
 Part 3
 * [Spiced Tempeh](https://kreyv.shop/product/spiced-tempeh/)
 * [Keetos Pork Rind](https://keetos.com.sg/)

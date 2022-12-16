@@ -31,5 +31,6 @@ Collectible card games
   * defeat guests and collect books
 * [Hidden Dimensions 3](http://nulll-void.com/games/wiki/doku.php?id=hd3:hd3)
 * Faeria
+* Marvel Snap
 
 [Deck Builder]({{< relref "deck_builder" >}})
