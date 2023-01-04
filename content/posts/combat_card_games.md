@@ -2,6 +2,7 @@
 
 # Custom cards
 * Yugioh
+  * [YGO Omega](https://omega.duelistsunite.org/)
 * Magic: the Gathering
 * Prismata
 * KARDS - The WWII Card Game

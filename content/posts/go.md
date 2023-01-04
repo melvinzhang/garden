@@ -56,6 +56,7 @@ Kropki
 9x9 Go
 * https://sites.google.com/view/9x9go/
 * [GoQuest](http://wars.fm/go9)
+* [Opening book](https://www.crazy-sensei.com/book/go_9x9/)
 
 [Computer Go]({{< relref "computer_go" >}})
 

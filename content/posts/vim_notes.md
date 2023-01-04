@@ -6,6 +6,7 @@ idea of using a single file with vim tags was first noted in 2010-04-04
 use ! to link another note/tag, for example [Vim notes]({{< relref "vim_notes" >}})
 * started with @ but there are some conflicts with url and python decorator
 * Ctrl-] to jump to definition and Ctrl-T to jump back
+* :ts /pat to seach for tags with a given pattern, use :tj to jump if only one match
 
 src/print_tags.py to collect tags and generate a tags file to enable the above commands to work
 * converts title to tag and include in tags file

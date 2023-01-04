@@ -19,18 +19,6 @@ ARPG
 * Grim Dawn
 * Path of Exile
 
-Collectible card games
-* Flesh and Blood TCG
-* Vault of the Void
-* KARDS - The WWII Card Game
-* Spellweaver
-* Causa, Voices of the Dusk
-* Gwent
-* 2047 CCG
-* Library of Ruina
-  * defeat guests and collect books
-* [Hidden Dimensions 3](http://nulll-void.com/games/wiki/doku.php?id=hd3:hd3)
-* Faeria
-* Marvel Snap
+[Collectible card games]({{< relref "collectible_card_games" >}})
 
 [Deck Builder]({{< relref "deck_builder" >}})

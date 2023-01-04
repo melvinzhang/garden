@@ -31,3 +31,10 @@ Patrick's Parabox
 Block Pushing Puzzle Game But You Can Time Travel
 * adds time travel portals
 
+[Give Up the Ghost](https://gate.itch.io/ghost)
+* movable portals and other tiles
+
+[Heroes of Sokoban](https://sites.math.washington.edu/~ostroff/puzzles/Heroes_of_Sokoban.html)
+* [Part 2](https://sites.math.washington.edu/~ostroff/puzzles/Heroes_of_Sokoban_II_Monsters.html)
+* [Part 3](https://sites.math.washington.edu/~ostroff/puzzles/Heroes_of_Sokoban_III_The_Bard_and_The_Druid.html)
+

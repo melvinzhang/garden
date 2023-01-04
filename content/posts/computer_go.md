@@ -30,3 +30,5 @@ Challenges:
 
 [Gridmaster](http://erikvanderwerf.tengen.nl/gridmaster.html)
 
+[SmartGo One](https://www.smartgo.com/)
+

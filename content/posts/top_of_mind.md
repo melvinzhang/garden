@@ -18,3 +18,5 @@
 
 [open problems]({{< relref "open_problems" >}})
 
+[stoicism]({{< relref "stoicism" >}})
+
