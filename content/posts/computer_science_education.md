@@ -40,7 +40,7 @@ Web
 CS3230 Design and Analysis of Algorithms
 * [CS3230 Project]({{< relref "cs3230_project" >}})
 * [Comments for CS3230]({{< relref "comments_for_cs3230" >}})
-* [tricky divide and conquer problem]({{< relref "tricky_divide_and_conquer_problem" >}})
+* [finding largest and one more with fewest comparisons]({{< relref "finding_largest_and_one_more_with_fewest_comparisons" >}})
 
 [selfie](http://selfie.cs.uni-salzburg.at/)
 * self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor
@@ -48,4 +48,6 @@ CS3230 Design and Analysis of Algorithms
 [A Data-Centric Introduction to Computing](https://dcic-world.org/)
 
 Gradually introduce new syntax, [Hedy](https://www.hedycode.com/)
+
+[static sorting visualization](https://corte.si/posts/code/visualisingsorting/index.html)
 

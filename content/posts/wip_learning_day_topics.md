@@ -1,4 +1,5 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* [Epictetus - How To Be A Stoic](https://www.youtube.com/watch?v=wH6dSe_dYgM)
 * http://www.matchu.ai/
 * https://indieweb.org/
 * https://ludii.games/index.php

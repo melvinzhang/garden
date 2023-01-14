@@ -1,12 +1,30 @@
 {"title": "stoicism", "tags": []}
 
+[intro slides by Donald Robertson](https://melvinzhang.keybase.pub/ld/intro-stoicism.pdf)
+
 practioners
-* Zeno
-* Epictetus
+* Zeno of Citium
 * Seneca
+  * [Moral letters to Lucilius](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius)
+    * [audio](https://librivox.org/moral-letters-to-lucilius-epistulae-morales-ad-lucilium-by-lucius-annaeus-seneca/)
+* Gaius Musonius Rufus
+  * Lectures
+* Epictetus
+  * Discourses
+  * Enchiridion
 * Marcus Aurelius
+  * Meditations
 
 relation to buddhism, secular humanism
+
+Stoic fork, dichotomy of control
+* things up to us
+  * our endorsed values
+  * our considered judgements
+  * our decision to act or not act
+* things not up to us
+  * everything else!
+  * health, wealth, career, reputation
 
 three area of study
 * logic - how to reason well
@@ -14,13 +32,20 @@ three area of study
 * ethics - how to live well
 * metaphor: logic is the fence of a garden in which the crop of ethics grow from the soil of physics
 
+three discipines
+* desire - endorsing the right values (physics)
+  * shift your goals from external to internal
+  * remind yourself of the impermanence of things
+* action - how do we act or not act (ethics)
+* assent - arrive at better judgements (logic)
+
 [four cardinal virtues](https://donaldrobertson.name/2018/01/18/what-do-the-stoic-virtues-mean)
 * phronêsis (prudence/practical wisdom)
   * what is good, bad, and indifferent in life
   * grasping the value of things rationally
   * opposite: ignorance
 * andreia (fortitude/courage)
-  * do the right thing
+  * act in the face of danger/criticism/retaliation
   * endurance of pain and discomfort
 * dikaiosunê (justice/morality)
   * moral in our dealings with others
@@ -30,24 +55,19 @@ three area of study
   * self-awareness or being self-possessed
   * mindfulness
 
-principles/techniques
-* dichotomy of control
-* negative visualization
-
-exercises
+[Practical Stoicism](http://c0c0c0.net/practical.html)
 * examine your impressions
-* remind yourself of the impermanence of things
-* for every plan, remind yourself that things could go wrong
+* negative visualization
+  * Murphy's law
   * stoic's reserve clause is "fate permitting"
 * how can I use virtue here and now?
 * pause and take a deep breath
 * otherize
-* speak little and speak well
 * choose your company well
 * respond to insults with humor
 * don't speak too much about yourself
+* speak little and speak well
 * speak without judging
-* morning meditations on others
 * keep at-hand principles
 * why am I doing this?
 * renunciation
@@ -55,22 +75,22 @@ exercises
 * acknowledging others' virtues
 * take another's perspective
 * view from above
-* wrongdoing only harms the wrongdoer
-* keep change and death in mind
+* reconsider the wrong
 * when offended, reflect
 * rebutting thoughts
+* morning meditations on others
 * morning meditations on the cosmos
+* keep change and death in mind
+  * memento mori
+* acceptance of one's fate
 
 How to be a Stoic by Massimo Pigliucci
 * [video summary](https://www.youtube.com/watch?v=wH6dSe_dYgM)
-* Examine your impressions
 
 Meditations: A New Translation by Marcus Aurelius. Translated by Gregory Hays.
-* three disciplines
-  * perception
-  * action
-  * will
 
 resources
+* https://www.reddit.com/r/Stoicism/wiki/resources/
 * https://stoicfellowship.com/resources/stoicism-resources.html
-* [Practical Stoicism](http://c0c0c0.net/practical.html)
+* https://collegeofstoicphilosophers.org/scholarchs-recommended-readings/
+
