@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 134: The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "the_elephant_in_the_brain__hidden_motives_in_everyday_life" >}})
 * [LD 133: Stoicism]({{< relref "stoicism" >}})
 * [LD 132: UN SDGs]({{< relref "un_sdgs" >}})
 * [LD 131: Self-working magic]({{< relref "self_working_magic" >}})

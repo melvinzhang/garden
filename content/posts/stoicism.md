@@ -5,8 +5,7 @@
 practioners
 * Zeno of Citium
 * Seneca
-  * [Moral letters to Lucilius](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius)
-    * [audio](https://librivox.org/moral-letters-to-lucilius-epistulae-morales-ad-lucilium-by-lucius-annaeus-seneca/)
+  * [Moral letters to Lucilius](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius), [audio](https://librivox.org/moral-letters-to-lucilius-epistulae-morales-ad-lucilium-by-lucius-annaeus-seneca/)
 * Gaius Musonius Rufus
   * Lectures
 * Epictetus
@@ -55,11 +54,21 @@ three discipines
   * self-awareness or being self-possessed
   * mindfulness
 
-[Practical Stoicism](http://c0c0c0.net/practical.html)
+Lessons in Stoicism by John Sellars
+* natural reaction -> judgement -> emotion
+* anger arising from a sense of injury
+* pause and reflect before making judgement
+* adversity as a chance to exercise virtues
+* fate works through us, we are contributors to fate
+
+[Practical Stoicism](http://c0c0c0.net/practical.html),
+[24 Stoic Spiritual Exercises](https://stoicfellowship.com/assets/pdfs/24%20Stoic%20Spiritual%20Exercises.pdf)
 * examine your impressions
-* negative visualization
+* premeditatio malorum
   * Murphy's law
   * stoic's reserve clause is "fate permitting"
+* keep change and death in mind
+  * memento mori
 * how can I use virtue here and now?
 * pause and take a deep breath
 * otherize
@@ -72,6 +81,8 @@ three discipines
 * why am I doing this?
 * renunciation
 * decomposition exercise
+     describing events/things in very objective language
+     avoid attributing more importance than they do in fact have
 * acknowledging others' virtues
 * take another's perspective
 * view from above
@@ -80,12 +91,10 @@ three discipines
 * rebutting thoughts
 * morning meditations on others
 * morning meditations on the cosmos
-* keep change and death in mind
-  * memento mori
 * acceptance of one's fate
 
 How to be a Stoic by Massimo Pigliucci
-* [video summary](https://www.youtube.com/watch?v=wH6dSe_dYgM)
+* [video of 12 exercises](https://www.youtube.com/watch?v=wH6dSe_dYgM)
 
 Meditations: A New Translation by Marcus Aurelius. Translated by Gregory Hays.
 

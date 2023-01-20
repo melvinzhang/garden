@@ -1,7 +1,8 @@
 {"title": "Collective knowledge management", "tags": []}
 
 [outline](https://www.getoutline.com/)
+* wiki that supports real-time collaboration
 
-wiki
-* https://www.bookstackapp.com/
+[BookStack](https://www.bookstackapp.com/)
+* WYSIWYG interface for editing pages
 

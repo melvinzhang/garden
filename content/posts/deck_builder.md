@@ -3,6 +3,7 @@
 [Static market games](https://boardgamegeek.com/geeklist/239929/static-market-deck-building-games) have a fixed set of cards to acquire.
 
 * [Dominion]({{< relref "dominion" >}})
+* [Tuggowar](https://tuggowar.io/)
 * Ascension
   * most honor points wins
   * random market
