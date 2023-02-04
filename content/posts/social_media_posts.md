@@ -1,6 +1,7 @@
 {"title": "Social media posts", "tags": []}
 
 Posts:
+* [FB posts 2023]({{< relref "fb_posts_2023" >}})
 * [FB posts 2022]({{< relref "fb_posts_2022" >}})
 * [FB posts 2021]({{< relref "fb_posts_2021" >}})
 * [FB posts 2020]({{< relref "fb_posts_2020" >}})

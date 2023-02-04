@@ -2,6 +2,7 @@
 * [self-working magic]({{< relref "self_working_magic" >}})
 * stoic exercises
 * lotr lcg online
+* [Hexa-tetraflexagon](https://momath.org/activities/flexagon/)
 * http://www.matchu.ai/
 * https://indieweb.org/
 * https://ludii.games/index.php
