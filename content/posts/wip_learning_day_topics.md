@@ -1,11 +1,13 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* [self-working magic]({{< relref "self_working_magic" >}})
+* stoic exercises
+* lotr lcg online
 * http://www.matchu.ai/
 * https://indieweb.org/
 * https://ludii.games/index.php
 * dwarf fortress
 * how blood pressure monitor works
 * microphone
-* 21 card trick
 * https://ciechanow.ski/sound/
 * egg drop experiment
 * crumpled paper demo
@@ -13,8 +15,6 @@
 * kolmogorov complexity
 * busy beaver on the counter machine
 * [uplift modelling](https://speakerdeck.com/gerbenoostra/preventing-churn-like-a-bandit)
-* Reading your mind
-* The Signal and the Noise
 * Issue tracking
 * Scihub, google scholar
 * Setting up your own domain

@@ -26,5 +26,7 @@ Gaming mouse have more durable clickers, e.g. Redragon Centrophorus
 
 # Ebook reader
 
-[Ebook Reader](https://onyxboox.com/boox_nova3)
+[ebook reader/note](https://onyxboox.com/boox_nova3)
+
+[ebook reader](https://www.aliexpress.com/item/1005004897333636.html)
 

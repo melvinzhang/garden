@@ -1,4 +1,4 @@
-{"title": "Game changers", "tags": []}
+{"title": "Game changers", "tags": ["moc"]}
 
 Tools/practices which has made a significant improvement for me.
 
@@ -10,19 +10,19 @@ Tools/practices which has made a significant improvement for me.
 
 [Strength training]({{< relref "strength_training" >}}) started with Body by Science and gym machines, now using barbells
 
+[Minimal footwear]({{< relref "minimal_footwear" >}}) from Born to Run
+
 [Standing desk]({{< relref "standing_desk" >}})
+
+[Paleo diet]({{< relref "paleo_diet" >}}) from Primal Blueprint
+
+[Psyllium Husk]({{< relref "psyllium_husk" >}})
 
 [Remote work]({{< relref "remote_work" >}})
 
 [Smart contracts]({{< relref "smart_contracts" >}}) led to defi dao and [Zero knowledge proofs]({{< relref "zero_knowledge_proofs" >}})
 
-[Paleo diet]({{< relref "paleo_diet" >}}) from Primal Blueprint
-
-[Minimal footwear]({{< relref "minimal_footwear" >}}) from Born to Run
-
 [Virtual worlds]({{< relref "virtual_worlds" >}})
-
-[Psyllium Husk]({{< relref "psyllium_husk" >}})
 
 [Pretotype]({{< relref "pretotype" >}})
 

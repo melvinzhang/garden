@@ -1,4 +1,4 @@
-{"title": "Minimal footwear", "tags": ["health", "footwear", "minimalist"]}
+{"title": "Minimal footwear", "tags": ["footwear", "minimalist"]}
 CREATED: 201003100610
 Vivobarefoot Evo
 

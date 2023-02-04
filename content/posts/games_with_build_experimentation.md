@@ -19,6 +19,6 @@ ARPG
 * Grim Dawn
 * Path of Exile
 
-[Collectible card games]({{< relref "collectible_card_games" >}})
+[combat card games]({{< relref "combat_card_games" >}})
 
 [Deck Builder]({{< relref "deck_builder" >}})

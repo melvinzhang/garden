@@ -10,6 +10,18 @@
 * Keyforge
   * each deck is unique, procedurally generated
   * community site for online play, https://thecrucible.online/
+* Marvel Snap
+* Faeria
+* Flesh and Blood TCG
+* KARDS - The WWII Card Game
+* Spellweaver
+* Causa, Voices of the Dusk
+* Gwent
+* 2047 CCG
+* Library of Ruina
+* [Hidden Dimensions 3](http://nulll-void.com/games/wiki/doku.php?id=hd3:hd3)
+* [Duelyst](https://duelyst.gg/)
+* [Duelyst II](https://duelyst2.com/)
 
 # Using a standard 52 card deck
 * [Cuttle]({{< relref "cuttle" >}})

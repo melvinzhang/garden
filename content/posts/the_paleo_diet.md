@@ -1,4 +1,4 @@
-{"title": "The Paleo Diet", "tags": ["book", "health"]}
+{"title": "The Paleo Diet", "tags": ["book"]}
 
 author:Loren Cordain
 

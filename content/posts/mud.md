@@ -35,3 +35,10 @@ Demo
 [ArcticMud](http://arcticmud.org/)
 * loosely based on TSR's Dragonlance novels
 
+[Elysium](http://elysium-rpg.com/)
+
+[Erion](http://erionmud.com)
+
+[Dark Pawns](50.16.123.54:6969)
+* control three characters
+

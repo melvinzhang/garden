@@ -2,8 +2,11 @@
 
 [intro slides by Donald Robertson](https://melvinzhang.keybase.pub/ld/intro-stoicism.pdf)
 
+relation to buddhism, secular humanism
+
 practioners
 * Zeno of Citium
+* Chrysippus
 * Seneca
   * [Moral letters to Lucilius](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius), [audio](https://librivox.org/moral-letters-to-lucilius-epistulae-morales-ad-lucilium-by-lucius-annaeus-seneca/)
 * Gaius Musonius Rufus
@@ -13,8 +16,29 @@ practioners
   * Enchiridion
 * Marcus Aurelius
   * Meditations
+* William B. Irvine
+* John Sellars
+* Donald Robertson
+* Massimo Pigliucci
 
-relation to buddhism, secular humanism
+Goal: living in accordance with Nature
+* people are social and capable of reason
+
+[four cardinal virtues](https://donaldrobertson.name/2018/01/18/what-do-the-stoic-virtues-mean)
+* phronêsis (prudence/practical wisdom)
+  * what is good, bad, and indifferent in life
+  * grasping the value of things rationally
+  * navigate complex moral situations, trade-offs
+* andreia (fortitude/courage)
+  * act in the face of danger/criticism/retaliation
+  * endurance of pain and discomfort
+* dikaiosunê (justice/morality)
+  * moral in our dealings with others
+  * kindness and fairness
+* sôphrosunê (temperance/moderation)
+  * self-discipline/self-control
+  * self-awareness or being self-possessed
+  * mindfulness
 
 Stoic fork, dichotomy of control
 * things up to us
@@ -24,6 +48,7 @@ Stoic fork, dichotomy of control
 * things not up to us
   * everything else!
   * health, wealth, career, reputation
+* story of the archer, try your best but the outcome is not up to us
 
 three area of study
 * logic - how to reason well
@@ -38,28 +63,15 @@ three discipines
 * action - how do we act or not act (ethics)
 * assent - arrive at better judgements (logic)
 
-[four cardinal virtues](https://donaldrobertson.name/2018/01/18/what-do-the-stoic-virtues-mean)
-* phronêsis (prudence/practical wisdom)
-  * what is good, bad, and indifferent in life
-  * grasping the value of things rationally
-  * opposite: ignorance
-* andreia (fortitude/courage)
-  * act in the face of danger/criticism/retaliation
-  * endurance of pain and discomfort
-* dikaiosunê (justice/morality)
-  * moral in our dealings with others
-  * kindness and fairness
-* sôphrosunê (temperance/moderation)
-  * self-discipline/self-control
-  * self-awareness or being self-possessed
-  * mindfulness
-
 Lessons in Stoicism by John Sellars
 * natural reaction -> judgement -> emotion
 * anger arising from a sense of injury
 * pause and reflect before making judgement
 * adversity as a chance to exercise virtues
 * fate works through us, we are contributors to fate
+* everything we have or love is merely on loan
+* living up to the various roles we find ourselves in
+* Hierocles and the expanding circle of concern
 
 [Practical Stoicism](http://c0c0c0.net/practical.html),
 [24 Stoic Spiritual Exercises](https://stoicfellowship.com/assets/pdfs/24%20Stoic%20Spiritual%20Exercises.pdf)

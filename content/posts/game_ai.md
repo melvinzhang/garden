@@ -1,4 +1,4 @@
-{"title": "game ai", "tags": ["interest"]}
+{"title": "game ai", "tags": ["interest", "moc"]}
 General game playing
 * General Video Game AI Competition
 
@@ -22,6 +22,8 @@ Race for the Galaxy
 [Prismata AI by David Churchill](https://github.com/davechurchill/PrismataAI)
 
 [microRTS](https://sites.google.com/site/micrortsaicompetition/)
+
+[Pokemon showdown bot]({{< relref "pokemon_showdown_bot" >}})
 
 [Computer Go]({{< relref "computer_go" >}})
 

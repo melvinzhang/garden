@@ -3,6 +3,9 @@
 Demo
 * use https://www.opinionx.co/ to choose the most interesting LD topic
 
+Applications
+* ranking anime https://manitary.github.io/MAL-ranking/
+
 Given comparisons determine rank
 * Elo, Glicko
   * https://ratings.fide.com/
