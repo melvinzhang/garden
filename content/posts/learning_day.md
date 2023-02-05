@@ -38,7 +38,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 113: Matcha]({{< relref "matcha" >}})
 * [LD 112.5: Evergreen notes]({{< relref "ld_112_5__evergreen_notes" >}})
 * [LD 112: Nature's Phlebotomist]({{< relref "ld_112__nature_s_phlebotomist" >}})
-* [LD 111.5: Collaborative editing]({{< relref "ld_111_5__collaborative_editing" >}})
+* [LD 111.5: Collaborative editing]({{< relref "collaborative_editing" >}})
 * [LD 111: Cuttle]({{< relref "cuttle" >}})
 * [LD 110.5: Digital gardening]({{< relref "ld_110_5__digital_gardening" >}})
 * [LD 110: Five typography tips]({{< relref "ld_110__five_typography_tips" >}})

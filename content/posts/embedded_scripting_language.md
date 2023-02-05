@@ -1,4 +1,4 @@
-{"title": "embedded scripting language", "tags": ["esl", "interest"]}
+{"title": "embedded scripting language", "tags": ["interest"]}
 MOO
 
 Lua

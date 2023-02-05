@@ -1,8 +1,10 @@
-{"title": "memory allocation", "tags": ["memalloc", "interest"]}
+{"title": "memory allocation", "tags": ["interest"]}
 
 malloc was written by Doug Mcllroy
 Hoard
 Lockless Allocator
+Memory Pool System
+Boehm-Demers-Weiser
 TLSF http://www.gii.upv.es/tlsf/
 nedmalloc http://www.nedprod.com/programs/portable/nedmalloc/
 jemalloc http://www.canonware.com/jemalloc/

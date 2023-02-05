@@ -21,3 +21,5 @@ programing is compiling from ideas to code
 
 Koka: a Functional Language with Effects
 
+[embedded scripting language]({{< relref "embedded_scripting_language" >}})
+
