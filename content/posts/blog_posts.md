@@ -44,7 +44,7 @@ Posts:
 * [2008-05-16 Software is Hard]({{< relref "software_is_hard" >}})
 * [2008-05-09 That's What Friends Are For]({{< relref "that_s_what_friends_are_for" >}})
 * [2008-04-14 Googling yourself]({{< relref "googling_yourself" >}})
-* [2008-04-13 Computational Biology]({{< relref "computational_biology" >}})
+* [2008-04-13 About Computational Biology]({{< relref "about_computational_biology" >}})
 * [2008-02-10 Music from YouTube]({{< relref "music_from_youtube" >}})
 * [2008-01-22 Websites]({{< relref "websites" >}})
 * [2008-01-13 SRG Day 2]({{< relref "srg_day_2" >}})

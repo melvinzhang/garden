@@ -12,7 +12,7 @@ I'm putting some of my notes here[^bts] in the spirit of
 
 ## Starting points
 * [Top of mind]({{< relref "top_of_mind" >}})
-* [Game changers]({{< relref "game_changers" >}})
+* [Map of content]({{< relref "map_of_content" >}})
 * [Contributions]({{< relref "contributions" >}})
 * [Research interests]({{< relref "research_interests" >}})
 * [Literature notes]({{< relref "literature_notes" >}})

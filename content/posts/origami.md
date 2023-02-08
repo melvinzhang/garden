@@ -8,4 +8,5 @@
 
 [A4 into an envelope](https://www.youtube.com/watch?v=AKJBLVVZ0h0)
 
+[flexagon]({{< relref "flexagon" >}})
 

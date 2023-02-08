@@ -20,6 +20,7 @@ Unplugged activities
 
 CS Camp 2021
 * 1:30pm to 4:30pm each day, Monday (20th Dec) to Friday (24th Dec). Held at LccL in Tanglin Shopping Centre.
+* [Polya's four step problem solving process for Competitive Programming]({{< relref "polya_s_four_step_problem_solving_process_for_competitive_programming" >}})
 
 Courses
 * Harvard's CS50

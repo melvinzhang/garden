@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 137: Flexagon]({{< relref "flexagon" >}})
 * [LD 135: Self-working magic]({{< relref "self_working_magic" >}})
 * [LD 134: The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "the_elephant_in_the_brain__hidden_motives_in_everyday_life" >}})
 * [LD 133: Stoicism]({{< relref "stoicism" >}})
@@ -121,7 +122,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 65: Stock exchange]({{< relref "ld_65__stock_exchange" >}})
 * [LD 61: Procedural content generation]({{< relref "procedural_content_generation" >}})
 * [LD 58: Brave and BAT]({{< relref "ld_58__brave_and_bat" >}})
-* [LD 57: DeFi]({{< relref "ld_57__defi" >}})
+* [LD 57: Decentralized Finance]({{< relref "decentralized_finance" >}})
 * [LD 56: Quantum Supremacy]({{< relref "ld_56__quantum_supremacy" >}})
 * [LD 54: Multi-arm bandits]({{< relref "multi_arm_bandits" >}})
 * [LD 53: Breakfast, Lunch, Dinner]({{< relref "ld_53__breakfast__lunch__dinner" >}})
@@ -149,5 +150,5 @@ The following is a list of topics I've shared in past LDs:
 * [LD 27: Making your own standing desk]({{< relref "ld_27__making_your_own_standing_desk" >}})
 * [LD 26: Making your own running sandals]({{< relref "ld_26__making_your_own_running_sandals" >}})
 * [LD 25: What is real time bidding?]({{< relref "ld_25__what_is_real_time_bidding_" >}})
-* [LD 24: Folding a hexahexaflexagon]({{< relref "ld_24__folding_a_hexahexaflexagon" >}})
+* [LD 24: Flexagon]({{< relref "flexagon" >}})
 * [LD 23: Big Five workout from Body by Science]({{< relref "big_five_workout_from_body_by_science" >}})

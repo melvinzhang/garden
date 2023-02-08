@@ -1,4 +1,4 @@
-{"title": "Comments for CS3230", "tags": ["cs3230", "comments"]}
+{"title": "Comments for CS3230", "tags": ["teaching"]}
 CREATED: 200711051608
 ** Additional comments
 # sit in labs

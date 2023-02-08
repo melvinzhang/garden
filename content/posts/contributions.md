@@ -19,6 +19,7 @@
 * [How Alan Turing accidentally invented Software]({{< relref "how_alan_turing_accidentally_invented_software" >}})
 * [LCCL Computational thinking day]({{< relref "lccl_computational_thinking_day" >}})
 * [Lessons from Developing an AI to Play Magic: The Gathering]({{< relref "lessons_from_developing_an_ai_to_play_magic__the_gathering" >}})
+* [Maximum likelihood estimator for memory half-life]({{< relref "maximum_likelihood_estimator_for_memory_half_life" >}})
 * [melvinzhang.net]({{< relref "melvinzhang_net" >}})
 * [META II: A compiler-compiler that generates its own code]({{< relref "meta_ii__a_compiler_compiler_that_generates_its_own_code" >}})
 * [MGRAlgorithm]({{< relref "mgralgorithm" >}})

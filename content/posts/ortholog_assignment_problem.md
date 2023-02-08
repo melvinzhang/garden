@@ -41,7 +41,7 @@ sequence similarity: BBH, MCL
 # Available programs
 BBH
 
-[MSOAR2]
+[MSOAR2]({{< relref "msoar2" >}})
 
 relative performance
 

@@ -2,7 +2,7 @@
 
 does not depend on hidden moves
 
-Baby hummer
+Baby Hummer by Charles Hudson
 * put chosen as third, first card face up
 * turn over two and cut as many times
 * turn over both odd cards
@@ -15,13 +15,6 @@ Gemini Twins by Karl Fulves
 * deal from the top, put top twin, put the rest
 * show the twin next to the predictions
 
-21 card trick
-* first question reduces from 21 -> 7
-* second question reduces from 7 -> 2/3
-* third question reduces from 3 -> 1
-* fourth deal put it into the middle of the deck (11th card)
-* also works with 27 cards since 3^3 = 27
-
 Lazy Man’s Card Trick by Harry Lorayne
 * setup ace to k of spades from bottom to top, face down
 * spectator pick a card put on top
@@ -29,8 +22,20 @@ Lazy Man’s Card Trick by Harry Lorayne
 * cut a few more times until spade is on the bottom
 * say n of spades, count n cards from the top to get to the chosen
 
-books
+21 card trick
+* first question reduces from 21 -> 7
+* second question reduces from 7 -> 2/3
+* third question reduces from 3 -> 1
+* fourth deal put it into the middle of the deck (11th card)
+* also works with 27 cards since 3^3 = 27
+
+source
 * Mathematics, Magic and Mystery by Martin Gardner
 * Magical mathematics by P Diaconis and R Graham
 * Mathematical card magic: fifty-two new effects by C Mulcahy
+  * https://cardcolm.org/CardColms.html
+* Card College Light/Lighter/Lightest by Roberto Giobbi
+* [10 of the Best Self-Working Card Tricks in the World](https://playingcarddecks.com/blogs/all-in/10-of-the-best-self-working-card-tricks-in-the-world)
+* [10 More of the Best Self-Working Card Tricks in the World](https://playingcarddecks.com/blogs/all-in/10-more-of-the-best-self-working-card-tricks-in-the-world)
+* [Self Working, Sleight Free, No Set up, FASDIU](https://themagiccafe.com/forums/viewtopic.php?topic=706907&forum=206)
 

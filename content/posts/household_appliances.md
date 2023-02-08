@@ -24,6 +24,8 @@ Reduces the time to prepare meals.
 
 Gaming mouse have more durable clickers, e.g. Redragon Centrophorus
 
+Scroll wheel first to stop working, from 02/05/2019 to 08/02/2023, close to 4 years.
+
 # Ebook reader
 
 [ebook reader/note](https://onyxboox.com/boox_nova3)
