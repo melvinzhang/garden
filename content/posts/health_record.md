@@ -104,8 +104,9 @@ Triglycerides:     0.8mmol/L (< 1.7)
 Cholesterol/HDL Ratio: 3.5   (< 4.5)
 Glucose (Fasting): 4.5mmol/L (4.0-6.0)
 
-W + H + BP done on 09/02/2023
-BP: 109/61
-W: 59.05
-H: 170.8
+Consult and measurements done on 09/02/2023
+W: 59.05kg
+H: 170.8cm
+BP: 109/61mmHg (< 120/80)
+HR: 87/min (60-90)
 

@@ -6,5 +6,6 @@
 * [Awesome techniques]({{< relref "awesome_techniques" >}})
 * [Decentralized Finance]({{< relref "decentralized_finance" >}})
 * [Computational Biology]({{< relref "computational_biology" >}})
+* [Computability]({{< relref "computability" >}})
 * [health]({{< relref "health" >}})
 * [statistics]({{< relref "statistics" >}})
