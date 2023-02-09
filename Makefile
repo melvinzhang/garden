@@ -9,8 +9,8 @@ publish:
 	git add content
 	git commit -m "sync"
 	hugo
-	rm -rvf public
+	git clean -df .
 	git push
 
 clean:
-	-rm -rvf public
+	-git clean -df .
