@@ -19,7 +19,21 @@ fasting
 * cold exposure
 * eTRF, till 3pm
 
+[soup]({{< relref "soup" >}})
+
+[Cooking eggs]({{< relref "cooking_eggs" >}})
+
+[Complete protein]({{< relref "complete_protein" >}})
+
 [biohacking]({{< relref "biohacking" >}})
+
+[Bentonite clay]({{< relref "bentonite_clay" >}})
+
+[Non-sleep deep rest]({{< relref "non_sleep_deep_rest" >}})
+
+[Huberman daily protocols]({{< relref "huberman_daily_protocols" >}})
+
+[Metabolism myths]({{< relref "metabolism_myths" >}})
 
 https://blueprint.bryanjohnson.co/
 
