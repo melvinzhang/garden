@@ -2,8 +2,7 @@
 General game playing
 * General Video Game AI Competition
 
-MCTS
-* best arm identification
+[Monte carlo tree search]({{< relref "monte_carlo_tree_search" >}})
 
 Playing without a game model
 * [MuZero](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules)

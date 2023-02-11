@@ -15,6 +15,17 @@ Gemini Twins by Karl Fulves
 * deal from the top, put top twin, put the rest
 * show the twin next to the predictions
 
+Fitch Cheney's Five Card Trick
+* audience picks out five cards
+* assistant arranged four cards face up and one card face down
+* magician guess the face down card
+* suit order: diamonds, clubs, hearts, and spades
+* improvement: put the card with the same suit in a position that depends on its value
+* improvement: extend it to a deck of 124 cards (1-124), choose the r+1 card to hide where r = sum mod 5
+* details in
+  * https://web.stonehill.edu/compsci/Shai_papers/cardTrick-Primus-Final-Edit.pdf and
+  * https://web.northeastern.edu/seigen/11Magic/Articles/Best%20Card%20Trick.pdf
+
 Lazy Man’s Card Trick by Harry Lorayne
 * setup ace to k of spades from bottom to top, face down
 * spectator pick a card put on top
