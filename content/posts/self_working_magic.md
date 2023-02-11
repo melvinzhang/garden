@@ -18,9 +18,10 @@ Gemini Twins by Karl Fulves
 Fitch Cheney's Five Card Trick
 * audience picks out five cards
 * assistant arranged four cards face up and one card face down
+  * https://melvinzhang.github.io/fitchcheneytrick/
 * magician guess the face down card
 * suit order: diamonds, clubs, hearts, and spades
-* improvement: put the card with the same suit in a position that depends on its value
+* improvement: put the card with the same suit in a position that depends on the sum of public values
 * improvement: extend it to a deck of 124 cards (1-124), choose the r+1 card to hide where r = sum mod 5
 * details in
   * https://web.stonehill.edu/compsci/Shai_papers/cardTrick-Primus-Final-Edit.pdf and
