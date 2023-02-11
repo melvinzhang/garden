@@ -1,5 +1,6 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
 * lotr lcg online
+* fitch cheney's five card trick
 * stoic exercises
 * http://www.matchu.ai/
 * https://indieweb.org/

@@ -22,7 +22,9 @@ Fitch Cheney's Five Card Trick
 * magician guess the face down card
 * suit order: diamonds, clubs, hearts, and spades
 * improvement: put the card with the same suit in a position that depends on the sum of public values
-* improvement: extend it to a deck of 124 cards (1-124), choose the r+1 card to hide where r = sum mod 5
+* variant: extend it to a deck of 124 cards (1-124), choose the r+1 card to hide where r = sum mod 5
+* variant: using only 4 cards, see [ChenCooper2009](https://www.tandfonline.com/doi/abs/10.1080/07468342.2009.11922360)
+* variant: audience decide the hidden cards, see ChenCooper2009
 * details in
   * https://web.stonehill.edu/compsci/Shai_papers/cardTrick-Primus-Final-Edit.pdf and
   * https://web.northeastern.edu/seigen/11Magic/Articles/Best%20Card%20Trick.pdf

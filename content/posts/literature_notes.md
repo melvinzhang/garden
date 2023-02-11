@@ -1,6 +1,8 @@
 {"title": "Literature notes", "tags": []}
 
 * [2-interval Problems]({{< relref "2_interval_problems" >}})
+* [3 ways the brain creates meaning]({{< relref "3_ways_the_brain_creates_meaning" >}})
+* [A job shop scheduling problem in software testing]({{< relref "a_job_shop_scheduling_problem_in_software_testing" >}})
 * [A kinder, gentler philosophy of success]({{< relref "a_kinder__gentler_philosophy_of_success" >}})
 * [A new learning paradigm: competition supported by technology]({{< relref "a_new_learning_paradigm__competition_supported_by_technology" >}})
 * [Abraham2007]({{< relref "abraham2007" >}})
@@ -193,6 +195,7 @@
 * [Operons]({{< relref "operons" >}})
 * [Ozery-Flato2008]({{< relref "ozery_flato2008" >}})
 * [Pairwise compatibility graph]({{< relref "pairwise_compatibility_graph" >}})
+* [Pandu Rangan on teaching algorithms]({{< relref "pandu_rangan_on_teaching_algorithms" >}})
 * [Parallelization of DFA membership tests]({{< relref "parallelization_of_dfa_membership_tests" >}})
 * [Parida2010]({{< relref "parida2010" >}})
 * [Pattern discovery from graph structured data]({{< relref "pattern_discovery_from_graph_structured_data" >}})
@@ -325,6 +328,9 @@
 * [Zerbino2008]({{< relref "zerbino2008" >}})
 * [Zero space data structure]({{< relref "zero_space_data_structure" >}})
 * [Zhang2007]({{< relref "zhang2007" >}})
+* [O(n lg n) time algorithm for GTT]({{< relref "o_n_lg_n__time_algorithm_for_gtt" >}})
+* [Failure: a love story]({{< relref "failure__a_love_story" >}})
+* [CouchDB @ Moneythor]({{< relref "couchdb___moneythor" >}})
 * [The Wide Lens]({{< relref "the_wide_lens" >}})
 * [Practice 2013: The Art of Strategy]({{< relref "practice_2013__the_art_of_strategy" >}})
 * [Team Geek]({{< relref "team_geek" >}})
