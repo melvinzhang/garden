@@ -1,4 +1,4 @@
-{"title": "Learning Robots", "tags": ["steven_levison", "learning", "robotics", "seminar", "talk"]}
+{"title": "Learning Robots", "tags": ["steven_levison", "learning", "robotics", "talk"]}
 
 Associative memory is central, we associate different experiences, knowledge
 , facts with a certain abstract symbol.
