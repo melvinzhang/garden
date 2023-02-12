@@ -12,3 +12,5 @@
 
 [Household appliances]({{< relref "household_appliances" >}})
 
+https://efficiencyiseverything.com/
+

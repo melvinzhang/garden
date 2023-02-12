@@ -1,5 +1,9 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Charge state determination]({{< relref "charge_state_determination" >}})
+
+[Biomolecular Motion]({{< relref "biomolecular_motion" >}})
+
 [About Computational Biology]({{< relref "about_computational_biology" >}}) briefly introduces the field and my interest in it
 
 [Gene Order Phylogeny]({{< relref "gene_order_phylogeny" >}})
