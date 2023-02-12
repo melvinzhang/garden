@@ -1,4 +1,6 @@
-{"title": "Combinatorial problems in genomics and computational biology", "tags": ["201001261232", "seminar", "richard_karp"]}
+{"title": "Combinatorial problems in genomics and computational biology", "tags": ["talk"]}
+
+Presented by Richard Karp on 201001261232
 
 Discovery of protein modules
 * networks: fundamental units of natural selection

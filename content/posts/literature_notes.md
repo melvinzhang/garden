@@ -64,6 +64,7 @@
 * [Chen2008]({{< relref "chen2008" >}})
 * [Clean Code]({{< relref "clean_code" >}})
 * [Code clone analysis]({{< relref "code_clone_analysis" >}})
+* [Combinatorial problems in genomics and computational biology]({{< relref "combinatorial_problems_in_genomics_and_computational_biology" >}})
 * [Composability in Computing]({{< relref "composability_in_computing" >}})
 * [Computational drug target gene discovery]({{< relref "computational_drug_target_gene_discovery" >}})
 * [Computational Manga]({{< relref "computational_manga" >}})

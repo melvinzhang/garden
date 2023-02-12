@@ -1,4 +1,17 @@
-{"title": "efficient algorithms", "tags": ["algorithm", "interest", "research"]}
+{"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
+
+[Algorithm Analysis]({{< relref "algorithm_analysis" >}})
+
+Distribute cards into 13 piles. They can always be arranged with distinct ranks as the first card.
+* application of Hall's Theorem
+* reference: https://www.jstor.org/stable/2589146
+
+[discrete resource allocation]({{< relref "discrete_resource_allocation" >}})
+
+[Combinatorial problems in genomics and computational biology]({{< relref "combinatorial_problems_in_genomics_and_computational_biology" >}})
+
+[combinatorial games]({{< relref "combinatorial_games" >}})
+
 [Gene Team Tree]({{< relref "gene_team_tree" >}})
 
 [earth mover's distance in 2D grid]({{< relref "earth_mover_s_distance_in_2d_grid" >}})

@@ -29,6 +29,9 @@ Fitch Cheney's Five Card Trick
   * https://web.stonehill.edu/compsci/Shai_papers/cardTrick-Primus-Final-Edit.pdf and
   * https://web.northeastern.edu/seigen/11Magic/Articles/Best%20Card%20Trick.pdf
 
+Cunning Card Trick
+* https://nrich.maths.org/5462
+
 Lazy Man’s Card Trick by Harry Lorayne
 * setup ace to k of spades from bottom to top, face down
 * spectator pick a card put on top
