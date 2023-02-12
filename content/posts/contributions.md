@@ -1,6 +1,7 @@
 {"title": "Contributions", "tags": []}
 
 * [AI comparison]({{< relref "ai_comparison" >}})
+* [Algorithms for people]({{< relref "algorithms_for_people" >}})
 * [Barcamp 2022]({{< relref "barcamp_2022" >}})
 * [Beating us at our own Games]({{< relref "beating_us_at_our_own_games" >}})
 * [Becoming a better problem solver: A CS perspective]({{< relref "becoming_a_better_problem_solver__a_cs_perspective" >}})

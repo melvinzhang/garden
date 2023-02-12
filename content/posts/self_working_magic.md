@@ -47,6 +47,8 @@ Lazy Man’s Card Trick by Harry Lorayne
 * also works with 27 cards since 3^3 = 27
 
 source
+* [Self Working, Sleight Free, No Set up, FASDIU](https://themagiccafe.com/forums/viewtopic.php?topic=706907&forum=206)
+* [What is your favorite impromptu and self-working card trick?](https://www.reddit.com/r/Magic/comments/8nudo5/what_is_your_favorite_impromptu_and_selfworking/)
 * Mathematics, Magic and Mystery by Martin Gardner
 * Magical mathematics by P Diaconis and R Graham
 * Mathematical card magic: fifty-two new effects by C Mulcahy

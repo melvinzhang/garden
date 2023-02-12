@@ -9,6 +9,7 @@
 * [edtech]({{< relref "edtech" >}})
 * [Computational Biology]({{< relref "computational_biology" >}})
 * [Computability]({{< relref "computability" >}})
+* [software engineering]({{< relref "software_engineering" >}})
 * [health]({{< relref "health" >}})
 * [statistics]({{< relref "statistics" >}})
 * [lifehack]({{< relref "lifehack" >}})

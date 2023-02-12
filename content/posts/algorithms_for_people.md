@@ -1,4 +1,4 @@
-{"title": "Algorithms for people", "tags": []}
+{"title": "Algorithms for people", "tags": ["contrib"]}
 
 Also known as SOP, processes, rules, policy, etc
 
