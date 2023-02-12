@@ -1,0 +1,28 @@
+{"title": "Learning Day 68", "tags": ["talk"]}
+[2020-04-17 Fri 19:08:41]
+** Final fantasy by Louis
+** Naruto by Jan
+** FISH! Philosophy by Ka Ho
+choose your attitude
+play
+make someone's day
+be there
+** Zero knowledge proof by Melvin
+** Getting things done by Gloria
+capture any thoughts
+clarify, next actions
+someday/maybe list
+reference material
+** Handling stress by Ervin
+connection
+self-care
+limiting social media
+gratitude
+contribution
+** International borders by Rahul
+** Home based learning by Saffiyah
+** Getting insurance by Daryl
+Term life insurance
+avoid investment linked plan
+after 30, perhaps go into whole life insurance
+

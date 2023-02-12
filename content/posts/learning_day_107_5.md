@@ -1,0 +1,12 @@
+{"title": "Learning Day 107.5", "tags": ["talk"]}
+
+1. Jin - LinkedIn advertising features and how to utilise them to maximise advertising campaigns
+2. Melvin - low carb/no sugar healthy recipes
+3. Joe - Self introduction, investments, and cryptocurrencies
+4. Martin - History of ice-cream, dying of unsanitary water
+5. Angela - The dark side of korea living and society, student life, male superiority
+6. Scarlett - The cheapest purchase on singles' day (100 rolls of toilet paper). Double digit days are the best to buy necessities
+7. Ka Ho - Overengineered solutions with Khaby Lame
+8. Louis - Notion, different ways of collaboration, descriptions for folder structures
+9. Cass - Animal models in neuroscience, assessing a good model, comparing validity of studies on animals to humans
+

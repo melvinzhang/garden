@@ -1,0 +1,9 @@
+{"title": "Learning Day 67.5", "tags": ["talk"]}
+** RPG Maker MV by Louis
+** DApps by Melvin
+** Kahoot by Ka Ho
+** Covid19 train meme: economy vs people by Jan
+** Respiratory protection by Rahul
+** Solving a maze in Excel by ZQ
+** Brain without hippocampus, no connection between left and right brain by Cassandra
+

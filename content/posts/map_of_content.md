@@ -11,3 +11,5 @@
 * [Computability]({{< relref "computability" >}})
 * [health]({{< relref "health" >}})
 * [statistics]({{< relref "statistics" >}})
+* [lifehack]({{< relref "lifehack" >}})
+* [discrete mathematics]({{< relref "discrete_mathematics" >}})

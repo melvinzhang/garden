@@ -1,0 +1,15 @@
+{"title": "Learning Day 81.0", "tags": ["talk"]}
+** Options by Melvin
+** RM460 Burger by Ka Ho
+** 0/1 Knapsack by Syafiq
+Worked example of solving 0/1 Knapsack using excel
+** Dyslexia by Martin
+Can't map what they see on the page to meaning/sound
+** Instant noodle fried rice by Scarlett
+** Head/heart/gut by Louis
+Head - know how
+Heart - want to
+Gut - can do
+** Keys are not safe by Lih Wei
+Keys are like a physical pin code
+

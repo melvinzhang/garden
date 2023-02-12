@@ -1,0 +1,9 @@
+{"title": "Learning Day 109.5", "tags": ["talk"]}
+[2021-12-17 Fri 19:15:00]
+Louis Lauises Puah - Setting up an Ergotune chair in a new house
+Melvin Zhang - The Matrix Unreal Engine Demo, progression on real time rendering tech https://youtu.be/WU0gvPcc3jQ
+Ying Ka Ho - The Chinese teapot and flawed modern cheap builds
+Paul - Project management with Microsoft Project 2021
+Jin Hoo- The physics of fast driving. Heat buildup on tyres: https://youtu.be/oUohIZEyq0w?t=103
+Scarlett - Tips on touching up on contract work after a house renovation
+Lih Wei - Trends in bank notes: colours, animals/faces/buildings: https://www.money.co.uk/guides/colour-of-currency.htm

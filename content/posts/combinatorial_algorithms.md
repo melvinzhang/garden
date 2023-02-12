@@ -1,5 +1,7 @@
 {"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
 
+[dominating set]({{< relref "dominating_set" >}})
+
 [Algorithm Analysis]({{< relref "algorithm_analysis" >}})
 
 Distribute cards into 13 piles. They can always be arranged with distinct ranks as the first card.
