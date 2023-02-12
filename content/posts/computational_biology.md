@@ -1,5 +1,7 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[De Novo Peptide Sequencing]({{< relref "de_novo_peptide_sequencing" >}})
+
 [Charge state determination]({{< relref "charge_state_determination" >}})
 
 [Biomolecular Motion]({{< relref "biomolecular_motion" >}})

@@ -1,5 +1,9 @@
 {"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
 
+[Dynamic Programming]({{< relref "dynamic_programming" >}})
+
+[Complexity of integer division]({{< relref "complexity_of_integer_division" >}})
+
 [Big Oh]({{< relref "big_oh" >}})
 
 [dominating set]({{< relref "dominating_set" >}})
