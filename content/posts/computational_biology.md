@@ -26,3 +26,7 @@
 
 [tree of life]({{< relref "tree_of_life" >}})
 
+[Fragment Assembly]({{< relref "fragment_assembly" >}})
+
+[Exploring Protein Conformation Space]({{< relref "exploring_protein_conformation_space" >}})
+

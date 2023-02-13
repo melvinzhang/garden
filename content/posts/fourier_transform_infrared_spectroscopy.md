@@ -11,6 +11,8 @@ FTIR spectroscopy data
  * cheminformatics -> determining concentration of chemicals (regression) using PLS models
  * hyperspectral images in remote sensing (classification of land types)
 
+[FTIR project]({{< relref "ftir_project" >}})
+
 Domains
 Data
 Experiment/Technology

@@ -7,5 +7,17 @@ Paul W. Beame, Stephen A. Cook, and H. James Hoover. Log depth circuits for divi
 * integer divisibility is in L
 
 Andrew Chiu, George Davida, and Bruce Litow. Division in logspace-uniform NC1
-* integer division is also in L
+* integer division is in L
+
+Uniform constant-depth threshold circuits for division and iterated multiplication
+* integer division is in DLOGTIME-uniform TC0
+
+[Eric Allender. The Division Breakthroughs](https://people.cs.rutgers.edu/~allender/papers/division.eatcs.pdf)
+* survey of the recents from the previous three
+
+Q: Why is the classical binary long division not in L?
+
+A: L computable means using O(log n) working memory where n is the number of bits.
+Assume input is given read-only and output is write-only and doesn't count
+towards working memory.
 
