@@ -137,6 +137,8 @@
 * [Fulton2006]({{< relref "fulton2006" >}})
 * [Fuzzy Logic and Inexact Reasoning]({{< relref "fuzzy_logic_and_inexact_reasoning" >}})
 * [Game tree search]({{< relref "game_tree_search" >}})
+* [Geekcamp 2011]({{< relref "geekcamp_2011" >}})
+* [Geekcamp.SG 2012]({{< relref "geekcamp_sg_2012" >}})
 * [GEMS2]({{< relref "gems2" >}})
 * [Gene Identifcation]({{< relref "gene_identifcation" >}})
 * [GeneMANIA]({{< relref "genemania" >}})

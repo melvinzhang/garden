@@ -1,5 +1,7 @@
 {"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
 
+Undirected connectivity in log-space
+
 [Dynamic Programming]({{< relref "dynamic_programming" >}})
 
 [Complexity of integer division]({{< relref "complexity_of_integer_division" >}})

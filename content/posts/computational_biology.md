@@ -1,5 +1,9 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Gene Cluster Discovery]({{< relref "gene_cluster_discovery" >}})
+
+[Gene duplication overview]({{< relref "gene_duplication_overview" >}})
+
 [De Novo Peptide Sequencing]({{< relref "de_novo_peptide_sequencing" >}})
 
 [Charge state determination]({{< relref "charge_state_determination" >}})
