@@ -1,6 +1,6 @@
 {"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
 
-Undirected connectivity in log-space
+[Graph algorithms]({{< relref "graph_algorithms" >}})
 
 [Dynamic Programming]({{< relref "dynamic_programming" >}})
 

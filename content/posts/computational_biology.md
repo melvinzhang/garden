@@ -1,5 +1,7 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[GlycoPeptides]({{< relref "glycopeptides" >}})
+
 [Gene Cluster Discovery]({{< relref "gene_cluster_discovery" >}})
 
 [Gene duplication overview]({{< relref "gene_duplication_overview" >}})

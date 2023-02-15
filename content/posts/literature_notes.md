@@ -145,6 +145,7 @@
 * [Genetic Algorithms]({{< relref "genetic_algorithms" >}})
 * [Genomic Data Assimilation for Discovering New Knowledge Regarding Biological Pathways]({{< relref "genomic_data_assimilation_for_discovering_new_knowledge_regarding_biological_pathways" >}})
 * [Genomic sources of regulatory evolution]({{< relref "genomic_sources_of_regulatory_evolution" >}})
+* [Google DevFest 2011]({{< relref "google_devfest_2011" >}})
 * [Grammar based compression of reptitive text]({{< relref "grammar_based_compression_of_reptitive_text" >}})
 * [Grand Challenges in Computing IDM]({{< relref "grand_challenges_in_computing_idm" >}})
 * [Graph Kernels]({{< relref "graph_kernels" >}})
