@@ -1,5 +1,9 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Identifying PTM]({{< relref "identifying_ptm" >}})
+
+[Homology search]({{< relref "homology_search" >}})
+
 [GlycoPeptides]({{< relref "glycopeptides" >}})
 
 [Gene Cluster Discovery]({{< relref "gene_cluster_discovery" >}})

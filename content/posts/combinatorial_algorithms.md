@@ -1,5 +1,9 @@
 {"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
 
+[Interval Packing]({{< relref "interval_packing" >}})
+
+[Hoffman-Knuth Puzzle]({{< relref "hoffman_knuth_puzzle" >}})
+
 [Graph algorithms]({{< relref "graph_algorithms" >}})
 
 [Dynamic Programming]({{< relref "dynamic_programming" >}})
