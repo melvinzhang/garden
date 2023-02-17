@@ -1,5 +1,15 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Motif p-value]({{< relref "motif_p_value" >}})
+
+[Motif finding]({{< relref "motif_finding" >}})
+
+[Median of three genomes with sequences/traces]({{< relref "median_of_three_genomes_with_sequences_traces" >}})
+
+[Microarray data]({{< relref "microarray_data" >}})
+
+[MCNet]({{< relref "mcnet" >}})
+
 [Identifying PTM]({{< relref "identifying_ptm" >}})
 
 [Homology search]({{< relref "homology_search" >}})

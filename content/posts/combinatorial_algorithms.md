@@ -1,5 +1,7 @@
 {"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
 
+[Level Set Tree]({{< relref "level_set_tree" >}})
+
 [Interval Packing]({{< relref "interval_packing" >}})
 
 [Hoffman-Knuth Puzzle]({{< relref "hoffman_knuth_puzzle" >}})
