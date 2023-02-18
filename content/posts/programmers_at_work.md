@@ -1,4 +1,6 @@
 {"title": "Programmers at Work", "tags": ["book"]}
+https://programmersatwork.wordpress.com/
+
 # Dan Bricklin (VisiCalc)
 
 On spreadsheets: "We're just making the users do more and more of the programming themselves, but they don't know it."

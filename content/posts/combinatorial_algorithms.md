@@ -1,5 +1,7 @@
 {"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
 
+[Perfect graphs]({{< relref "perfect_graphs" >}})
+
 [Level Set Tree]({{< relref "level_set_tree" >}})
 
 [Interval Packing]({{< relref "interval_packing" >}})

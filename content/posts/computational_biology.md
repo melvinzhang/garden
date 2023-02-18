@@ -1,5 +1,11 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Positional Homologs]({{< relref "positional_homologs" >}})
+
+[Peptide Detectability]({{< relref "peptide_detectability" >}})
+
+[Pathogen Chip Sensitivity]({{< relref "pathogen_chip_sensitivity" >}})
+
 [Promoter Evolution]({{< relref "promoter_evolution" >}})
 
 [Operon prediction problem]({{< relref "operon_prediction_problem" >}})
