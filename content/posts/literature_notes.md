@@ -259,6 +259,7 @@
 * [Presentation Tips]({{< relref "presentation_tips" >}})
 * [Problem solving and modelling with Graphs]({{< relref "problem_solving_and_modelling_with_graphs" >}})
 * [Producing open source software]({{< relref "producing_open_source_software" >}})
+* [Programmers at Work]({{< relref "programmers_at_work" >}})
 * [Progressive Query Processing]({{< relref "progressive_query_processing" >}})
 * [Protein complex prediction]({{< relref "protein_complex_prediction" >}})
 * [Protein complex prediction from cores/attachments model]({{< relref "protein_complex_prediction_from_cores_attachments_model" >}})

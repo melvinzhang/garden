@@ -1,5 +1,7 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Promoter Evolution]({{< relref "promoter_evolution" >}})
+
 [Operon prediction problem]({{< relref "operon_prediction_problem" >}})
 
 [Motif p-value]({{< relref "motif_p_value" >}})
