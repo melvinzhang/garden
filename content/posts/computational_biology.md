@@ -1,5 +1,7 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Sequence Alignment]({{< relref "sequence_alignment" >}})
+
 [Positional Homologs]({{< relref "positional_homologs" >}})
 
 [Peptide Detectability]({{< relref "peptide_detectability" >}})
