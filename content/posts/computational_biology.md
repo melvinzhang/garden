@@ -1,5 +1,9 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Sequencing by hybridization]({{< relref "sequencing_by_hybridization" >}})
+
+[Sequencing Oligosaccharides]({{< relref "sequencing_oligosaccharides" >}})
+
 [Sequence Alignment]({{< relref "sequence_alignment" >}})
 
 [Positional Homologs]({{< relref "positional_homologs" >}})

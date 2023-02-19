@@ -306,6 +306,7 @@
 * [Sequence composition based on K-string composition]({{< relref "sequence_composition_based_on_k_string_composition" >}})
 * [Set bipartite matching problem]({{< relref "set_bipartite_matching_problem" >}})
 * [She2009]({{< relref "she2009" >}})
+* [Ship it]({{< relref "ship_it" >}})
 * [Shotgun proteonomics]({{< relref "shotgun_proteonomics" >}})
 * [Siepel2002]({{< relref "siepel2002" >}})
 * [Simillion2004]({{< relref "simillion2004" >}})

@@ -1,5 +1,7 @@
 {"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
 
+[Shortest Common Supersequence]({{< relref "shortest_common_supersequence" >}})
+
 [Perfect graphs]({{< relref "perfect_graphs" >}})
 
 [Level Set Tree]({{< relref "level_set_tree" >}})
