@@ -1,5 +1,9 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Spectral Alignment]({{< relref "spectral_alignment" >}})
+
+[Spectral Profiles]({{< relref "spectral_profiles" >}})
+
 [Sequencing by hybridization]({{< relref "sequencing_by_hybridization" >}})
 
 [Sequencing Oligosaccharides]({{< relref "sequencing_oligosaccharides" >}})

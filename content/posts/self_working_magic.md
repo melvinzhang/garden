@@ -19,11 +19,14 @@ Fitch Cheney's Five Card Trick
 * audience picks out five cards
 * assistant arranged four cards face up and one card face down
   * https://melvinzhang.github.io/fitchcheneytrick/
+  * https://webspace.maths.qmul.ac.uk/a.fink/FitchCheney/
 * magician guess the face down card
 * suit order: diamonds, clubs, hearts, and spades
 * improvement: put the card with the same suit in a position that depends on the sum of public values
 * variant: extend it to a deck of 124 cards (1-124), choose the r+1 card to hide where r = sum mod 5
 * variant: using only 4 cards, see [ChenCooper2009](https://www.tandfonline.com/doi/abs/10.1080/07468342.2009.11922360)
+  * https://www.maa.org/community/maa-columns/past-columns-card-colm/fitch-four-glory
+  * https://mat.tepper.cmu.edu/CARD/
 * variant: audience decide the hidden cards, see ChenCooper2009
 * details in
   * https://web.stonehill.edu/compsci/Shai_papers/cardTrick-Primus-Final-Edit.pdf and
