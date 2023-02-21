@@ -14,3 +14,4 @@
 * [statistics]({{< relref "statistics" >}})
 * [lifehack]({{< relref "lifehack" >}})
 * [discrete mathematics]({{< relref "discrete_mathematics" >}})
+* [teaching]({{< relref "teaching" >}})

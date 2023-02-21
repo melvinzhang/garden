@@ -530,6 +530,7 @@
 * [Hack and tell [2017-09-19 Tue 19:09]]({{< relref "hack_and_tell__2017_09_19_tue_19_09_" >}})
 * [Taking back "Software Engineering", craftsmanship is not enough]({{< relref "taking_back__software_engineering___craftsmanship_is_not_enough" >}})
 * [Hack and Tell Singapore]({{< relref "hack_and_tell_singapore" >}})
+* [Teaching Python to working adults]({{< relref "teaching_python_to_working_adults" >}})
 * [Hack and tell 2018-07-05]({{< relref "hack_and_tell_2018_07_05" >}})
 * [Making good salad]({{< relref "making_good_salad" >}})
 * [operant conditioning]({{< relref "operant_conditioning" >}})

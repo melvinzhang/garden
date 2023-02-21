@@ -12,6 +12,9 @@ aufs-dkms and nvidia-kernel-dkms may need to be updated as well
 Allow unprivileged users to create namespaces, for AppImage to work
 echo 'kernel.unprivileged_userns_clone=1' > /etc/sysctl.d/00-local-userns.conf
 
+files
+* ncdu to find large folders
+
 Terminal
 * rxvt, then kitty
 * alternatives: wezterm, alacritty
