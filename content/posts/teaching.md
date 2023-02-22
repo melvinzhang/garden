@@ -18,3 +18,7 @@
 
 [Python as first language]({{< relref "python_as_first_language" >}})
 
+[Represent an integer as sum of 1 to n]({{< relref "represent_an_integer_as_sum_of_1_to_n" >}})
+
+[Robson2010]({{< relref "robson2010" >}})
+
