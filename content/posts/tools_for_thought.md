@@ -8,6 +8,8 @@ https://www.bytesized.xyz/tools-for-thought/
 
 https://www.inkandswitch.com/
 
+[Personal knowledge management]({{< relref "personal_knowledge_management" >}})
+
 [Collective knowledge management]({{< relref "collective_knowledge_management" >}})
 
 Reading and writing are learned. Speaking and drawing are natural.

@@ -46,3 +46,5 @@ All else fails, there is [linux recovery]({{< relref "linux_recovery" >}})
 
 [using alpine linux to create smaller docker images]({{< relref "using_alpine_linux_to_create_smaller_docker_images" >}})
 
+[windows emulation on linux]({{< relref "windows_emulation_on_linux" >}})
+

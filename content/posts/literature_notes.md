@@ -257,6 +257,7 @@
 * [Presentation Zen]({{< relref "presentation_zen" >}})
 * [Presentation Zen Design]({{< relref "presentation_zen_design" >}})
 * [Presentation Tips]({{< relref "presentation_tips" >}})
+* [Probase]({{< relref "probase" >}})
 * [Problem solving and modelling with Graphs]({{< relref "problem_solving_and_modelling_with_graphs" >}})
 * [Producing open source software]({{< relref "producing_open_source_software" >}})
 * [Programmers at Work]({{< relref "programmers_at_work" >}})

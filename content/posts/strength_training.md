@@ -1,5 +1,7 @@
 {"title": "Strength training", "tags": []}
 
+[My playlist of barbell lifts](https://www.youtube.com/playlist?list=PLGl18V34_GlIrThHGT9-c4tr-HmsHGtt1)
+
 https://thefitness.wiki/routines/strength-training-muscle-building/
 
 # Dead hang

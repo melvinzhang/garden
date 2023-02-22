@@ -14,3 +14,7 @@
 
 [Comments for CS3230]({{< relref "comments_for_cs3230" >}})
 
+[Problem Setting]({{< relref "problem_setting" >}})
+
+[Python as first language]({{< relref "python_as_first_language" >}})
+

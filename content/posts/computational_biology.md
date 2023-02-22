@@ -1,5 +1,9 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[Protein Inference Problem]({{< relref "protein_inference_problem" >}})
+
+[Probe Selection]({{< relref "probe_selection" >}})
+
 [Spectral Alignment]({{< relref "spectral_alignment" >}})
 
 [Spectral Profiles]({{< relref "spectral_profiles" >}})
