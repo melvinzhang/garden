@@ -12,6 +12,8 @@ Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren
 
 [Producing open source software]({{< relref "producing_open_source_software" >}})
 
+[Subversion]({{< relref "subversion" >}})
+
 offline bug tracker
 * git-bug
 

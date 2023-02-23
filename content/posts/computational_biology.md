@@ -1,5 +1,9 @@
 {"title": "Computational Biology", "tags": ["moc"]}
 
+[True Ancestral Events on Phylogenetic Trees]({{< relref "true_ancestral_events_on_phylogenetic_trees" >}})
+
+[Synteny in Comparative Genomics]({{< relref "synteny_in_comparative_genomics" >}})
+
 [Protein Inference Problem]({{< relref "protein_inference_problem" >}})
 
 [Probe Selection]({{< relref "probe_selection" >}})

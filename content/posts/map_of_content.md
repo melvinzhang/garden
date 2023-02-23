@@ -15,3 +15,4 @@
 * [lifehack]({{< relref "lifehack" >}})
 * [discrete mathematics]({{< relref "discrete_mathematics" >}})
 * [teaching]({{< relref "teaching" >}})
+* [computing applications]({{< relref "computing_applications" >}})

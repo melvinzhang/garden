@@ -1,5 +1,11 @@
 {"title": "teaching", "tags": ["moc"]}
 
+[University and Industry]({{< relref "university_and_industry" >}})
+
+[Tackling Programming Assignments]({{< relref "tackling_programming_assignments" >}})
+
+[Science Education]({{< relref "science_education" >}})
+
 [Teaching Scratch]({{< relref "teaching_scratch" >}})
 
 [Teaching Tips]({{< relref "teaching_tips" >}})

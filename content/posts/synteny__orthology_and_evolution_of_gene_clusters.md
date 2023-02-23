@@ -1,4 +1,6 @@
-{"title": "Synteny, Orthology and Evolution of Gene Clusters", "tags": ["talk", "peter_stadler", "gcm2009"]}
+{"title": "Synteny, Orthology and Evolution of Gene Clusters", "tags": ["talk"]}
+
+Presented by Peter Stadler at GCM2009
 
 # Hox gene clusters
 Hox genes are homeodomain transcription factors

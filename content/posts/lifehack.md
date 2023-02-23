@@ -12,5 +12,8 @@
 
 [Household appliances]({{< relref "household_appliances" >}})
 
-https://efficiencyiseverything.com/
+[Saving space in LaTeX]({{< relref "saving_space_in_latex" >}})
+
+Related
+* https://efficiencyiseverything.com/
 
