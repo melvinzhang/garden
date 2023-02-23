@@ -18,3 +18,5 @@
 
 uplift modelling
 
+[Computer Age Statistical Inference](https://hastie.su.domains/CASI/)
+

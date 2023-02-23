@@ -1,5 +1,7 @@
 {"title": "lifehack", "tags": ["moc"]}
 
+[Personal finance]({{< relref "personal_finance" >}})
+
 [Night hydration]({{< relref "night_hydration" >}})
 
 [Water Pomodoro]({{< relref "water_pomodoro" >}})
