@@ -521,6 +521,8 @@
 * [getopt-generics]({{< relref "getopt_generics" >}})
 * [The Derivative of a Regular Type is its Type of One-Hole Contexts]({{< relref "the_derivative_of_a_regular_type_is_its_type_of_one_hole_contexts" >}})
 * [Hack and Tell 2015-07-02 2000]({{< relref "hack_and_tell_2015_07_02_2000" >}})
+* [Any angle path finding on grids]({{< relref "any_angle_path_finding_on_grids" >}})
+* [F2P Design: from WTF to Awesome]({{< relref "f2p_design__from_wtf_to_awesome" >}})
 * [using alpine linux to create smaller docker images]({{< relref "using_alpine_linux_to_create_smaller_docker_images" >}})
 * [Intro to Linux]({{< relref "intro_to_linux" >}})
 * [Julia at the frontier: fast, flexible, fun]({{< relref "julia_at_the_frontier__fast__flexible__fun" >}})

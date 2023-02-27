@@ -18,9 +18,11 @@ Challenges:
 
 Open problems:
 * pass-adversary, cyclic-adversary, see https://goattack.far.ai/
+* requires special input for whether ladder works or not
+* flying dagger joseki weakness, and possibly a few pincer joseki
+* mirror Go wins as white
 * train a net to "see" future states to be able to adjust its current policy
 * playing like a human would at a given level
-* requires special input for whether ladder works or not
 
 [SAI](https://github.com/sai-dev/sai)
 * Sensible Artificial Intelligence that plays with handicap and targets high scores in 9×9 Go
