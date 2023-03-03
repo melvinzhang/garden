@@ -8,7 +8,8 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
-* [LD 137: Flexagon]({{< relref "flexagon" >}})
+* [LD 139: Flexagon]({{< relref "flexagon" >}})
+* [LD 137: Self-working magic]({{< relref "self_working_magic" >}})
 * [LD 136: LotR LCG]({{< relref "lotr_lcg" >}})
 * [LD 135: Self-working magic]({{< relref "self_working_magic" >}})
 * [LD 134: The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "the_elephant_in_the_brain__hidden_motives_in_everyday_life" >}})

@@ -1,4 +1,6 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* why are veins blue
+  * due to our skin scattering red light
 * lotr lcg online
 * fitch cheney's five card trick
 * stoic exercises

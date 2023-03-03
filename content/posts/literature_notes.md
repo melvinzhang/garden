@@ -458,6 +458,7 @@
 * [Introduction to scikit-learn]({{< relref "introduction_to_scikit_learn" >}})
 * [Organising programs without classes]({{< relref "organising_programs_without_classes" >}})
 * [A mathematical theory of communication]({{< relref "a_mathematical_theory_of_communication" >}})
+* [Barcamp 2014]({{< relref "barcamp_2014" >}})
 * [How we do 60fps in our 3d RTS mobile game]({{< relref "how_we_do_60fps_in_our_3d_rts_mobile_game" >}})
 * [Underwater autonomous vehicle]({{< relref "underwater_autonomous_vehicle" >}})
 * [Hardware Prototyping 101]({{< relref "hardware_prototyping_101" >}})
