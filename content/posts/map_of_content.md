@@ -16,3 +16,4 @@
 * [discrete mathematics]({{< relref "discrete_mathematics" >}})
 * [teaching]({{< relref "teaching" >}})
 * [computing applications]({{< relref "computing_applications" >}})
+* [web3]({{< relref "web3" >}})

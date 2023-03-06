@@ -24,3 +24,9 @@ Scaling
 End user tools
 * [GasHawk](https://www.gashawk.io/)
   * submit txns when gas is slow
+
+Researchers
+* Dankrad Feist
+* Tarun Chitra
+* Guillermo Angeris
+
