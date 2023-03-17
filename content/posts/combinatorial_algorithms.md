@@ -1,5 +1,14 @@
 {"title": "combinatorial algorithms", "tags": ["moc", "interest"]}
 
+[The Design of Approximation Algorithms](https://www.designofapproxalgs.com/)
+
+[Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+* covers historical context
+
+[Network Flow]({{< relref "network_flow" >}})
+
+[single source shortest path]({{< relref "single_source_shortest_path" >}})
+
 [Shortest Common Supersequence]({{< relref "shortest_common_supersequence" >}})
 
 [Perfect graphs]({{< relref "perfect_graphs" >}})

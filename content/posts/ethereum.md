@@ -4,10 +4,7 @@
 * [ethstats](https://ethstats.net/)
 * [research](https://ethereum.org/en/community/research/)
 
-Smart contracts
-* EVM
-* Solidity
-* Vyper
+[Smart contracts]({{< relref "smart_contracts" >}})
 
 Consensus
 * Proof of stake

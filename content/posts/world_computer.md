@@ -1,4 +1,6 @@
-{"title": "Decentralized Finance", "tags": ["moc"]}
+{"title": "world computer", "tags": ["moc"]}
+
+https://www.developerreport.com/
 
 * [defiprime](https://defiprime.com/)
 
@@ -18,4 +20,12 @@ Selling covered calls as a way to take profits.
 [DeFi MOOC]({{< relref "defi_mooc" >}})
 
 [Crypto lending]({{< relref "crypto_lending" >}})
+
+[Zero knowledge proofs]({{< relref "zero_knowledge_proofs" >}})
+
+[Ethereum]({{< relref "ethereum" >}})
+
+[blockchain mining]({{< relref "blockchain_mining" >}})
+
+[Smart contracts]({{< relref "smart_contracts" >}})
 

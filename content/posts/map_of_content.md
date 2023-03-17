@@ -5,7 +5,7 @@
 * [GNU/Linux]({{< relref "gnu_linux" >}})
 * [Game changers]({{< relref "game_changers" >}})
 * [Awesome techniques]({{< relref "awesome_techniques" >}})
-* [Decentralized Finance]({{< relref "decentralized_finance" >}})
+* [world computer]({{< relref "world_computer" >}})
 * [edtech]({{< relref "edtech" >}})
 * [Computational Biology]({{< relref "computational_biology" >}})
 * [Computability]({{< relref "computability" >}})
@@ -16,4 +16,3 @@
 * [discrete mathematics]({{< relref "discrete_mathematics" >}})
 * [teaching]({{< relref "teaching" >}})
 * [computing applications]({{< relref "computing_applications" >}})
-* [web3]({{< relref "web3" >}})

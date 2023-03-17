@@ -2,4 +2,8 @@
 
 Programmable blockchain, world computer.
 
+Languages
+* EVM
+* Solidity
+* Vyper
 

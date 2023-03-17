@@ -9,6 +9,7 @@ Whenever I come across a potential topic, I note it down in [possible sharing to
 
 The following is a list of topics I've shared in past LDs:
 * [LD 139: Flexagon]({{< relref "flexagon" >}})
+* [LD 138: Inflation]({{< relref "inflation" >}})
 * [LD 137: Self-working magic]({{< relref "self_working_magic" >}})
 * [LD 136: LotR LCG]({{< relref "lotr_lcg" >}})
 * [LD 135: Self-working magic]({{< relref "self_working_magic" >}})
@@ -124,7 +125,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 65: Stock exchange]({{< relref "ld_65__stock_exchange" >}})
 * [LD 61: Procedural content generation]({{< relref "procedural_content_generation" >}})
 * [LD 58: Brave and BAT]({{< relref "ld_58__brave_and_bat" >}})
-* [LD 57: Decentralized Finance]({{< relref "decentralized_finance" >}})
+* [LD 57: World Computer]({{< relref "world_computer" >}})
 * [LD 56: Quantum Supremacy]({{< relref "ld_56__quantum_supremacy" >}})
 * [LD 54: Multi-arm bandits]({{< relref "multi_arm_bandits" >}})
 * [LD 53: Breakfast, Lunch, Dinner]({{< relref "ld_53__breakfast__lunch__dinner" >}})

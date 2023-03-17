@@ -223,7 +223,6 @@
 * [Multi-stage iterative thresholding for binarization of documents]({{< relref "multi_stage_iterative_thresholding_for_binarization_of_documents" >}})
 * [Murzin2010]({{< relref "murzin2010" >}})
 * [Mystery of intron splicing]({{< relref "mystery_of_intron_splicing" >}})
-* [Network Flow Series]({{< relref "network_flow_series" >}})
 * [Gai2003]({{< relref "gai2003" >}})
 * [News from the RNA world]({{< relref "news_from_the_rna_world" >}})
 * [One class per named entity]({{< relref "one_class_per_named_entity" >}})
