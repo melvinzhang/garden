@@ -5,6 +5,8 @@
 [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 * covers historical context
 
+[Algorithms for Competitive Programming](https://cp-algorithms.com/)
+
 [Network Flow]({{< relref "network_flow" >}})
 
 [single source shortest path]({{< relref "single_source_shortest_path" >}})

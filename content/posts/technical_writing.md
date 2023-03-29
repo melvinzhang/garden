@@ -13,3 +13,7 @@ Pandoc can convert markdown to LaTeX and then PDF.
 
 [Quarto](https://quarto.org/) builds upon pandoc, allows executing code fragments.
 
+[typst](https://typst.app/)
+
+https://writing-resources.github.io/awesome-scientific-writing/
+

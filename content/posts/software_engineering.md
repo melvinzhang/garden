@@ -17,3 +17,6 @@ Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren
 offline bug tracker
 * git-bug
 
+https://developers.google.com/web/fundamentals/performance/poor-connectivity
+* https://jagt.github.io/clumsy/index.html for windows
+
