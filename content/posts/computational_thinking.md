@@ -17,3 +17,5 @@ Workshop for seniors
 
 [CT for humanities students](https://comp-think.github.io/)
 
+https://www.philocomp.net/home.htm
+

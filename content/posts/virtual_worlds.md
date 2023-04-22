@@ -25,6 +25,8 @@ Roguelike
 * https://github.com/tmewett/BrogueCE
 * [Elona+ Custom-GX](https://github.com/Ruin0x11/ElonaPlusCustom-GX)
 * [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
+* Shadow of the Wyrm
+* The Ground Gives Way
 
 MMORPG
 * Guild Wars 2

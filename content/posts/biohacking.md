@@ -1,4 +1,9 @@
 {"title": "biohacking", "tags": []}
+
+https://blueprint.bryanjohnson.co/
+
+https://drstanfield.com/my-supplements/
+
 Vitamin D
 * https://www.grc.com/health/vitamin-d.htm
 

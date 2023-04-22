@@ -35,6 +35,10 @@ One-eyed Go
 * much easier to make a living group
 * https://senseis.xmp.net/?OneEyedGo
 
+Hexagonal Go
+* Go Without Ko on Hexagonal Grids, Browne2012
+* TriGo, Bloom
+
 Kill-all Go
 * White wins if it can have at least one stone on the board
 * KataGo using komi 80.5 thinks that 9x9 H5 is white win, 9x9 H6 is black win

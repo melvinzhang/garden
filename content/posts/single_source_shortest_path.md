@@ -12,3 +12,8 @@ Bellman-Ford-Moore
 [Randomized Speedup of the Bellman–Ford Algorithm](https://arxiv.org/pdf/1111.5414.pdf)
 * mn/3 + m relaxation steps in expectation
 
+Goal directed or point to point SP
+* A* landmarks and triangle inequality (ALT)
+
+[A Survey of Shortest-Path Algorithms](https://arxiv.org/abs/1705.02044)
+

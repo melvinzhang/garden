@@ -34,9 +34,10 @@ Using games
 
 [Computational thinking]({{< relref "computational_thinking" >}})
 
-Web
+Web with Python
 * https://brython.info/
 * https://pynecone.io/
+* https://github.com/zauberzeug/nicegui
 
 CS3230 Design and Analysis of Algorithms
 * [CS3230 Project]({{< relref "cs3230_project" >}})

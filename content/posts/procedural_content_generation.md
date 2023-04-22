@@ -24,8 +24,9 @@ Talk of the Town
 Curating simulated storyworlds
 
 Story generation
-Simulationist
+* https://laramartin.net/resources.html
 * https://www.theverge.com/2021/11/30/22807568/procedural-storytelling-video-games-dwarf-fortress-wildermyth-blaseball
+* Simulationist
 
 Kismet
 * light weight social simulation language/engine
@@ -37,4 +38,7 @@ Kismet
 
 Generating puzzles
 * solver, generator, filter
+
+[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+* https://reverie.herokuapp.com/arXiv_Demo/
 

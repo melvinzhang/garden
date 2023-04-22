@@ -6,3 +6,6 @@
 [BookStack](https://www.bookstackapp.com/)
 * WYSIWYG interface for editing pages
 
+https://affine.pro/
+* Notion + Miro in one
+

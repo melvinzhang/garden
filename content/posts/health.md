@@ -35,5 +35,3 @@ fasting
 
 [Metabolism myths]({{< relref "metabolism_myths" >}})
 
-https://blueprint.bryanjohnson.co/
-

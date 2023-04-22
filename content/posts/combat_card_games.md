@@ -10,6 +10,8 @@
 * Keyforge
   * each deck is unique, procedurally generated
   * community site for online play, https://thecrucible.online/
+* Mindbug
+  * ability to steal two of your opponent's creatures
 * Marvel Snap
 * Faeria
 * Flesh and Blood TCG
@@ -32,6 +34,7 @@
 * [Doom Crop](http://www.doomcrop.com/)
 * [The battle for Trionfey](http://www.fan-o.com/instructions.html)
 * [Figgie](https://figgie.com/)
+* [Crown Rivals](https://weheartgames.itch.io/crown-rivals)
 
 # reference
 https://www.pagat.com/combat/

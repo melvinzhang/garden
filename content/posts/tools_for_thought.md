@@ -2,7 +2,7 @@
 
 https://www.rheingold.com/texts/tft/
 
-https://numinous.productions/ttft/
+[How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 
 https://www.bytesized.xyz/tools-for-thought/
 
