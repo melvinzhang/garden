@@ -1,6 +1,6 @@
 {"title": "Ranking items given positive and negative ratings", "tags": []}
 
-Lower bound of the Wilson interval, see [Computing confidence intervals]({{< relref "computing_confidence_intervals" >}})
+Lower bound of the Wilson interval, see [confidence interval]({{< relref "confidence_interval" >}})
 https://www.evanmiller.org/how-not-to-sort-by-average-rating.html
 
 [Zhang 2011, How to Count Thumb-Ups and Thumb-Downs](https://www.dcs.bbk.ac.uk/~dell/publications/dellzhang_ictir2011_slides.pdf)

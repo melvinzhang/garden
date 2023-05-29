@@ -1,4 +1,7 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* Pig (card game)
+* https://www.hanab.cards/
+* https://scaleofuniverse.com/
 * little known laws in sg
 * blood facts
   * veins are blue as our skin scatters red light

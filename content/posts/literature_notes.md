@@ -526,6 +526,7 @@
 * [using alpine linux to create smaller docker images]({{< relref "using_alpine_linux_to_create_smaller_docker_images" >}})
 * [Intro to Linux]({{< relref "intro_to_linux" >}})
 * [Julia at the frontier: fast, flexible, fun]({{< relref "julia_at_the_frontier__fast__flexible__fun" >}})
+* [VR educational games]({{< relref "vr_educational_games" >}})
 * [The Linux scheduler: a decade of wasted cores]({{< relref "the_linux_scheduler__a_decade_of_wasted_cores" >}})
 * [Debugging Javascript without console.log]({{< relref "debugging_javascript_without_console_log" >}})
 * [Tic-Tac-Toe with React Native and SocketIO]({{< relref "tic_tac_toe_with_react_native_and_socketio" >}})

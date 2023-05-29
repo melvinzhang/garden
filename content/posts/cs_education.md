@@ -1,4 +1,4 @@
-{"title": "Computer science education", "tags": ["teaching", "contrib", "interest"]}
+{"title": "cs education", "tags": ["teaching", "contrib", "interest"]}
 CREATED: 200710180306
 
 Open problems
@@ -31,6 +31,10 @@ Using games
 * Minecraft clone in 50 lines Python using the Ursina game engine
   * https://github.com/pokepetter/ursina/blob/master/samples/minecraft_clone.py
 * [Games based on Computer Science]({{< relref "games_based_on_computer_science" >}})
+
+Using virtual environments
+* [Micromouse Maze Simulator](https://mmsim.readthedocs.io/en/stable/)
+* [Malmo](https://github.com/microsoft/malmo)
 
 [Computational thinking]({{< relref "computational_thinking" >}})
 

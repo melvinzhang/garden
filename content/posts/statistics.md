@@ -14,6 +14,8 @@
 
 [Maximum likelihood estimator for memory half-life]({{< relref "maximum_likelihood_estimator_for_memory_half_life" >}})
 
+[confidence interval]({{< relref "confidence_interval" >}})
+
 uplift modelling
 
 Bonferroni correction

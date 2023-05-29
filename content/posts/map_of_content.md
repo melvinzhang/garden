@@ -9,6 +9,7 @@
 * [edtech]({{< relref "edtech" >}})
 * [Computational Biology]({{< relref "computational_biology" >}})
 * [Computability]({{< relref "computability" >}})
+* [decentralized finance]({{< relref "decentralized_finance" >}})
 * [software engineering]({{< relref "software_engineering" >}})
 * [health]({{< relref "health" >}})
 * [statistics]({{< relref "statistics" >}})

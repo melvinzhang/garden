@@ -1,4 +1,4 @@
-{"title": "Computing confidence intervals", "tags": ["statistics"]}
+{"title": "confidence interval", "tags": ["statistics"]}
 
 Exact CIs must include the parameter at the given confidence level.
 
@@ -16,6 +16,10 @@ statsmodels.stats.proportion.proportion_confint
 
 Web calculator for proportion CI using Wilson, Jeffreys, Agresti-Coull, Clopper-Pearson
 https://epitools.ausvet.com.au/ciproportion
+
+[Dance of the CIs](https://logarithmic.net/2017/dance/)
+* repeating the experiment many times, the fraction of experiments where true value is contained in the 95% CI is 95%
+* 95% CI represent values that are not statistically significantly different from the point estimate at the .05 level
 
 Refs
 * ExactCIdiff: An R Package for Computing Exact Confidence Intervals for the Difference of Two Proportions

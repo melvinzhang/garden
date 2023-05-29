@@ -12,6 +12,7 @@
   * community site for online play, https://thecrucible.online/
 * Mindbug
   * ability to steal two of your opponent's creatures
+* Radlands
 * Marvel Snap
 * Faeria
 * Flesh and Blood TCG

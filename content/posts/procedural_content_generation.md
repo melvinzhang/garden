@@ -1,9 +1,23 @@
 {"title": "Procedural content generation", "tags": ["pcg", "interest"]}
 
+[Narrative Intelligence Lab](https://www.cs.uky.edu/~sgware)
+
+[PROCJAM](https://www.procjam.com/)
+
+Michael Cook
+* https://illomens.itch.io/nothing-beside-remains
+* https://illomens.itch.io/condition-unknown
+
+Shadows of Doubt
+* solve murder mystery
+
 Dwarf Fortress
 * history, lore
 * world
 * encounters?
+
+RimWorld
+* storyteller
 
 Minecraft
 * world gen

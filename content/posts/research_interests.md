@@ -3,7 +3,7 @@
 * [algorithmic trading]({{< relref "algorithmic_trading" >}})
 * [Bootstrapping compiler/interpreter]({{< relref "bootstrapping_compiler_interpreter" >}})
 * [combinatorial algorithms]({{< relref "combinatorial_algorithms" >}})
-* [Computer science education]({{< relref "computer_science_education" >}})
+* [cs education]({{< relref "cs_education" >}})
 * [embedded scripting language]({{< relref "embedded_scripting_language" >}})
 * [game ai]({{< relref "game_ai" >}})
 * [Intelligent tutoring system]({{< relref "intelligent_tutoring_system" >}})

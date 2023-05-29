@@ -6,6 +6,10 @@ Interactive fiction
 * Curveship
   * https://nickm.com/curveship/
 * https://ifdb.org/
+* Twine
+* Ink
+* Informs
+* TADS
 
 MUD
 * MUD1 and MUD2
