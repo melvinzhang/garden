@@ -65,6 +65,7 @@ shell
 viewer
 * feh
 * mupdf
+* foliate, epub reader
 
 install
 * wajig

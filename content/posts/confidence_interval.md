@@ -17,6 +17,10 @@ statsmodels.stats.proportion.proportion_confint
 Web calculator for proportion CI using Wilson, Jeffreys, Agresti-Coull, Clopper-Pearson
 https://epitools.ausvet.com.au/ciproportion
 
+https://www.statskingdom.com/confidence-interval-calculators.html
+
+Fieller's theorem for CI of ratio of two means
+
 [Dance of the CIs](https://logarithmic.net/2017/dance/)
 * repeating the experiment many times, the fraction of experiments where true value is contained in the 95% CI is 95%
 * 95% CI represent values that are not statistically significantly different from the point estimate at the .05 level
