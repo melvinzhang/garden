@@ -35,6 +35,7 @@
 * [scheme2llvm compiler]({{< relref "scheme2llvm_compiler" >}})
 * [Sliding Window Cluster]({{< relref "sliding_window_cluster" >}})
 * [Solving the TSP for warehouses]({{< relref "solving_the_tsp_for_warehouses" >}})
+* [statistics with python]({{< relref "statistics_with_python" >}})
 * [telegram bot for teaching english]({{< relref "telegram_bot_for_teaching_english" >}})
 * [Unequal Content Phylogeny]({{< relref "unequal_content_phylogeny" >}})
 * [Using Elo rating to estimate learner's skill and question difficulty]({{< relref "using_elo_rating_to_estimate_learner_s_skill_and_question_difficulty" >}})

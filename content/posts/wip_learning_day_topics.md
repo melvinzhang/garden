@@ -1,4 +1,5 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* https://www.geckoboard.com/best-practice/statistical-fallacies/
 * Pig (card game)
 * https://scaleofuniverse.com/
 * little known laws in sg

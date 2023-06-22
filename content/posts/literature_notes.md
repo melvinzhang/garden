@@ -568,5 +568,6 @@
 * [Career chats @Swiss 2022]({{< relref "career_chats__swiss_2022" >}})
 * [The combinatorial invariance conjecture and machine learning]({{< relref "the_combinatorial_invariance_conjecture_and_machine_learning" >}})
 * [PyConSG Education summit 2022]({{< relref "pyconsg_education_summit_2022" >}})
+* [PyConSG Education summit 2023]({{< relref "pyconsg_education_summit_2023" >}})
 * [underwater robotics]({{< relref "underwater_robotics" >}})
 * [The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "the_elephant_in_the_brain__hidden_motives_in_everyday_life" >}})
