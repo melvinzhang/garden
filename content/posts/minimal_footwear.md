@@ -1,5 +1,8 @@
 {"title": "Minimal footwear", "tags": ["footwear", "minimalist"]}
 CREATED: 201003100610
+
+Water Shoes, used in kayaking
+
 Vivobarefoot Evo
 
 Terra Plana Shop Singapore
