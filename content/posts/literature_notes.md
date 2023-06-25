@@ -85,6 +85,7 @@
 * [Conservation and Evolution of Regulatory Elements in Mammalian Genomes]({{< relref "conservation_and_evolution_of_regulatory_elements_in_mammalian_genomes" >}})
 * [Corban2010]({{< relref "corban2010" >}})
 * [Costello2008]({{< relref "costello2008" >}})
+* [Cracking the UX code]({{< relref "cracking_the_ux_code" >}})
 * [Cryptographic Hashing]({{< relref "cryptographic_hashing" >}})
 * [On the Cruelty of Really Teaching Computer Science Redux]({{< relref "on_the_cruelty_of_really_teaching_computer_science_redux" >}})
 * [Csuros2010]({{< relref "csuros2010" >}})

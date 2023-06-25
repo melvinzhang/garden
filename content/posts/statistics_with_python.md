@@ -1,8 +1,9 @@
 {"title": "statistics with python", "tags": ["contrib"]}
 
-3 examples of using Python to explore topics in Statistics.
+Three examples of using Python to explore topics in Statistics.
+* Monty Hall problem
+* Birthday paradox
+* The most dangerous equation
 
-[Statistics with Python](https://melvinzhang.github.io/stats-with-python/#/title-slide)
-
-Lighting talk for PyCon SG Education Summit 2023
+[Slides](https://melvinzhang.github.io/stats-with-python/#/title-slide) for lighting talk at PyCon SG Education Summit 2023
 

@@ -26,6 +26,8 @@ Types of writing:
 
 [spaced repetition]({{< relref "spaced_repetition" >}})
 
+[Computing augments human thought]({{< relref "computing_augments_human_thought" >}})
+
 https://www.rationality.org/resources/handbook
 
 https://www.betaworks.com/event/render-tools-for-thinking
