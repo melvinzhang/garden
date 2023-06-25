@@ -3,7 +3,7 @@ Presented by Hong Zhu at NUS on 8th Feb 2010
 
 Variant of job shop scheduling that arises in software testing.
 
-Given $n$ jobs and $m$ machines, each job must run on machine 1 for $d$ units and $p_k$
+Given `\(n\)` jobs and \(m\) machines, each job must run on machine 1 for $d$ units and $p_k$
 units on any one of the other $m-1$ machine, minimize maxspan.
 
 NP-hard when $m \ge 3$ via reduction from partitioning problem. For $d = 0, m = 3$,
