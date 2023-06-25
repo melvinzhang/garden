@@ -1,5 +1,8 @@
 {"title": "Algorithm Analysis", "tags": []}
 CREATED: 200701150332
+
+[QuickSort Analysis]({{< relref "quicksort_analysis" >}})
+
 ** Summation
  * Trivial upper bound, assume all terms as large as the largest term
  * Trivial lower bound, sum the upper/larger half of the terms, assume all terms as large as the smallest term
