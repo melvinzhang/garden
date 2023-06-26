@@ -18,3 +18,4 @@
 * [teaching]({{< relref "teaching" >}})
 * [computing applications]({{< relref "computing_applications" >}})
 * [games]({{< relref "games" >}})
+* [Food]({{< relref "food" >}})

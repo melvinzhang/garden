@@ -62,6 +62,16 @@ online graph exploration
 
 finding code clones with mismatches
 
+# Graph isomorphism
+
+Babai 2017, {{< katex >}}2^O(\log^3 n){{< /katex >}} for Graph Isomophism
+
+# Group isomorphism
+
+Tarjan 1978, {{< katex >}}n^{\log n + O(1)}{{< /katex >}}
+
+Xiaorui Sun 2023, {{< katex >}}n^{\log^{5/6} n}{{< /katex >}} p-groups of class 2 and exponent p for prime p > 2.
+
 # Techniques/tricks
 * Tournament
 * Naming technique

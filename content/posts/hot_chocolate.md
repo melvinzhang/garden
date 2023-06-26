@@ -1,4 +1,4 @@
-{"title": "hot chocolate", "tags": []}
+{"title": "hot chocolate", "tags": ["food"]}
 
 https://www.easycheesyvegetarian.com/homemade-instant-hot-chocolate-mix/
 

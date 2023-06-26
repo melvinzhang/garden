@@ -32,3 +32,5 @@
 
 [pencil and paper games]({{< relref "pencil_and_paper_games" >}})
 
+[Single player games]({{< relref "single_player_games" >}})
+
