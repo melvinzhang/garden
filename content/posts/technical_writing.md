@@ -17,3 +17,13 @@ Pandoc can convert markdown to LaTeX and then PDF.
 
 https://writing-resources.github.io/awesome-scientific-writing/
 
+MathJax vs KaTeX
+* MathJax accepts more input formats than KaTeX
+* MathJax supports more symbols
+* MathJax v3 does not support line breaks, v4 adds support but still in alpha
+* https://www.intmath.com/cg5/katex-mathjax-comparison.php
+
+Markdown in browser
+* https://casual-effects.com/markdeep/
+* https://mathpix.com/docs/mathpix-markdown/overview
+

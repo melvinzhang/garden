@@ -64,13 +64,15 @@ finding code clones with mismatches
 
 # Graph isomorphism
 
-Babai 2017, {{< katex >}}2^O(\log^3 n){{< /katex >}} for Graph Isomophism
+Babai 2017, {{< katex >}}2^{O(\log^3 n)}{{< /katex >}}
+
+Babai and Luks 1983, {{< katex >}}2^{O(\sqrt{n \log n})}{{< /katex >}}
 
 # Group isomorphism
 
-Tarjan 1978, {{< katex >}}n^{\log n + O(1)}{{< /katex >}}
+Xiaorui Sun 2023, {{< katex >}}n^{O(\log^{5/6} n)}{{< /katex >}} for p-groups of class 2 and exponent p for prime p > 2.
 
-Xiaorui Sun 2023, {{< katex >}}n^{\log^{5/6} n}{{< /katex >}} p-groups of class 2 and exponent p for prime p > 2.
+Tarjan 1978, {{< katex >}}n^{\log n + O(1)}{{< /katex >}}
 
 # Techniques/tricks
 * Tournament
