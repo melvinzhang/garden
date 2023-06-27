@@ -8,6 +8,7 @@
 * [world computer]({{< relref "world_computer" >}})
 * [edtech]({{< relref "edtech" >}})
 * [Computational Biology]({{< relref "computational_biology" >}})
+* [Tools for thought]({{< relref "tools_for_thought" >}})
 * [Computability]({{< relref "computability" >}})
 * [decentralized finance]({{< relref "decentralized_finance" >}})
 * [software engineering]({{< relref "software_engineering" >}})

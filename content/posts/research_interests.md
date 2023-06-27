@@ -14,4 +14,3 @@
 * [Procedural content generation]({{< relref "procedural_content_generation" >}})
 * [Programming languages]({{< relref "programming_languages" >}})
 * [software verification]({{< relref "software_verification" >}})
-* [Tools for thought]({{< relref "tools_for_thought" >}})

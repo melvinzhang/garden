@@ -1,4 +1,4 @@
-{"title": "Tools for thought", "tags": ["interest"]}
+{"title": "Tools for thought", "tags": ["moc"]}
 
 https://www.rheingold.com/texts/tft/
 
@@ -27,6 +27,8 @@ Types of writing:
 [spaced repetition]({{< relref "spaced_repetition" >}})
 
 [Computing augments human thought]({{< relref "computing_augments_human_thought" >}})
+
+[mental models]({{< relref "mental_models" >}})
 
 https://www.rationality.org/resources/handbook
 

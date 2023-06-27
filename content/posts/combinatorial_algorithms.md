@@ -33,6 +33,8 @@
 
 [Algorithm Analysis]({{< relref "algorithm_analysis" >}})
 
+[rank aggregation]({{< relref "rank_aggregation" >}})
+
 Distribute cards into 13 piles. They can always be arranged with distinct ranks as the first card.
 * application of Hall's Theorem
 * reference: https://www.jstor.org/stable/2589146
