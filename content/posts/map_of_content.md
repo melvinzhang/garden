@@ -19,3 +19,4 @@
 * [computing applications]({{< relref "computing_applications" >}})
 * [games]({{< relref "games" >}})
 * [Food]({{< relref "food" >}})
+* [visualization]({{< relref "visualization" >}})
