@@ -583,6 +583,7 @@
 * [Career chats @Swiss 2022]({{< relref "career_chats__swiss_2022" >}})
 * [The Liar Game: Truths & Proofs from Euclid to Turing]({{< relref "the_liar_game__truths___proofs_from_euclid_to_turing" >}})
 * [The combinatorial invariance conjecture and machine learning]({{< relref "the_combinatorial_invariance_conjecture_and_machine_learning" >}})
+* [a crash course in data-driven storytelling techniques]({{< relref "a_crash_course_in_data_driven_storytelling_techniques" >}})
 * [PyConSG Education summit 2022]({{< relref "pyconsg_education_summit_2022" >}})
 * [PyConSG Education summit 2023]({{< relref "pyconsg_education_summit_2023" >}})
 * [underwater robotics]({{< relref "underwater_robotics" >}})

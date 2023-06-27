@@ -16,6 +16,8 @@
 
 [Saving space in LaTeX]({{< relref "saving_space_in_latex" >}})
 
+[conversation starters]({{< relref "conversation_starters" >}})
+
 Related
 * https://efficiencyiseverything.com/
 
