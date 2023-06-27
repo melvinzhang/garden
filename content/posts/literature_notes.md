@@ -581,6 +581,7 @@
 * [Learning Day 107.5]({{< relref "learning_day_107_5" >}})
 * [Learning Day 109.5]({{< relref "learning_day_109_5" >}})
 * [Career chats @Swiss 2022]({{< relref "career_chats__swiss_2022" >}})
+* [The Liar Game: Truths & Proofs from Euclid to Turing]({{< relref "the_liar_game__truths___proofs_from_euclid_to_turing" >}})
 * [The combinatorial invariance conjecture and machine learning]({{< relref "the_combinatorial_invariance_conjecture_and_machine_learning" >}})
 * [PyConSG Education summit 2022]({{< relref "pyconsg_education_summit_2022" >}})
 * [PyConSG Education summit 2023]({{< relref "pyconsg_education_summit_2023" >}})

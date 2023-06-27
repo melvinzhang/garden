@@ -2,9 +2,11 @@
 
 The [source](https://github.com/melvinzhang/garden) is hosted on [GitHub](https://github.com/).
 
-[Hugo](https://gohugo.io/) generates the site from markdown files using the [Cortex theme](https://github.com/melvinzhang/cortex).
+A custom Python script generates the markdown files from a single source file.
 
-Full text search of the site is provided by [Fuse.js](https://fusejs.io/) using this [query syntax](https://fusejs.io/examples.html#extended-search).
+[Hugo](https://gohugo.io/) generates the site from the markdown files using the [Cortex theme](https://github.com/melvinzhang/cortex).
+
+Full text search uses [Fuse.js](https://fusejs.io/) with this [query syntax](https://fusejs.io/examples.html#extended-search).
 
 Mathematical expressions are rendered using [KaTeX](https://katex.org/).
 

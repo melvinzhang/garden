@@ -29,5 +29,7 @@ Most studied computable functions are primitive recursive.
 
 [Accidentally Turing-Complete]({{< relref "accidentally_turing_complete" >}})
 
+[Computational complexity]({{< relref "computational_complexity" >}})
+
 Jules Richard's 1905 Paradox of definable numbers may have inspired Turing to write his 1936 paper, see Millican2020.
 
