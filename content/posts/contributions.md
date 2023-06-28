@@ -10,6 +10,7 @@
 * [Building a Turing Machine emulator to explore Turing’s great ideas]({{< relref "building_a_turing_machine_emulator_to_explore_turing_s_great_ideas" >}})
 * [Career chats @Swiss 2022]({{< relref "career_chats__swiss_2022" >}})
 * [Clustering based Gene Cluster Discovery]({{< relref "clustering_based_gene_cluster_discovery" >}})
+* [computational thinkerers]({{< relref "computational_thinkerers" >}})
 * [CS4243 project]({{< relref "cs4243_project" >}})
 * [CS5228 project]({{< relref "cs5228_project" >}})
 * [cs education]({{< relref "cs_education" >}})
