@@ -18,6 +18,10 @@
 
 [conversation starters]({{< relref "conversation_starters" >}})
 
+[philosophy as a way of life]({{< relref "philosophy_as_a_way_of_life" >}})
+
+[basin tap maintenance]({{< relref "basin_tap_maintenance" >}})
+
 Related
 * https://efficiencyiseverything.com/
 

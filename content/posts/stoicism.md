@@ -2,7 +2,10 @@
 
 [intro slides by Donald Robertson](https://melvinzhang.keybase.pub/ld/intro-stoicism.pdf)
 
-relation to buddhism, secular humanism
+relation to
+* buddhism
+* secular humanism
+* Miyamoto Musashi's Dokkōdō
 
 practioners
 * Zeno of Citium
