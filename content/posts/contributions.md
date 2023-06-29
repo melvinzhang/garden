@@ -21,6 +21,7 @@
 * [Gene Team Tree]({{< relref "gene_team_tree" >}})
 * [How Alan Turing accidentally invented Software]({{< relref "how_alan_turing_accidentally_invented_software" >}})
 * [Interview with Praxium in 2019]({{< relref "interview_with_praxium_in_2019" >}})
+* [Interview with Praxium in 2022]({{< relref "interview_with_praxium_in_2022" >}})
 * [IT youth award 2007]({{< relref "it_youth_award_2007" >}})
 * [LCCL Computational thinking day]({{< relref "lccl_computational_thinking_day" >}})
 * [Lessons from Developing an AI to Play Magic: The Gathering]({{< relref "lessons_from_developing_an_ai_to_play_magic__the_gathering" >}})
