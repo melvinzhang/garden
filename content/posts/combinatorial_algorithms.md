@@ -7,6 +7,8 @@
 
 [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
+[In-place merging]({{< relref "in_place_merging" >}})
+
 [Network Flow]({{< relref "network_flow" >}})
 
 [single source shortest path]({{< relref "single_source_shortest_path" >}})

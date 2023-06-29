@@ -1,5 +1,7 @@
 {"title": "lifehack", "tags": ["moc"]}
 
+[Tissue paper as tea bag for loose tea leaves]({{< relref "tissue_paper_as_tea_bag_for_loose_tea_leaves" >}})
+
 [Personal finance]({{< relref "personal_finance" >}})
 
 [Night hydration]({{< relref "night_hydration" >}})

@@ -596,6 +596,8 @@
 * [Learning Day 81.0]({{< relref "learning_day_81_0" >}})
 * [Learning Day 107.5]({{< relref "learning_day_107_5" >}})
 * [Learning Day 109.5]({{< relref "learning_day_109_5" >}})
+* [Journey in Blue]({{< relref "journey_in_blue" >}})
+* [Sharing on leadership by Metta]({{< relref "sharing_on_leadership_by_metta" >}})
 * [Career chats @Swiss 2022]({{< relref "career_chats__swiss_2022" >}})
 * [The Liar Game: Truths & Proofs from Euclid to Turing]({{< relref "the_liar_game__truths___proofs_from_euclid_to_turing" >}})
 * [The combinatorial invariance conjecture and machine learning]({{< relref "the_combinatorial_invariance_conjecture_and_machine_learning" >}})
