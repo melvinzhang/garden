@@ -584,7 +584,6 @@
 * [Removing barriers to increase developer productivity]({{< relref "removing_barriers_to_increase_developer_productivity" >}})
 * [Hack and Tell 2019]({{< relref "hack_and_tell_2019" >}})
 * [PyConSG Education summit 2019]({{< relref "pyconsg_education_summit_2019" >}})
-* [Learning Day 67]({{< relref "learning_day_67" >}})
 * [Learning Day 67.5]({{< relref "learning_day_67_5" >}})
 * [Learning Day 68]({{< relref "learning_day_68" >}})
 * [Learning Day 71.5]({{< relref "learning_day_71_5" >}})
