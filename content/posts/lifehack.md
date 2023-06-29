@@ -24,6 +24,8 @@
 
 [basin tap maintenance]({{< relref "basin_tap_maintenance" >}})
 
+[Email]({{< relref "email" >}})
+
 Related
 * https://efficiencyiseverything.com/
 
