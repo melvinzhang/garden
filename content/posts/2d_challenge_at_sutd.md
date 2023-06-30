@@ -1,4 +1,4 @@
-{"title": "2d challenge at SUTD", "tags": []}
+{"title": "2d challenge at SUTD", "tags": ["talk"]}
 [2018-05-31 Thu 13:17:02]
 event: PyCon APAC Edu summit
 speaker: Oka, SUTD

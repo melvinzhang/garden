@@ -16,12 +16,15 @@ Teaching
 
 [Stone counting teaching method](https://senseis.xmp.net/?StoneCountingTeachingMethod)
 * used in Ancient chinese rules
-* [Crazy sensei rules](https://www.crazy-sensei.com/?lang=en&location=rules)
-* [Dieter Verhofstadt recommended introduction](https://senseis.xmp.net/?DieterVerhofstadt%2FrecommendedIntroduction)
 * [純棋](http://jungo.go-en.com/)
-  * (用純棋，10分鐘學會圍棋)[https://video.trend.org/course/用純棋10分鐘學會圍棋]
+  * [用純棋，10分鐘學會圍棋](https://video.trend.org/course/用純棋10分鐘學會圍棋)
+  * [王銘琬九段 純碁講座](https://www.youtube.com/watch?v=jCmHlqIX1p4&t=544s)
+* [Simple Go](https://www.simplego.net/)
+* [Crazy sensei rules](https://www.crazy-sensei.com/?lang=en&location=rules)
 * [SquishyGo](https://puyogo.app/en/)
+* [Nanago](https://nanago.netlify.app/)
 * [Cosumi Jungo](https://www.cosumi.net/jungo.html)
+* [Dieter Verhofstadt recommended introduction](https://senseis.xmp.net/?DieterVerhofstadt%2FrecommendedIntroduction)
 
 Solving Ponnuki-Go on small boards
 * 6x6 with crosscut: black wins

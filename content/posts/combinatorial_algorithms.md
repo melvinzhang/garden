@@ -7,6 +7,8 @@
 
 [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
+[Fast Fourier Transform]({{< relref "fast_fourier_transform" >}})
+
 [In-place merging]({{< relref "in_place_merging" >}})
 
 [Network Flow]({{< relref "network_flow" >}})
