@@ -25,3 +25,11 @@ Koka: a Functional Language with Effects
 
 [embedded scripting language]({{< relref "embedded_scripting_language" >}})
 
+[Python]({{< relref "python" >}})
+
+[CPython execution]({{< relref "cpython_execution" >}})
+
+[lisp]({{< relref "lisp" >}})
+
+[macros]({{< relref "macros" >}})
+

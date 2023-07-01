@@ -700,6 +700,7 @@
 * [Protecting sensitive datasets: cloud tools you can use]({{< relref "protecting_sensitive_datasets__cloud_tools_you_can_use" >}})
 * [The hunt for the elusive fungus gnat]({{< relref "the_hunt_for_the_elusive_fungus_gnat" >}})
 * [PyConSG Education summit 2019]({{< relref "pyconsg_education_summit_2019" >}})
+* [Pythonic]({{< relref "pythonic" >}})
 * [Using Python AST module to track python language features, imported]({{< relref "using_python_ast_module_to_track_python_language_features__imported" >}})
 * [How we learn]({{< relref "how_we_learn" >}})
 * [An optimal algorithm for heavy hitters in insertion streams and related problems]({{< relref "an_optimal_algorithm_for_heavy_hitters_in_insertion_streams_and_related_problems" >}})
