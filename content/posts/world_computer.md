@@ -15,11 +15,7 @@ Contracts holding assets and operating like a financial institute.
 
 Selling covered calls as a way to take profits.
 
-[stablecoins]({{< relref "stablecoins" >}})
-
-[DeFi MOOC]({{< relref "defi_mooc" >}})
-
-[Crypto lending]({{< relref "crypto_lending" >}})
+[decentralized finance]({{< relref "decentralized_finance" >}})
 
 [Zero knowledge proofs]({{< relref "zero_knowledge_proofs" >}})
 
@@ -28,4 +24,6 @@ Selling covered calls as a way to take profits.
 [blockchain mining]({{< relref "blockchain_mining" >}})
 
 [Smart contracts]({{< relref "smart_contracts" >}})
+
+[Solana]({{< relref "solana" >}})
 

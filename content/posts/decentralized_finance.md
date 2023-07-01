@@ -1,8 +1,10 @@
-{"title": "decentralized finance", "tags": ["moc"]}
+{"title": "decentralized finance", "tags": []}
 
-@defi_mooc
+[stablecoins]({{< relref "stablecoins" >}})
 
-@stablecoins
+[DeFi MOOC]({{< relref "defi_mooc" >}})
+
+[Crypto lending]({{< relref "crypto_lending" >}})
 
 Panoptic
 * oracle-free perpetual options based on Uniswap v3

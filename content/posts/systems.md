@@ -1,4 +1,4 @@
-{"title": "computing applications", "tags": ["moc"]}
+{"title": "systems", "tags": ["moc"]}
 
 [Shape based image retrieval system]({{< relref "shape_based_image_retrieval_system" >}})
 
