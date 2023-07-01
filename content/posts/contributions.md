@@ -37,6 +37,7 @@
 * [Programs that Play better than Us]({{< relref "programs_that_play_better_than_us" >}})
 * [scheme2llvm compiler]({{< relref "scheme2llvm_compiler" >}})
 * [Sliding Window Cluster]({{< relref "sliding_window_cluster" >}})
+* [SoC Open House 2023 fireside chat]({{< relref "soc_open_house_2023_fireside_chat" >}})
 * [Solving the TSP for warehouses]({{< relref "solving_the_tsp_for_warehouses" >}})
 * [statistics with python]({{< relref "statistics_with_python" >}})
 * [telegram bot for teaching english]({{< relref "telegram_bot_for_teaching_english" >}})

@@ -1,4 +1,8 @@
-{"title": "Social Robotics", "tags": ["gerhard_sagerer", "robotics", "bielefeld"]}
+{"title": "Social Robotics", "tags": ["talk"]}
+speaker: Dr. Gerhard Sagerer, Rector, Bielefeld University, Germany
+event: Xu Guangqi Lecture Series
+date: 3:00 pm May 6, 2011
+place: Grand Lecture Hall, SIBS Main Building
 
 Measuring cognitive performance
 

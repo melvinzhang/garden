@@ -1,9 +1,11 @@
 {"title": "spaced repetition", "tags": []}
 commit to long term memory
 
-review/update notes
+review/update notes, incremental writing
 
 Ebisu package on Python
+
+FSRS algorithm https://github.com/open-spaced-repetition
 
 https://www.memcode.com/
 

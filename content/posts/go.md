@@ -58,7 +58,7 @@ Kropki
 
 4x4 puzzles
 * Cho U’s 4 by 4 Go Puzzle
-* https://www.101weiqi.com/size/4/
+* third book with 105 problems https://101weiqi.com/book/29223/
 
 9x9 Go
 * https://sites.google.com/view/9x9go/

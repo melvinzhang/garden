@@ -23,8 +23,6 @@
 
 [Interval Packing]({{< relref "interval_packing" >}})
 
-[Hoffman-Knuth Puzzle]({{< relref "hoffman_knuth_puzzle" >}})
-
 [Graph algorithms]({{< relref "graph_algorithms" >}})
 
 [Dynamic Programming]({{< relref "dynamic_programming" >}})
@@ -52,6 +50,8 @@ Distribute cards into 13 piles. They can always be arranged with distinct ranks 
 [Gene Team Tree]({{< relref "gene_team_tree" >}})
 
 [earth mover's distance in 2D grid]({{< relref "earth_mover_s_distance_in_2d_grid" >}})
+
+[succinct representations]({{< relref "succinct_representations" >}})
 
 Exact TSP solver
 

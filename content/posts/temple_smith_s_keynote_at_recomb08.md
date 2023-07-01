@@ -1,4 +1,4 @@
-{"title": "Temple Smith's keynote at RECOMB08", "tags": ["conference"]}
+{"title": "Temple Smith's keynote at RECOMB08", "tags": ["talk"]}
 CREATED: 200803300332
 
 Simple methods for tackling hard problems. Complex systems are produced by a simple process of evolution.
