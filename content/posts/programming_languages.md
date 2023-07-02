@@ -45,3 +45,7 @@ Koka: a Functional Language with Effects
 
 [partial evaluation]({{< relref "partial_evaluation" >}})
 
+[julia]({{< relref "julia" >}})
+
+[Learning SML]({{< relref "learning_sml" >}})
+
