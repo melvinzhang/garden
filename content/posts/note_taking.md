@@ -38,6 +38,10 @@ Beatrice Webb Appendix C: The art of note-taking
 * date, source of information
 * finding the best arrangemet of notes is part of the discovery process
 
+How to Take Smart Notes by Sönke Ahrens
+
+[Bob Doto on Zettelkasten](https://writing.bobdoto.computer/zettelkasten/)
+
 [Types of notes](https://www.seanlawson.net/2020/10/zettelkasten-method-what-why-how-of-getting-started/)
 * summary
   * summary and optional comments

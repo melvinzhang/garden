@@ -34,3 +34,5 @@
 
 [Single player games]({{< relref "single_player_games" >}})
 
+[physics simulation]({{< relref "physics_simulation" >}})
+
