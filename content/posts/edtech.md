@@ -14,3 +14,5 @@ https://www.mathmatize.com/
 
 [Experiential Learning]({{< relref "experiential_learning" >}})
 
+[Intelligent tutoring system]({{< relref "intelligent_tutoring_system" >}})
+

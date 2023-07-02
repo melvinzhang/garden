@@ -18,3 +18,6 @@ Boehm-Demers-Weiser
 CPython + glibc malloc may leak memory as malloc uses sbrk for small blocks and
 CPython does not perform compaction. Switch to jemalloc.
 
+Perceus: Garbage Free Reference Counting with Reuse
+* functional but in-place (FBIP) allows writing mutating algorithms in a purely functional way
+

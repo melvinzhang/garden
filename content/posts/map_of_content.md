@@ -1,5 +1,6 @@
 {"title": "Map of content", "tags": []}
 
+* [Programming languages]({{< relref "programming_languages" >}})
 * [game ai]({{< relref "game_ai" >}})
 * [combinatorial algorithms]({{< relref "combinatorial_algorithms" >}})
 * [GNU/Linux]({{< relref "gnu_linux" >}})

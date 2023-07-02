@@ -1,4 +1,4 @@
-{"title": "algorithmic information theory", "tags": ["ait", "interest"]}
+{"title": "algorithmic information theory", "tags": ["interest"]}
 
 concrete AIT
 * https://github.com/melvinzhang/ait-lisp

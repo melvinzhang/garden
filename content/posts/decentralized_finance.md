@@ -6,6 +6,8 @@
 
 [Crypto lending]({{< relref "crypto_lending" >}})
 
+[algorithmic trading]({{< relref "algorithmic_trading" >}})
+
 Panoptic
 * oracle-free perpetual options based on Uniswap v3
 
