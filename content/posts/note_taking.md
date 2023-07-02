@@ -80,7 +80,6 @@ Other tools:
 * [Silver Bullet](https://silverbullet.md/)
 * [Silicon Notes](https://github.com/cu/silicon)
 * Bangle.io
-* athens
 
 timeline
 * earliest note is from 2006-12-29

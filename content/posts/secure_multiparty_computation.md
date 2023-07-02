@@ -3,7 +3,7 @@
 MPC
 * Person 1 selects a large random number, add secret to it
 * Each other member add to it and pass it around
-* Person 1 gets the sum + random and subtrac the random
+* Person 1 gets the sum + random and subtract the random
 * Not secure
 
 Secret sharing

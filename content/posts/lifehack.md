@@ -1,5 +1,9 @@
 {"title": "lifehack", "tags": ["moc"]}
 
+[Chocolate]({{< relref "chocolate" >}})
+
+[Electricity provider]({{< relref "electricity_provider" >}})
+
 [Split mechanical keyboard]({{< relref "split_mechanical_keyboard" >}})
 
 [Quality of life]({{< relref "quality_of_life" >}})
