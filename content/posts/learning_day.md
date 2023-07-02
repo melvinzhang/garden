@@ -170,7 +170,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 52: Leap year]({{< relref "ld_52__leap_year" >}})
 * [LD 51: Game Theory with Tic-Tac-Toe]({{< relref "ld_51__game_theory_with_tic_tac_toe" >}})
 * [LD 50: Flatness]({{< relref "ld_50__flatness" >}})
-* [LD 49: Useless human anatomy]({{< relref "ld_49__useless_human_anatomy" >}})
+* [LD 49: Useless human anatomy]({{< relref "useless_human_anatomy" >}})
 * [LD 48: Three basket of apples]({{< relref "ld_48__three_basket_of_apples" >}})
 * [LD 47: Adventures in crypto currency]({{< relref "ld_47__adventures_in_crypto_currency" >}})
 * [LD 45: Black holes have no hair]({{< relref "ld_45__black_holes_have_no_hair" >}})
