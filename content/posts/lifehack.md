@@ -1,5 +1,9 @@
 {"title": "lifehack", "tags": ["moc"]}
 
+[microphone]({{< relref "microphone" >}})
+
+[Coffee]({{< relref "coffee" >}})
+
 [Chocolate]({{< relref "chocolate" >}})
 
 [Electricity provider]({{< relref "electricity_provider" >}})

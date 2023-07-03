@@ -550,6 +550,8 @@
 * [Q&A with Jeff Moss, Dino Dai Zovi, Jayson]({{< relref "q_a_with_jeff_moss__dino_dai_zovi__jayson" >}})
 * [ROS and Linorobot]({{< relref "ros_and_linorobot" >}})
 * [VR educational games]({{< relref "vr_educational_games" >}})
+* [Agile practices]({{< relref "agile_practices" >}})
+* [Google Singapore NBU]({{< relref "google_singapore_nbu" >}})
 * [The Linux scheduler: a decade of wasted cores]({{< relref "the_linux_scheduler__a_decade_of_wasted_cores" >}})
 * [The Artist & The Scientists]({{< relref "the_artist___the_scientists" >}})
 * [Adventures with Green Engineering]({{< relref "adventures_with_green_engineering" >}})

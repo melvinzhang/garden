@@ -45,4 +45,5 @@
 * [Using Elo rating to estimate learner's skill and question difficulty]({{< relref "using_elo_rating_to_estimate_learner_s_skill_and_question_difficulty" >}})
 * [Using STT to evaluate speech accuracy]({{< relref "using_stt_to_evaluate_speech_accuracy" >}})
 * [valedictorian speech for commencement]({{< relref "valedictorian_speech_for_commencement" >}})
+* [What is the fastest portable method to cool a hot drink?]({{< relref "what_is_the_fastest_portable_method_to_cool_a_hot_drink_" >}})
 * [Zhang2007]({{< relref "zhang2007" >}})

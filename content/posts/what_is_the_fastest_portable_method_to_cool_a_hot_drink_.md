@@ -1,4 +1,4 @@
-{"title": "What is the fastest portable method to cool a hot drink?", "tags": ["physics", "everyday"]}
+{"title": "What is the fastest portable method to cool a hot drink?", "tags": ["physics", "everyday", "contrib"]}
 
 Call on 29th Nov: brainstorming on possible topics
 I suggested the topic of creating a human powered device (straw creating fine
