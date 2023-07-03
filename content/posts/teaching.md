@@ -1,5 +1,7 @@
 {"title": "teaching", "tags": ["moc"]}
 
+[CS in daily life]({{< relref "cs_in_daily_life" >}})
+
 [University and Industry]({{< relref "university_and_industry" >}})
 
 [Tackling Programming Assignments]({{< relref "tackling_programming_assignments" >}})
