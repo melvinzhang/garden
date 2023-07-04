@@ -1,5 +1,7 @@
 {"title": "teaching", "tags": ["moc"]}
 
+[teach from the board]({{< relref "teach_from_the_board" >}})
+
 [CS in daily life]({{< relref "cs_in_daily_life" >}})
 
 [University and Industry]({{< relref "university_and_industry" >}})

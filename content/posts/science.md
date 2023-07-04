@@ -1,5 +1,7 @@
 {"title": "science", "tags": ["moc"]}
 
+[Useful human anatomy]({{< relref "useful_human_anatomy" >}})
+
 [foundations of physics]({{< relref "foundations_of_physics" >}})
 
 [Newton's law of cooling]({{< relref "newton_s_law_of_cooling" >}})

@@ -1,5 +1,11 @@
 {"title": "lifehack", "tags": ["moc"]}
 
+[floor cleaning]({{< relref "floor_cleaning" >}})
+
+[text editing]({{< relref "text_editing" >}})
+
+[Night hydration]({{< relref "night_hydration" >}})
+
 [microphone]({{< relref "microphone" >}})
 
 [Coffee]({{< relref "coffee" >}})

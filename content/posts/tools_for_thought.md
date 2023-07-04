@@ -1,6 +1,6 @@
 {"title": "Tools for thought", "tags": ["moc"]}
 
-https://www.rheingold.com/texts/tft/
+[Tools for Thought: The History and Future of Mind-Expanding Technology](https://www.rheingold.com/texts/tft/)
 
 [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 
@@ -29,6 +29,8 @@ Types of writing:
 [Computing augments human thought]({{< relref "computing_augments_human_thought" >}})
 
 [mental models]({{< relref "mental_models" >}})
+
+avoiding cognitive biases, [The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "the_elephant_in_the_brain__hidden_motives_in_everyday_life" >}})
 
 https://www.rationality.org/resources/handbook
 

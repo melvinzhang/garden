@@ -1,5 +1,7 @@
 {"title": "Food", "tags": ["moc"]}
 
+[Broccoli]({{< relref "broccoli" >}})
+
 [hot chocolate]({{< relref "hot_chocolate" >}})
 
 [Complete protein]({{< relref "complete_protein" >}})
