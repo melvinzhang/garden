@@ -18,7 +18,7 @@ see https://www.linguisticsociety.org/resource/whats-difference-between-speech-a
 Writing is one of our the most powerful thinking aid! Similar but different than drawing.
 See http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf
 
-Extended mind thesis, see [Paul2021]({{< relref "paul2021" >}}) and Mindhacker
+Extended mind thesis, see [Paul2021]({{< relref "paul2021" >}})
 
 Types of writing:
 * [journaling]({{< relref "journaling" >}})
@@ -35,4 +35,8 @@ https://www.rationality.org/resources/handbook
 https://www.betaworks.com/event/render-tools-for-thinking
 
 https://www.jerrysbrain.com/welcome
+
+Mindhacker: 60 Tips, Tricks, and Games to Take Your Mind to the Next Level
+
+Mindware: Tools for Smart Thinking
 

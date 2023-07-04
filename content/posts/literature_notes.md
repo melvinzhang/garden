@@ -712,6 +712,7 @@
 * [Backtracking without recursion]({{< relref "backtracking_without_recursion" >}})
 * [Beautiful sorting problems]({{< relref "beautiful_sorting_problems" >}})
 * [Optimism, Pessimism, and Algorithms]({{< relref "optimism__pessimism__and_algorithms" >}})
+* [Paul2021]({{< relref "paul2021" >}})
 * [Journey in Blue]({{< relref "journey_in_blue" >}})
 * [Sharing on leadership by Metta]({{< relref "sharing_on_leadership_by_metta" >}})
 * [Career chats @Swiss 2022]({{< relref "career_chats__swiss_2022" >}})

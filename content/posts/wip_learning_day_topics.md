@@ -151,6 +151,6 @@
   * [Proof of Humanity](https://www.proofofhumanity.id/)
 * Streaming
   * [Twitch streamers in SG](https://vulcanpost.com/771301/highest-paid-twitch-streamers-singapore/)
-* ZK, everygreen notes
+* ZK, evergreen notes
   * [Slides by Daniel Lüdecke](https://strengejacke.files.wordpress.com/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf)
 

@@ -39,19 +39,22 @@ Beatrice Webb Appendix C: The art of note-taking
 * finding the best arrangemet of notes is part of the discovery process
 
 How to Take Smart Notes by Sönke Ahrens
-
 [Bob Doto on Zettelkasten](https://writing.bobdoto.computer/zettelkasten/)
-
-[Types of notes](https://www.seanlawson.net/2020/10/zettelkasten-method-what-why-how-of-getting-started/)
-* summary
-  * summary and optional comments
-  * optional links to other notes
-* brief
-  * also called structure notes
+* fleeting notes
+  * writing in the margin
+  * scratch notes
+  * to be later converted to one of the following
+* literature notes
+  * quotes, pages, bib info
+* main notes/evergreen
+  * atomic, own words, linked
+  * references lit notes
+* structure notes/moc
   * aggregates notes on a topic
-* memo
-  * also called everygreen notes, permanent notes
-  * new ideas you have after reviewing notes
+* index note
+  * top level, list of topics/areas
+
+[Antinet](https://assets.antinet.org/Getting-Started-with-an-Antinet-Zettelkasten.pdf)
 
 Related literature
 * How to Make a Complete Map of Every Thought You Think
