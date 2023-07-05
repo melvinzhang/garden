@@ -232,6 +232,7 @@
 * [News from the RNA world]({{< relref "news_from_the_rna_world" >}})
 * [One class per named entity]({{< relref "one_class_per_named_entity" >}})
 * [Operons]({{< relref "operons" >}})
+* [Origins of protein folding]({{< relref "origins_of_protein_folding" >}})
 * [Ozery-Flato2008]({{< relref "ozery_flato2008" >}})
 * [Pairwise compatibility graph]({{< relref "pairwise_compatibility_graph" >}})
 * [Pandu Rangan on teaching algorithms]({{< relref "pandu_rangan_on_teaching_algorithms" >}})

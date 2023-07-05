@@ -1,5 +1,9 @@
 {"title": "teaching", "tags": ["moc"]}
 
+[OO Exercise]({{< relref "oo_exercise" >}})
+
+[PEAdvise]({{< relref "peadvise" >}})
+
 [teach from the board]({{< relref "teach_from_the_board" >}})
 
 [CS in daily life]({{< relref "cs_in_daily_life" >}})

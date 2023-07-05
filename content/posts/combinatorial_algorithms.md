@@ -7,6 +7,8 @@
 
 [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
+[Optimizing Joins]({{< relref "optimizing_joins" >}})
+
 [convex optimization]({{< relref "convex_optimization" >}})
 
 [Fast Fourier Transform]({{< relref "fast_fourier_transform" >}})

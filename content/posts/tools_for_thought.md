@@ -36,7 +36,8 @@ https://www.rationality.org/resources/handbook
 
 https://www.betaworks.com/event/render-tools-for-thinking
 
-https://www.jerrysbrain.com/welcome
+[Jerry's Brain](https://www.jerrysbrain.com/welcome)
+* visualization of links: up, down, left
 
 Mindhacker: 60 Tips, Tricks, and Games to Take Your Mind to the Next Level
 
