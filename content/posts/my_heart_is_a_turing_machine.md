@@ -1,4 +1,4 @@
-{"title": "My heart is a turing machine", "tags": []}
+{"title": "My heart is a turing machine", "tags": ["talk"]}
 [2014-12-09 Tue 20:09]
 speaker: Johannes
 event: Papers We Love SG

@@ -1,4 +1,4 @@
-{"title": "True Ancestral Events on Phylogenetic Trees", "tags": ["open_problem", "GenomeRearrangement"]}
+{"title": "True Ancestral Events on Phylogenetic Trees", "tags": ["open_problem", "GenomeRearrangement", "talk"]}
 CREATED: 200702090245
 Speaker: Zhao Hao
 Collaborator: Guillaume Bourque
