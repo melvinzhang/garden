@@ -1,4 +1,4 @@
-{"title": "mov is turing complete", "tags": []}
+{"title": "mov is turing complete", "tags": ["talk"]}
 speaker: Yeo Kheng Meng
 event: Papers We Love #14
 ** mov dest src

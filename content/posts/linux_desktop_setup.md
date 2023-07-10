@@ -18,6 +18,7 @@ files
 Terminal
 * rxvt, then kitty
 * alternatives: wezterm, alacritty
+* Ctrl-[ is equivalent to Esc
 
 Terminal multiplexer
 * screen, then tmux
