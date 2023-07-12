@@ -15,6 +15,7 @@ I'm putting some of my notes [here]({{< relref "here" >}}) in the spirit of
 * [Map of content]({{< relref "map_of_content" >}})
 * [Learning Day]({{< relref "learning_day" >}})
 * [Contributions]({{< relref "contributions" >}})
+* [Book notes]({{< relref "book_notes" >}})
 * [Literature notes]({{< relref "literature_notes" >}})
 * [Social media posts]({{< relref "social_media_posts" >}})
 * [Blog posts]({{< relref "blog_posts" >}})
