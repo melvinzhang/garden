@@ -1,5 +1,11 @@
 {"title": "games", "tags": ["moc"]}
 
+[RTS]({{< relref "rts" >}})
+
+[auto battler]({{< relref "auto_battler" >}})
+
+[JRPG]({{< relref "jrpg" >}})
+
 [combat card games]({{< relref "combat_card_games" >}})
 
 [board games]({{< relref "board_games" >}})
