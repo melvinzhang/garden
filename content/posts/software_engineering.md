@@ -14,6 +14,8 @@ Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren
 
 [Subversion]({{< relref "subversion" >}})
 
+[refactoring]({{< relref "refactoring" >}})
+
 offline bug tracker
 * git-bug
 

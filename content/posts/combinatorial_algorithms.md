@@ -7,6 +7,8 @@
 
 [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
+[proof number search]({{< relref "proof_number_search" >}})
+
 [Optimizing Joins]({{< relref "optimizing_joins" >}})
 
 [convex optimization]({{< relref "convex_optimization" >}})

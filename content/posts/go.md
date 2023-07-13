@@ -73,6 +73,14 @@ Media
 * AlphaGo - The Movie
 * The Surrounding Game
 
+Portable DIY equipment
+* https://www.britgo.org/learners/make.html
+* https://jgrimard.itch.io/tic-tac-toe-fold
+* using trihexaflexagon?
+* https://forums.online-go.com/t/how-to-make-diy-go-stones/40531
+* bingo chips as go stones
+  * "dual color counting"
+
 Learning resources
 * [Tiger's mouth](http://tigersmouth.org/)
 * [Learn to play Go](https://www.learn-go.net/)
