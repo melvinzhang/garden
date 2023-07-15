@@ -1,5 +1,7 @@
 {"title": "lifehack", "tags": ["moc"]}
 
+[beware of infinite scrolling]({{< relref "beware_of_infinite_scrolling" >}})
+
 [floor cleaning]({{< relref "floor_cleaning" >}})
 
 [text editing]({{< relref "text_editing" >}})

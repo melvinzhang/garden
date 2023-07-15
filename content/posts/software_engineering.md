@@ -1,5 +1,7 @@
 {"title": "software engineering", "tags": ["moc"]}
 
+[Scientific computing]({{< relref "scientific_computing" >}})
+
 Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren
 * deployment freqency
 * lead time to change

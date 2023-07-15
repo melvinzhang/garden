@@ -1,5 +1,11 @@
 {"title": "teaching", "tags": ["moc"]}
 
+[Queue with two stacks]({{< relref "queue_with_two_stacks" >}})
+
+[Interactive explanations]({{< relref "interactive_explanations" >}})
+
+[Tic-Tac-Toe AI]({{< relref "tic_tac_toe_ai" >}})
+
 [OO Exercise]({{< relref "oo_exercise" >}})
 
 [PEAdvise]({{< relref "peadvise" >}})
