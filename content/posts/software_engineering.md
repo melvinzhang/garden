@@ -6,6 +6,8 @@ Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren
 * mean time to recovery
 * change failture rate
 
+[Nasty bugs]({{< relref "nasty_bugs" >}})
+
 [Groupware for Research Groups]({{< relref "groupware_for_research_groups" >}})
 
 [Algorithms for people]({{< relref "algorithms_for_people" >}})

@@ -7,6 +7,8 @@
 
 [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
+[bipartite b-matching]({{< relref "bipartite_b_matching" >}})
+
 [proof number search]({{< relref "proof_number_search" >}})
 
 [Optimizing Joins]({{< relref "optimizing_joins" >}})

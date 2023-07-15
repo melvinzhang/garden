@@ -1,7 +1,8 @@
 {"title": "Origami", "tags": []}
 
-[Fujimoto Cube](https://www.youtube.com/watch?v=Y8ljs9s9yqI)
-* cube from one piece of paper
+Cube
+* [Seamless Cube](https://www.youtube.com/watch?v=Pn9ROEqK0r4)
+* [Fujimoto Cube](https://www.youtube.com/watch?v=Y8ljs9s9yqI)
 
 [Easy Origami Envelope 1](https://www.youtube.com/watch?v=xsdfcVh3iSg)
 

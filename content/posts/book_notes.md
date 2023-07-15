@@ -44,3 +44,4 @@
 * [Journey in Blue]({{< relref "journey_in_blue" >}})
 * [The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "the_elephant_in_the_brain__hidden_motives_in_everyday_life" >}})
 * [The Path]({{< relref "the_path" >}})
+* [The art of conversation]({{< relref "the_art_of_conversation" >}})

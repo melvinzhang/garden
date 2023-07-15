@@ -1,5 +1,8 @@
 {"title": "online multiplayer games", "tags": []}
 
+https://alpha.hideandseek.gg/
+* seeker to guess the human among the LLMs
+
 https://boardgamegeek.com/thread/2425525/list-options-online-board-games
 
 https://strikeorsike.io/

@@ -1,5 +1,7 @@
 {"title": "Food", "tags": ["moc"]}
 
+[Durian hopping]({{< relref "durian_hopping" >}})
+
 [Broccoli]({{< relref "broccoli" >}})
 
 [hot chocolate]({{< relref "hot_chocolate" >}})
