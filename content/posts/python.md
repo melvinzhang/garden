@@ -12,3 +12,6 @@ https://beeware.org/
 Data processing
 * [Polars](https://www.pola.rs/)
 
+Iterates over lines from files or stdin from argv
+* https://docs.python.org/3/library/fileinput.html
+

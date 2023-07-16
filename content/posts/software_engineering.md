@@ -1,5 +1,9 @@
 {"title": "software engineering", "tags": ["moc"]}
 
+[javascript]({{< relref "javascript" >}})
+
+[high performance computing]({{< relref "high_performance_computing" >}})
+
 [Scientific computing]({{< relref "scientific_computing" >}})
 
 Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren
