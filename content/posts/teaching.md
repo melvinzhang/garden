@@ -1,5 +1,9 @@
 {"title": "teaching", "tags": ["moc"]}
 
+[mastery learning]({{< relref "mastery_learning" >}})
+
+[Pathways by Praxium]({{< relref "pathways_by_praxium" >}})
+
 [Queue with two stacks]({{< relref "queue_with_two_stacks" >}})
 
 [Interactive explanations]({{< relref "interactive_explanations" >}})
