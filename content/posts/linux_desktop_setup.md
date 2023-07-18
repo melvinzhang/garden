@@ -71,7 +71,7 @@ viewer
 install
 * wajig
 * chrome
-* exuberant-ctags
+* universal-ctags
 * nvidia-driver nvidia-settings
 * mplayer mencoder
 * pavucontrol

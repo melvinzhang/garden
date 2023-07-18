@@ -6,5 +6,5 @@
 
 [open problems]({{< relref "open_problems" >}})
 
-[stoicism]({{< relref "stoicism" >}})
+[philosophy as a way of life]({{< relref "philosophy_as_a_way_of_life" >}})
 

@@ -18,3 +18,5 @@ use 0/0 for first wallet, 1/0 for second wallet, etc
 
 Supply of tokens is u64
 
+ALT is address lookup table. Previously capped at 32 addresses per txn, with ALT that limit is raised to 256.
+

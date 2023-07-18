@@ -7,6 +7,8 @@ Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault by Pi
 
 [stoicism]({{< relref "stoicism" >}})
 
+[Confucianism]({{< relref "confucianism" >}})
+
 [Crash Course Philosophy](https://www.youtube.com/playlist?list=PLUHoo4L8qXthO958RfdrAL8XAHvk5xuu9)
 
 ethics
