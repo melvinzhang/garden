@@ -15,6 +15,8 @@ Contracts holding assets and operating like a financial institute.
 
 Selling covered calls as a way to take profits.
 
+[blockchain singapore]({{< relref "blockchain_singapore" >}})
+
 [decentralized finance]({{< relref "decentralized_finance" >}})
 
 [Zero knowledge proofs]({{< relref "zero_knowledge_proofs" >}})
