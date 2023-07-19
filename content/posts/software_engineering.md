@@ -1,5 +1,7 @@
 {"title": "software engineering", "tags": ["moc"]}
 
+[prioritize backlog]({{< relref "prioritize_backlog" >}})
+
 [javascript]({{< relref "javascript" >}})
 
 [high performance computing]({{< relref "high_performance_computing" >}})

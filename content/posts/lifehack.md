@@ -1,5 +1,9 @@
 {"title": "lifehack", "tags": ["moc"]}
 
+[screencast]({{< relref "screencast" >}})
+
+[DIY toys]({{< relref "diy_toys" >}})
+
 [beware of infinite scrolling]({{< relref "beware_of_infinite_scrolling" >}})
 
 [floor cleaning]({{< relref "floor_cleaning" >}})
