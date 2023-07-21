@@ -52,6 +52,8 @@ source control
 
 editor
 * neovim
+  * remap capslock to escape
+  * setxkbmap -option caps:escape
 * ipe
 
 launcher

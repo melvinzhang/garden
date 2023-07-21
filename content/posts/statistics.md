@@ -1,6 +1,8 @@
 {"title": "statistics", "tags": ["moc"]}
 
-https://github.com/melvinzhang/stats-with-python
+[statistics with python]({{< relref "statistics_with_python" >}})
+
+[effect size]({{< relref "effect_size" >}})
 
 [estimation]({{< relref "estimation" >}})
 
