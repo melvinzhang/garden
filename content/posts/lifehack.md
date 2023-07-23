@@ -1,5 +1,7 @@
 {"title": "lifehack", "tags": ["moc"]}
 
+[meal prep]({{< relref "meal_prep" >}})
+
 [screencast]({{< relref "screencast" >}})
 
 [DIY toys]({{< relref "diy_toys" >}})

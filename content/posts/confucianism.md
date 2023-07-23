@@ -13,3 +13,9 @@ virtues: 仁, 義, 禮, 智, 信
 
 rituals for self cultivation, doing it right is like playing jazz
 
+https://warpweftandway.com/
+
+Growing moral by Stephen Angle
+
+Amy Olberding
+
