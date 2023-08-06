@@ -31,6 +31,9 @@ Roguelike
 * [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
 * Shadow of the Wyrm
 * The Ground Gives Way
+* Rift Wizard
+  * whole level visible at once
+  * spend points in spells/skills to create a build
 
 MMORPG
 * Guild Wars 2

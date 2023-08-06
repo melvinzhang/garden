@@ -1,5 +1,7 @@
 {"title": "lifehack", "tags": ["moc"]}
 
+Read books like blogs, from Naval Ravikant
+
 [meal prep]({{< relref "meal_prep" >}})
 
 [screencast]({{< relref "screencast" >}})

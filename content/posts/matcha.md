@@ -1,11 +1,5 @@
 {"title": "Matcha", "tags": ["purchase"]}
 
-Alternatives
-* sesame
-* moringa
-* hojicha
-* thunder tea
-
 [Matcha infographic](https://matcha-tea.com/matcha/the-match-tea-infographic-tells-the-whole-story)
 
 [Making Matcha (step by step)](https://www.youtube.com/watch?v=nmzj4FBH_Qg)

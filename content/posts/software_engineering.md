@@ -1,5 +1,7 @@
 {"title": "software engineering", "tags": ["moc"]}
 
+https://linear.app/method
+
 [prioritize backlog]({{< relref "prioritize_backlog" >}})
 
 [javascript]({{< relref "javascript" >}})

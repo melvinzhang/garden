@@ -1,5 +1,7 @@
 {"title": "Confucianism", "tags": []}
 
+Also known as 儒家思想
+
 Developed by
 * 孔夫子
 * 孟子

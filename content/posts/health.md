@@ -4,6 +4,8 @@ Regular checks stored in [Health record]({{< relref "health_record" >}})
 
 Consistent exercise [Strength training]({{< relref "strength_training" >}})
 
+Mobility test and improvements [body mobility]({{< relref "body_mobility" >}})
+
 Avoid sitting too long by using [Standing desk]({{< relref "standing_desk" >}})
 
 Walking properly with ground feedback via [Minimal footwear]({{< relref "minimal_footwear" >}})
