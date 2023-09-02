@@ -1,6 +1,7 @@
 {"title": "combat card games", "tags": []}
 
 # Custom cards
+* [sanguosha]({{< relref "sanguosha" >}})
 * Yugioh
   * [YGO Omega](https://omega.duelistsunite.org/)
 * Magic: the Gathering

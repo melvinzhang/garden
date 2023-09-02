@@ -1,5 +1,7 @@
 {"title": "online multiplayer games", "tags": []}
 
+[Set card game]({{< relref "set_card_game" >}})
+
 https://alpha.hideandseek.gg/
 * seeker to guess the human among the LLMs
 

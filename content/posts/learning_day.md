@@ -8,6 +8,8 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 150: Set card game]({{< relref "set_card_game" >}})
+* [LD 149: Size of A series]({{< relref "size_of_a_series" >}})
 * [LD 147: National Day rituals in Singapore]({{< relref "national_day_rituals_in_singapore" >}})
 * [LD 146: The Path]({{< relref "the_path" >}})
 * [LD 145: Broccoli]({{< relref "broccoli" >}})

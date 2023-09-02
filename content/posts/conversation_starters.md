@@ -4,8 +4,6 @@ https://medium.com/@knowmium/art-of-the-ask-exploring-deeper-conversations-with-
 
 https://dropbox.design/resource/creative-conversation-cards
 
-http://www.liberatingstructures.com/
-
 https://play.cardstotheheart.ca/
 
 generate with LLM?

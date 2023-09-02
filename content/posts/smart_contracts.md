@@ -3,7 +3,15 @@
 Programmable blockchain, world computer.
 
 Languages
-* EVM
 * Solidity
 * Vyper
+* Rust
+* Move
+
+Bytecodes
+* EVM
+* SBF (based on eBPF)
+
+Formal verification
+* Certora
 

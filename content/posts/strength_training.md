@@ -16,11 +16,12 @@ https://thefitness.wiki/routines/strength-training-muscle-building/
 Try shifting to 4-6pm, just before dinner.
 
 # Current plan
-* Zercher squat
-* Zercher walk
-* Deadlift
-* Curl
-* Pull up
+* S: Bench press
+* S: Pendlay Row
+* M: Overhead press
+* T: Zercher squat
+* W: Weighted Pull up
+* T: Deadlift
 
 # Books
 Body by Science

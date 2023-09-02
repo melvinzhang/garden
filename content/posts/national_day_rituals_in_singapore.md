@@ -14,5 +14,9 @@ Hanging of flags
 
 Dinner in the constituency
 
+National Day rally
 
+National Day message
+
+National Day awards
 

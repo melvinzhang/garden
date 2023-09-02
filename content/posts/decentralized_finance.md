@@ -14,3 +14,9 @@ Panoptic
 Ajna
 * oracle-free, peer-to-peer, permissionless lending, borrowing and trading
 
+Cega
+* exotic options
+
+Kamino
+* automate CLMM liquidity provisioning
+

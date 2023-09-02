@@ -1,5 +1,7 @@
 {"title": "abstract games", "tags": []}
 
+[Set card game]({{< relref "set_card_game" >}})
+
 https://ludii.games/index.php
 
 Hanabi
