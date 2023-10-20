@@ -1,9 +1,9 @@
-{"title": "Vim notes", "tags": ["vim_notes"]}
+{"title": "digital notes", "tags": []}
 
 idea of using a single file with vim tags was first noted in 2010-04-04
 * also mentioned in https://www.edwinwenink.xyz/posts/43-notes_tagging/
 
-use ! to link another note/tag, for example [Vim notes]({{< relref "vim_notes" >}})
+use ! to link another note/tag, for example [digital notes]({{< relref "digital_notes" >}})
 * started with @ but there are some conflicts with url and python decorator
 * Ctrl-] to jump to definition and Ctrl-T to jump back
 * :ts /pat to seach for tags with a given pattern, use :tj to jump if only one match
@@ -34,6 +34,8 @@ Publish markdown files using src/write_notes.py
 Modify Ctrl-] to create a new note with the word under cursor if it does not exist
 
 Auto run parser on save via BufWritePost in vimrc
+
+gitjournal for mobile
 
 ## Possible improvements
 formatting mostly in org-mode

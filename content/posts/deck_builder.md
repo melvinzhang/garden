@@ -46,3 +46,6 @@
 * Thunderstone
 * Nowhere Prophet
 * Codex
+* Dale of Merchants
+* Tales of Tribute
+  * https://github.com/ScriptsOfTribute

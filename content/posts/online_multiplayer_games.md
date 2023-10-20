@@ -1,5 +1,7 @@
 {"title": "online multiplayer games", "tags": []}
 
+https://www.freeboardgames.org/en
+
 [Set card game]({{< relref "set_card_game" >}})
 
 https://alpha.hideandseek.gg/

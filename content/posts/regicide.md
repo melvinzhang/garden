@@ -10,5 +10,7 @@ Android/iOS Companion App to keep track of the health/attack and solo mode.
 
 [Regicide on PCIO](https://boardgamegeek.com/thread/2734400/custom-regicide-room-playingcardsio)
 
+[Regicide on BGA](https://en.boardgamearena.com/gamepanel?game=regicide)
+
 [Regicide on BGG](https://boardgamegeek.com/boardgame/307002/regicide)
 

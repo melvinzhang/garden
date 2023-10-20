@@ -12,9 +12,14 @@ will cover recent advances in solving the TSP for such cases.
 
 https://www.slideshare.net/melvinzhang/solving-the-tsp-for-warehouses
 
-Presented at Friday Hacks #162, 26th October 2018b
+Presented at
+* GeekcampSG 2023, 14th October 2023
+* Friday Hacks #162, 26th October 2018
 
 Additional materials:
 * Christofides algorithm
 * A (Slightly) Improved Approximation Algorithm for Metric TSP
+* [Picker routing and rectilinear TSP](https://pagesperso.g-scop.grenoble-inp.fr/~cambazah/picking/grillons.html)
+* [Inside Amazon's Prime Day rush](https://youtu.be/lcrKH9pnWGc?t=96)
+* https://www.leagueofrobotrunners.org/
 

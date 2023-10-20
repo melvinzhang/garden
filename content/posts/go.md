@@ -64,6 +64,7 @@ Kropki
 * https://sites.google.com/view/9x9go/
 * [9x9 Go Reviews](https://9x9go.github.io/reviews/)
 * [GoQuest](http://wars.fm/go9)
+* [Fox Go](https://openfoxwq.com/)
 * [Opening book](https://www.crazy-sensei.com/book/go_9x9/)
 
 [Computer Go]({{< relref "computer_go" >}})

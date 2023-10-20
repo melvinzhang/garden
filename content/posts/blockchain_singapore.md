@@ -10,3 +10,7 @@ ethereum singapore
 
 cega
 
+https://www.sgbuidl.com/
+
+https://github.com/SoliditySingapore/meetups
+

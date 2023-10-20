@@ -6,6 +6,8 @@ Demo
 * [Play Zork in the browser](http://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
 * [Play MUDs in the browser](https://grapevine.haus/)
 
+https://www.mudverse.com/
+
 [Text based games](https://www.slideshare.net/apLexgrind/interactive-fiction-text-based-game)
 
 [MUDStats](http://mudstats.com/)

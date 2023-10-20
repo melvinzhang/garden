@@ -77,7 +77,7 @@ Implementation:
   * single file
   * no special support for org-mode
 * custom format in vim
-  * [Vim notes]({{< relref "vim_notes" >}})
+  * [digital notes]({{< relref "digital_notes" >}})
 
 Other tools:
 * [logseq](https://logseq.com/)

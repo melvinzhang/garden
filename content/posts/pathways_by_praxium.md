@@ -2,6 +2,8 @@
 
 https://www.praxiumsg.com/pathways
 
+[Singapore Digital Economy Report](https://www.imda.gov.sg/about-imda/research-and-statistics/singapore-digital-economy-report)
+
 One activity for the entire session
 * brief: create a app to help match students to industry
 * requirement gathering

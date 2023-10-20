@@ -1,6 +1,25 @@
 {"title": "board games", "tags": []}
 
+[Reiner Knizia](https://boardgamegeek.com/boardgamedesigner/2/reiner-knizia)
+
+Jurong Spring board games
+* Hanabi
+* Take 5!
+* Camel Up
+* Sushi Go Party!
+
+https://boardgamegeek.com/geeklist/223295/deep-and-small-games
+
 [Go]({{< relref "go" >}})
+
+Jump Drive
+* free on BGA
+* engine builder, build (play card) or explore (draw card)
+* first to 50 VP wins
+
+Shephy
+* reach 1000 sheep using events
+* https://kana.github.io/shephy-js/
 
 [Cascadia](https://cascadiagame.github.io/)
 * habitat and wildlife placement

@@ -1,5 +1,19 @@
 {"title": "Household appliances", "tags": []}
 
+# Energy monitor
+
+with LCD screen
+
+with wifi + app (Tuya, Smart Life)
+
+# Electric shaver
+
+philips aquatouch (rotary)
+
+foil
+
+philips oneblade
+
 # Electric toothbrush
 
 The type that vibrates rather than rotate.

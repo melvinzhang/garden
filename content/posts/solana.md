@@ -39,3 +39,9 @@ Close associated token accounts and recover rent in SOL
 * https://www.draffle.io/tools/close-token-accounts
 * https://sol-incinerator.com/
 
+https://rugcheck.xyz/
+
+Solana Bootcamp
+* https://github.com/solana-developers/pirate-bootcamp
+* https://www.youtube.com/playlist?list=PLilwLeBwGuK6NsYMPP_BlVkeQgff0NwvU
+
