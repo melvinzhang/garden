@@ -1,6 +1,6 @@
 {"title": "Online Card Games", "tags": []}
 
-https://card-table.app/
+[Set card game]({{< relref "set_card_game" >}})
 
 [Android: Netrunner](https://www.jinteki.net/)
 

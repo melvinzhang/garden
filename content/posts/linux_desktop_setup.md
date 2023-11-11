@@ -1,4 +1,8 @@
 {"title": "Linux desktop setup", "tags": []}
+
+Consider
+* alternative package manager https://brew.sh/
+
 Currently using kali
 
 Autologin using mingetty mingetty: in /etc/inittab,

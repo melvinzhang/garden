@@ -46,11 +46,16 @@ References:
 
 https://www.microsoft.com/en-us/research/project/project-malmo/ is the plugin released by MS. It turns Minecraft into a robot simulator.
 
-https://github.com/melvinzhang/malmopy uses Python + Malmo to teach some basic robotics algorithms like maze
-solving.
+https://github.com/melvinzhang/malmopy uses Python + Malmo to teach some basic robotics algorithms like maze solving.
 
 Develop more missions such as simulating a robotic vacuum cleaner which covers all locations of a new area with fewest moves (online graph exploration).
-
+* fix path from start to end, only move and turn
+* random path, path following
+* maze solved with left hand rule
+* systemic exploration with memory of observations
+* maze where LHR doesn't work
+* visit all locations like a vacuum
+* visit some locations and get back to start, TSP
 
 # Faster Max-gap data structure
 

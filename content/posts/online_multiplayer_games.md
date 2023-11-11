@@ -1,8 +1,17 @@
 {"title": "online multiplayer games", "tags": []}
+https://mattle.online/
+
+https://card-table.app/
+
+https://gidd.io/
+
+https://airboardgame.net/games/
+
+https://www.mavit.org.uk/boardgames-online/
 
 https://www.freeboardgames.org/en
 
-[Set card game]({{< relref "set_card_game" >}})
+https://alinachin.github.io/onlineboardgames.html
 
 https://alpha.hideandseek.gg/
 * seeker to guess the human among the LLMs
@@ -16,8 +25,6 @@ https://guessme.io/
 
 https://ghostgame.io/
 * always keep the word growing
-
-https://alinachin.github.io/onlineboardgames.html
 
 https://quarantine-games.webflow.io/
 

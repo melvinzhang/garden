@@ -12,8 +12,7 @@
 * Keyforge
   * each deck is unique, procedurally generated
   * community site for online play, https://thecrucible.online/
-* Mindbug
-  * ability to steal two of your opponent's creatures
+* [Mindbug]({{< relref "mindbug" >}})
 * Radlands
 * Marvel Snap
 * Faeria
@@ -59,6 +58,7 @@
   * bid on how many numbered cards you can open
   * https://skull.games/
   * https://en.boardgamearena.com/gamepanel?game=skull
+* Diavolo
 
 # reference
 https://www.pagat.com/combat/

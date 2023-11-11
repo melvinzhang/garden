@@ -62,6 +62,7 @@ Related literature
 * Building a second brain, PARA
 * Hack 17, “Write Magnificent Notes”
 * Weinberg on Writing: The Fieldstone Method
+* [Keith Thomas’s working methods](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
 
 Implementation:
 * Tiddlywiki

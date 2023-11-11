@@ -1,5 +1,12 @@
 {"title": "board games", "tags": []}
 
+SIBM BG Monsters Cafe
+* Hanabi
+* Marshmallow test
+* Paranormal detective
+* Modern art
+* High society
+
 [Reiner Knizia](https://boardgamegeek.com/boardgamedesigner/2/reiner-knizia)
 
 Jurong Spring board games

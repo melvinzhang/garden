@@ -1,5 +1,7 @@
 {"title": "Python", "tags": []}
 
+https://textual.textualize.io/
+
 Multiprocessing
 * https://www.ray.io/
 * Object store: ray.put and ray.get

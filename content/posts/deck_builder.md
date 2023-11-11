@@ -35,6 +35,8 @@
   * reduce opponent hp
   * random market
 * [Aeon's End]({{< relref "aeon_s_end" >}})
+* Astro Knights
+* After the virus
 * Spectromancer
   * reduce opponent hp
   * random market
@@ -49,3 +51,5 @@
 * Dale of Merchants
 * Tales of Tribute
   * https://github.com/ScriptsOfTribute
+* Money Merchant
+* Valley of Kings

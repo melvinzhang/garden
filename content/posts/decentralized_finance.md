@@ -16,6 +16,8 @@ Ajna
 
 Cega
 * exotic options
+* 15% performance fee on profits
+* 2% per annum management fee
 
 Kamino
 * automate CLMM liquidity provisioning

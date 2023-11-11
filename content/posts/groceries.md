@@ -4,6 +4,7 @@ Part 5
 * sugalight
 * kind kones, only Avocado Coconut and Chocolate Sorbet
 * nestle omega plus
+* frozen prawns
 
 Part 4
 * [original & spicy tempe crackers](https://shopee.sg/-Shop-Malaysia-original-spicy-tempe-crackers-500g-i.209277230.9736874970)
