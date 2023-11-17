@@ -46,3 +46,5 @@
 * [The Path]({{< relref "the_path" >}})
 * [The art of conversation]({{< relref "the_art_of_conversation" >}})
 * [Can't we just print more money]({{< relref "can_t_we_just_print_more_money" >}})
+* [Game theory a graphic guide]({{< relref "game_theory_a_graphic_guide" >}})
+* [Escape from model land]({{< relref "escape_from_model_land" >}})

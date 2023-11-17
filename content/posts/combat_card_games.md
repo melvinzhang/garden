@@ -41,6 +41,7 @@
 # Using a standard 52 card deck
 * [Cuttle]({{< relref "cuttle" >}})
 * [Regicide]({{< relref "regicide" >}})
+* [Skull]({{< relref "skull" >}})
 * [Le Val](https://levaldesetoiles.fr/)
 * [Dueling Nobles](https://boardgamegeek.com/boardgame/14715/dueling-nobles)
 * [Duel 52](http://juddmadden.com/duel52/index.html)
@@ -53,11 +54,6 @@
 * [Army Ants](https://boardgamegeek.com/boardgame/36737/army-ants)
 * Goofspiel/The Game of Pure Strategy
   * http://gcrhoads.byethost4.com/gops.html
-* Skull
-  * each player gets 3 numbered cards and 1 face card
-  * bid on how many numbered cards you can open
-  * https://skull.games/
-  * https://en.boardgamearena.com/gamepanel?game=skull
 * Diavolo
 
 # reference

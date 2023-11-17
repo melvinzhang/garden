@@ -790,3 +790,4 @@
 * [PyConSG Education summit 2022]({{< relref "pyconsg_education_summit_2022" >}})
 * [PyConSG Education summit 2023]({{< relref "pyconsg_education_summit_2023" >}})
 * [underwater robotics]({{< relref "underwater_robotics" >}})
+* [My journey to geek]({{< relref "my_journey_to_geek" >}})

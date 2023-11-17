@@ -57,6 +57,18 @@ Develop more missions such as simulating a robotic vacuum cleaner which covers a
 * visit all locations like a vacuum
 * visit some locations and get back to start, TSP
 
+# Intelligent agent 2d grid environment
+
+Height not used in Malmo, slow and high memory requirement.
+
+Python has a 2d minecraft tutorial.
+
+Sense, think, act loop
+
+pygame for visualization
+
+load mission: layout of tiles, start position, end position
+
 # Faster Max-gap data structure
 
 See https://github.com/melvinzhang/max-gap-problem
