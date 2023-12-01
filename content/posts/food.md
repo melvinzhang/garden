@@ -8,7 +8,7 @@
 
 [Complete protein]({{< relref "complete_protein" >}})
 
-[Cooking eggs]({{< relref "cooking_eggs" >}})
+[Cooking]({{< relref "cooking" >}})
 
 [Psyllium Husk]({{< relref "psyllium_husk" >}})
 

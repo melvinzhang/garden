@@ -1,15 +1,18 @@
 {"title": "online multiplayer games", "tags": []}
-https://mattle.online/
 
-https://card-table.app/
+make your own
+* https://screentop.gg/
+* https://virtualtabletop.io/
+* https://airboardgame.net/
+* https://vassalengine.org
 
-https://gidd.io/
-
-https://airboardgame.net/games/
+multiple games
+* https://card-table.app/
+* https://mattle.online/
+* https://gidd.io/
+* https://www.freeboardgames.org/en
 
 https://www.mavit.org.uk/boardgames-online/
-
-https://www.freeboardgames.org/en
 
 https://alinachin.github.io/onlineboardgames.html
 
@@ -61,8 +64,6 @@ https://www.haxball.com/
 https://drwhut.itch.io/tabletop-club
 
 https://untap.in/
-
-https://virtualtabletop.io/
 
 https://www.spyfall.app/
 

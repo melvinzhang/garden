@@ -34,6 +34,8 @@ avoiding cognitive biases, [The Elephant in the Brain: Hidden Motives in Everyda
 
 https://www.rationality.org/resources/handbook
 
+https://hpmor.com/
+
 https://www.betaworks.com/event/render-tools-for-thinking
 
 [Jerry's Brain](https://www.jerrysbrain.com/welcome)

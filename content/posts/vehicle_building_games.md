@@ -1,5 +1,7 @@
 {"title": "vehicle building games", "tags": []}
 
+aka mobile base
+
 space engineers
 * 473,98 workshop items
 
@@ -12,6 +14,10 @@ Empyrion - Galactic Survival
 starship evo
 * 3,068 workshop items
 
+raft
+
+Forever Skies
+
 starmade
 
 starbase
@@ -19,4 +25,6 @@ starbase
 starfield
 
 stormworks
+
+[ValheimRAFT](https://www.nexusmods.com/valheim/mods/1136)
 

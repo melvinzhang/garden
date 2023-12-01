@@ -21,6 +21,7 @@ The type that vibrates rather than rotate.
 Makes brushing fun as the hard work is taken care of.
 
 [Electric Toothbrush](https://www.amazon.com/Electric-Toothbrush-Fairywill-E11-Rechargeable/dp/B08L9CQ9X5)
+* P11 is an older model with 31k VPM vs E11 at 40k VPM
 
 # Electric pressure cooker
 

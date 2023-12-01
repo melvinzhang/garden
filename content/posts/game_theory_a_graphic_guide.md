@@ -12,3 +12,5 @@ Thaler's guessing game: pick a number between 0 and 100, winner is the number cl
 * 33 is the most frequent, followed by 22
 * average is 19, winner had the entry 13
 
+
+
