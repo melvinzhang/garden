@@ -1,4 +1,5 @@
 {"title": "WIP learning day topics", "tags": ["learning"]}
+* Social choice, arrow's impossibility
 * carnism
 * https://www.geckoboard.com/best-practice/statistical-fallacies/
 * Pig (card game)

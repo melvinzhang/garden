@@ -11,7 +11,7 @@ c1:2345:respawn:/sbin/mingetty --autologin jack tty1 linux
 GRUB_CMDLINE_LINUX_DEFAULT="quiet resume=/dev/sda1 nomodeset nouveau.modeset=0 cgroup_enable=memory swapaccount=1"
 
 install both linux-headers-amd64 and linux-image-amd64
-aufs-dkms and nvidia-kernel-dkms may need to be updated as well
+nvidia-kernel-dkms may need to be updated as well
 
 Allow unprivileged users to create namespaces, for AppImage to work
 echo 'kernel.unprivileged_userns_clone=1' > /etc/sysctl.d/00-local-userns.conf

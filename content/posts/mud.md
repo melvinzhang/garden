@@ -2,19 +2,36 @@
 
 stands for Multi-User Dungeon, as a multiplayer version of Dungeon (Zork)
 
+[Text based games](https://www.slideshare.net/apLexgrind/interactive-fiction-text-based-game)
+
 Demo
 * [Play Zork in the browser](http://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
 * [Play MUDs in the browser](https://grapevine.haus/)
 
-https://www.mudverse.com/
+avoid
+* rent mechanic
 
-[Text based games](https://www.slideshare.net/apLexgrind/interactive-fiction-text-based-game)
+currently playing
+* [LuminariMUD]({{< relref "luminarimud" >}})
+* [sundering shadows]({{< relref "sundering_shadows" >}})
 
-[MUDStats](http://mudstats.com/)
+lists
+* https://www.mudverse.com/
+* https://github.com/maldorne/awesome-muds
+* [MUD MSSP Stats](https://iberia.jdai.pt/mudstats/mudlist)
+* [MOO resources](https://lisdude.com/moo/)
 
-[MOO resources](https://lisdude.com/moo/)
+[Islands of Myth](http://www.islandsofmyth.org/themud/)
+
+[Erion](http://erionmud.com)
+* respec costs 40k gold
+
+Lament
+* no inventory other than your two hands
 
 [Procedural Realms](http://www.proceduralrealms.com/)
+* similar to arpg
+* free respec but skills are lost
 
 [COGG](https://cogg.contrarium.net/)
 
@@ -39,8 +56,7 @@ https://www.mudverse.com/
 
 [Elysium](http://elysium-rpg.com/)
 
-[Erion](http://erionmud.com)
-
 [Dark Pawns](50.16.123.54:6969)
+* rolling for stats
 * control three characters
 

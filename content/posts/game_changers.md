@@ -30,3 +30,5 @@ Tools/practices which has made a significant improvement for me.
 
 [Household appliances]({{< relref "household_appliances" >}})
 
+[philosophy as a way of life]({{< relref "philosophy_as_a_way_of_life" >}})
+

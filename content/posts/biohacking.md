@@ -4,7 +4,7 @@ creatine stored as phosphocreatine in muscles, excess excreted via urine
 * Creapure
 * 0.03 g/kg body weight
 
-https://blueprint.bryanjohnson.co/
+[Blueprint protocol](https://protocol.bryanjohnson.com/)
 
 https://drstanfield.com/my-supplements/
 

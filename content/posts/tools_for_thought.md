@@ -4,6 +4,8 @@
 
 [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 
+https://untools.co/
+
 https://www.bytesized.xyz/tools-for-thought/
 
 https://www.inkandswitch.com/
@@ -42,6 +44,7 @@ https://www.betaworks.com/event/render-tools-for-thinking
 * visualization of links: up, down, left
 
 Mindhacker: 60 Tips, Tricks, and Games to Take Your Mind to the Next Level
+* https://www.ludism.org/mentat/
 
 Mindware: Tools for Smart Thinking
 

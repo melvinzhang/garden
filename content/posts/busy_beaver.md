@@ -14,3 +14,5 @@ https://groups.google.com/g/busy-beaver-discuss
 
 https://webusers.imj-prg.fr/~pascal.michel/bbc.html
 
+[Busy Beaver for lambda calculus](https://oeis.org/A333479)
+
