@@ -1,5 +1,7 @@
 {"title": "games", "tags": ["moc"]}
 
+[game depth]({{< relref "game_depth" >}})
+
 [Economy as a game]({{< relref "economy_as_a_game" >}})
 
 [RTS]({{< relref "rts" >}})

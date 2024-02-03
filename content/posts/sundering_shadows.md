@@ -13,6 +13,12 @@ quest/location
   * read charge
   * identify curse on object
 
+spells
+* secret chest
+* air walk allows wing command
+* word of power, wopo
+* word of recall, wor
+
 commands
 * nod
 * score
@@ -23,7 +29,11 @@ commands
 * nod
 * emote
 * emoteat
+  * $M me
+  * $N target
+  * $np target's
 * recognize
+* remember
 * get
   * all from corpse
 * take
@@ -49,6 +59,7 @@ commands
   * replenish heath for newbie
 * nickname/unnickname
 * help rules
+* help hints
 * bboard
   * next
 * thought
@@ -71,6 +82,7 @@ commands
 * cast druid produce flame on [target]
 * dispell to see duration
 * animal_companion bear
+  * sic
 * sic
 * animal follow
 * heal
@@ -88,6 +100,15 @@ commands
   * wiz
 * describe
 * adjective
+* mmap
+* watch
+* bonuses
+* rend
+* corpselimbs
+* inactive
+
+options
+* simple inventory
 
 role playing
 * fade away
@@ -99,10 +120,13 @@ role playing
   * scrying, stealing, harmfull spells/abilities
 
 bugs
-* inventory disappear, as on ooc for assistance from immortal
+* inventory disappear, ask on ooc for assistance from immortal
   * log out to prevent saving over backup
+* Jaguar puzzle is bugged
+* name in inventory cannot be targetted
+* jade in belt increases price at smith in Tabor
 
-tutorial
+tutorial issues
 * firbolg
   * peer mentioned but you can't peer firbolg
   * mention con means consider

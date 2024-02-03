@@ -8,6 +8,7 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 159: Fundraising]({{< relref "fundraising" >}})
 * [LD 155: Writing tools]({{< relref "writing_tools" >}})
 * [LD 154: Passo]({{< relref "passo" >}})
 * [LD 152: Tick rating and energy efficiency]({{< relref "ld_152__tick_rating_and_energy_efficiency" >}})

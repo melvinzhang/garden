@@ -16,6 +16,9 @@ nvidia-kernel-dkms may need to be updated as well
 Allow unprivileged users to create namespaces, for AppImage to work
 echo 'kernel.unprivileged_userns_clone=1' > /etc/sysctl.d/00-local-userns.conf
 
+dev
+* rustup
+
 files
 * ncdu to find large folders
 
@@ -87,6 +90,7 @@ install
 * xclip
 * ttf-mscorefonts-installer
 * texlive-latex-recommended
+* ledger
 
 install steam
 * dpkg --add-architecture i386

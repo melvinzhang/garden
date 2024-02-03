@@ -1,4 +1,7 @@
 {"title": "Programming languages", "tags": ["pl", "interest", "moc"]}
+
+[bruijn](https://bruijn.marvinborner.de/)
+
 [Maru]({{< relref "maru" >}}) [Hacking Maru]({{< relref "hacking_maru" >}})
 
 GraalVM and Truffle framework
@@ -22,6 +25,13 @@ scheme for embedded systems
 programing is compiling from ideas to code
 
 Koka: a Functional Language with Effects
+* total: total function
+* exn: partial functions that can raise exceptions
+* div: divergent
+* pure: exn and div
+* st: may manipulate heap
+* io: does io
+* ...
 
 [embedded scripting language]({{< relref "embedded_scripting_language" >}})
 

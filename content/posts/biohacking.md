@@ -3,8 +3,12 @@
 creatine stored as phosphocreatine in muscles, excess excreted via urine
 * Creapure
 * 0.03 g/kg body weight
+* 250g 24/08/2023 to 04/01/2024 approx 133 - 7 = 126 days
+* 250g 05/01/2024 to ??
 
 [Blueprint protocol](https://protocol.bryanjohnson.com/)
+
+https://www.jenvel.co/
 
 https://drstanfield.com/my-supplements/
 

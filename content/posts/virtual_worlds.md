@@ -3,9 +3,12 @@
 Interactive fiction
 * Colossal Cave Adventure
 * Zork
+* kerkerkruip
+* https://ifdb.org/
+
+IF authoring
 * Curveship
   * https://nickm.com/curveship/
-* https://ifdb.org/
 * Twine
 * Ink
 * Informs

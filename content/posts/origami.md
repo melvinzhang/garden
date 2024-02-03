@@ -1,5 +1,7 @@
 {"title": "Origami", "tags": []}
 
+http://www.orihouse.com/until2012/knotology.html
+
 Cube
 * [Seamless Cube](https://www.youtube.com/watch?v=Pn9ROEqK0r4)
 * [Fujimoto Cube](https://www.youtube.com/watch?v=Y8ljs9s9yqI)

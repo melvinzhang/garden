@@ -32,6 +32,9 @@ RPC calls
 
 ALT is address lookup table. Previously capped at 32 addresses per txn, with ALT that limit is raised to 256.
 
+At most 12M CUs worth of txn writing to any account, out of 48M CU per block.
+* https://github.com/solana-labs/solana/blob/v1.17/cost-model/src/block_cost_limits.rs
+
 RPC nodes simulates a transaction during preflight checks, on failure an error is returned and txn is not broadcasted to validators.
 
 Swap from BONK/USDC to native SOL without paying gas
@@ -50,4 +53,18 @@ Solana Bootcamp
 Resources
 * https://solanacookbook.com/
 * https://github.com/Solana-Workshops
+
+Lots of failed txn on chain due to txn spamming
+* paying higher fee doesn't guarantee landing in the block due to continuous block building
+* jito does discrete block building
+
+Accuring value to the protocol/users instead of validators/bots
+* instead of fixed liquidation fee of x% of loan, pay fees that depends on how far it falls below threshold
+* probabilistic sandwiching of user txns
+* backrunning by bots to equalize all the pools
+
+Heap defaults to 32kb
+* max is 256kb
+* possible to request for more but needs custom allocator
+* https://github.com/solana-labs/solana/issues/32607
 

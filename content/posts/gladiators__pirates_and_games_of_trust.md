@@ -4,14 +4,29 @@ Worst case, other players are as smart and egotistical as you
 * not everyone share your views
 * egostistical behavior may be strategically unwise
 
-Negotations
+blackmailer's paradox
+* models negotations
 * ending without agreement
 * repeated
 * believe in your own stands
 
-Playing rationally against an irrational opponent is irrational
+ultimatum game
+* split and accept/reject
+* unwillingness to accept injustice
+* dictator game
+  * must accept
+  * significance of honor
 
-Account for unwillingness to accept injustice and significance of honor
+envelope paradox
+* by Maurice Kraitchik
+
+evolutionary game theory
+* penguin volunteer
+
+auction where highest bidder wins
+* but second higher still needs to pay
+
+Playing rationally against an irrational opponent is irrational
 
 People coop when faced with "shadow of the future"
 

@@ -35,6 +35,8 @@ https://www.happymeeple.com/en/
 
 https://en.boardgamearena.com/
 
+https://play.abstractplay.com/
+
 https://www.yucata.de/en/
 
 https://quickparty.games/

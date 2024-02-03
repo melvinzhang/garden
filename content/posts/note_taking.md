@@ -7,7 +7,7 @@ My learnings
   * connections are important, many insights are about connecting two separate ideas
 * integrate readings by breaking it down into separate notes, one per idea
 
-[Zettelkasten method](https://zettelkasten.de/introduction/)
+[Zettelkasten method](https://zettelkasten.de/posts/overview/)
 * for developing thoughts, not building an archive
 * used by Niklas Luhmann
 * unique id for each note
@@ -24,6 +24,7 @@ My learnings
 * densely linked
 * prefer associative ontologies to hierarchical taxonomies
 * write notes for yourself by default, disregarding audience
+* https://maggieappleton.com/evergreens
 
 [Manfred Kuehn's digital ZK](https://www.connectedtext.com/manfred.php)
 * found wiki to be the right fit, easy linking and one thought/fact
@@ -31,6 +32,7 @@ My learnings
 * prefer wiki links to using numbered ids
 * Mills' "On Intellectual Craftsmanship"
 * write in your own words
+* [blog archive](https://web.archive.org/web/20201021201608/https://takingnotenow.blogspot.com/)
 
 Beatrice Webb Appendix C: The art of note-taking
 * break up reading into individial cards and rearrange them
@@ -38,21 +40,9 @@ Beatrice Webb Appendix C: The art of note-taking
 * date, source of information
 * finding the best arrangemet of notes is part of the discovery process
 
-How to Take Smart Notes by Sönke Ahrens
+[How to Take Smart Notes]({{< relref "how_to_take_smart_notes" >}})
+
 [Bob Doto on Zettelkasten](https://writing.bobdoto.computer/zettelkasten/)
-* fleeting notes
-  * writing in the margin
-  * scratch notes
-  * to be later converted to one of the following
-* literature notes
-  * quotes, pages, bib info
-* main notes/evergreen
-  * atomic, own words, linked
-  * references lit notes
-* structure notes/moc
-  * aggregates notes on a topic
-* index note
-  * top level, list of topics/areas
 
 [Antinet](https://assets.antinet.org/Getting-Started-with-an-Antinet-Zettelkasten.pdf)
 
@@ -88,6 +78,7 @@ Other tools:
 * [Silver Bullet](https://silverbullet.md/)
 * [Silicon Notes](https://github.com/cu/silicon)
 * Bangle.io
+* https://www.zettlr.com/
 
 timeline
 * earliest note is from 2006-12-29

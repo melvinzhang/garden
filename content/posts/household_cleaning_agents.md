@@ -3,6 +3,8 @@
 Mr Perfect Foaming Pipe Dragon Drain Declogger
 * sodium hydroxide
 
+Magiclean Bathroom Stain & Mold Remover
+
 Stain Remover Regular 1L
 * good on bathroom stains
 * corrodes metals, strips paint
