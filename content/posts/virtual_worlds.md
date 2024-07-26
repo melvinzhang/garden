@@ -37,6 +37,8 @@ Roguelike
 * Rift Wizard
   * whole level visible at once
   * spend points in spells/skills to create a build
+* [The only shadow that the desert knows](http://humbit.com/shadow/)
+  * time travel to search for artifacts
 
 MMORPG
 * Guild Wars 2

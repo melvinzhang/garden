@@ -11,7 +11,8 @@ practioners
 * Zeno of Citium
 * Chrysippus
 * Seneca
-  * [Moral letters to Lucilius](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius), [audio](https://librivox.org/moral-letters-to-lucilius-epistulae-morales-ad-lucilium-by-lucius-annaeus-seneca/)
+  * [Moral letters to Lucilius](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius)
+  * [audio](https://librivox.org/moral-letters-to-lucilius-epistulae-morales-ad-lucilium-by-lucius-annaeus-seneca/)
 * Gaius Musonius Rufus
   * Lectures
 * Epictetus
@@ -112,6 +113,8 @@ How to be a Stoic by Massimo Pigliucci
 * [video of 12 exercises](https://www.youtube.com/watch?v=wH6dSe_dYgM)
 
 Meditations: A New Translation by Marcus Aurelius. Translated by Gregory Hays.
+
+Breakfast with Seneca
 
 resources
 * https://www.reddit.com/r/Stoicism/wiki/resources/

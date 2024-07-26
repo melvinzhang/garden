@@ -12,6 +12,7 @@ Especially useful for technical writing with lots of mathematical equations.
 Pandoc can convert markdown to LaTeX and then PDF.
 
 [Quarto](https://quarto.org/) builds upon pandoc, allows executing code fragments.
+* pdf output does not support author affiliation, need a custom title.tex
 
 [typst](https://typst.app/)
 

@@ -34,9 +34,10 @@ Types of writing:
 
 avoiding cognitive biases, [The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "the_elephant_in_the_brain__hidden_motives_in_everyday_life" >}})
 
-https://www.rationality.org/resources/handbook
-
-https://hpmor.com/
+rationality
+* https://www.rationality.org/resources/handbook
+* https://hpmor.com/
+* https://streetepistemology.com/
 
 https://www.betaworks.com/event/render-tools-for-thinking
 

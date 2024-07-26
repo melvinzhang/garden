@@ -11,9 +11,9 @@ I switched from Windows to GNU/Linux over a series of steps.
 
 Cygwin has been superceeded by [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
 
-My current distribution is [Kali Linux](https://www.kali.org/).
-AFAIK, it is the only Debian derivative that uses a rolling release, making it
-possible to update without needing to reinstall.
+My current distribution is [Kali Linux](https://www.kali.org/), a Debian
+derivative with a rolling release based on Debian Testing.
+Other rolling release distros include Tumbleweed and Arch (Manjaro, EndeavourOS)
 
 Using the kali-last-snapshot branch for more stability as it undergoes release testing.
 All else fails, there is [linux recovery]({{< relref "linux_recovery" >}})

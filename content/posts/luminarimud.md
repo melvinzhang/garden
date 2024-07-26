@@ -1,7 +1,5 @@
 {"title": "LuminariMUD", "tags": []}
 
-source available at https://github.com/LuminariMUD/Luminari-Source
-
 respec mechanic
 * change everything except race
 * reset to level 1 of a specified class keeping current xp

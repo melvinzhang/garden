@@ -51,5 +51,5 @@
 * Dale of Merchants
 * Tales of Tribute
   * https://github.com/ScriptsOfTribute
-* Money Merchant
+* Master Merchant
 * Valley of Kings

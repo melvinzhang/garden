@@ -8,6 +8,7 @@ My learnings
 * integrate readings by breaking it down into separate notes, one per idea
 
 [Zettelkasten method](https://zettelkasten.de/posts/overview/)
+* aka 卡片盒笔记法
 * for developing thoughts, not building an archive
 * used by Niklas Luhmann
 * unique id for each note
@@ -16,7 +17,8 @@ My learnings
   * debate about note sequence [Folgezettel]({{< relref "folgezettel" >}})
 * tags, body with links, references
 * links should explain the relationship
-* see [Schmidt2018]({{< relref "schmidt2018" >}})
+* see [Schmidt2018]({{< relref "schmidt2018" >}}) [How to Take Smart Notes]({{< relref "how_to_take_smart_notes" >}})
+* [Bob Doto on Zettelkasten](https://writing.bobdoto.computer/zettelkasten/)
 
 [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 * atomic
@@ -40,10 +42,6 @@ Beatrice Webb Appendix C: The art of note-taking
 * date, source of information
 * finding the best arrangemet of notes is part of the discovery process
 
-[How to Take Smart Notes]({{< relref "how_to_take_smart_notes" >}})
-
-[Bob Doto on Zettelkasten](https://writing.bobdoto.computer/zettelkasten/)
-
 [Antinet](https://assets.antinet.org/Getting-Started-with-an-Antinet-Zettelkasten.pdf)
 
 Related literature
@@ -53,6 +51,7 @@ Related literature
 * Hack 17, “Write Magnificent Notes”
 * Weinberg on Writing: The Fieldstone Method
 * [Keith Thomas’s working methods](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
+* How to Make Notes and Write by Dan Allosso
 
 Implementation:
 * Tiddlywiki
@@ -79,6 +78,8 @@ Other tools:
 * [Silicon Notes](https://github.com/cu/silicon)
 * Bangle.io
 * https://www.zettlr.com/
+* [Forester](https://www.jonmsterling.com/jms-005P.xml)
+  * https://www.jonmsterling.com/index.xml
 
 timeline
 * earliest note is from 2006-12-29

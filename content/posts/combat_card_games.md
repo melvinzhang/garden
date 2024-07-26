@@ -1,6 +1,8 @@
 {"title": "combat card games", "tags": []}
 
 # Custom cards
+* Ashes Reborn
+  * roll dice for mana
 * [sanguosha]({{< relref "sanguosha" >}})
 * Yugioh
   * [YGO Omega](https://omega.duelistsunite.org/)
@@ -19,6 +21,8 @@
 * Flesh and Blood TCG
   * https://www.felttable.com/fab
   * https://talishar.net/
+* Star Wars Unlimited
+  * https://karabast.net/SWUOnline/MainMenu.php
 * KARDS - The WWII Card Game
 * Spellweaver
 * Causa, Voices of the Dusk

@@ -8,6 +8,11 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 167: Just One]({{< relref "just_one" >}})
+* [LD 165: Cell division]({{< relref "cell_division" >}})
+* [LD 164: Letter Jam]({{< relref "letter_jam" >}})
+* [LD 161: Origami]({{< relref "origami" >}})
+* [LD 160: Xylitol]({{< relref "xylitol" >}})
 * [LD 159: Fundraising]({{< relref "fundraising" >}})
 * [LD 155: Writing tools]({{< relref "writing_tools" >}})
 * [LD 154: Passo]({{< relref "passo" >}})
@@ -19,7 +24,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 146: The Path]({{< relref "the_path" >}})
 * [LD 145: Broccoli]({{< relref "broccoli" >}})
 * [LD 143: Confidence interval]({{< relref "confidence_interval" >}})
-* [LD 142: Abstract games]({{< relref "abstract_games" >}})
+* [LD 142: Hanabi]({{< relref "hanabi" >}})
 * [LD 141: Optimal stopping]({{< relref "optimal_stopping" >}})
 * [LD 140: Ghost (game)]({{< relref "ld_140__ghost__game_" >}})
 * [LD 139: Flexagon]({{< relref "flexagon" >}})
@@ -109,7 +114,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 89.5: Scuttlebutt]({{< relref "ld_89_5__scuttlebutt" >}})
 * [LD 89]({{< relref "ld_89" >}})
 * [LD 89: Emergent Narrative]({{< relref "ld_89__emergent_narrative" >}})
-* [LD 88.5: Server emulation]({{< relref "ld_88_5__server_emulation" >}})
+* [LD 88.5: Private servers]({{< relref "private_servers" >}})
 * [LD 88.0: Natural Language Processing]({{< relref "ld_88_0__natural_language_processing" >}})
 * [LD 87.5: Groceries]({{< relref "groceries" >}})
 * [LD 87.0: Decentralized Autonomous Organizations]({{< relref "ld_87_0__decentralized_autonomous_organizations" >}})

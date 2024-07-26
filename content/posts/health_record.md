@@ -110,3 +110,12 @@ H: 170.8cm
 BP: 109/61mmHg (< 120/80)
 HR: 87/min (60-90)
 
+Glucose + Lipid lab at Jurong Polyclinic done on 02/02/2024
+
+Cholesterol-Total: 4.4mmol/L (< 5.2)
+Cholesterol-HDL:   1.3mmol/L (1.0 - 1.5)
+Cholesterol-LDL:   2.7mmol/L (< 3.4)
+Triglycerides:     0.9mmol/L (< 2.3)
+Cholesterol/HDL Ratio: 3.4   (<= 4.5)
+Glucose (Fasting): 4.70mmol/L (4.0-6.0)
+

@@ -15,6 +15,10 @@ Bellman-Ford-Moore
 [Randomized Speedup of the Bellman–Ford Algorithm](https://arxiv.org/pdf/1111.5414.pdf)
 * mn/3 + m relaxation steps in expectation
 
+Non-adaptive Bellman-Ford: Yen's improvement is optimal
+   every non-adaptive deterministic algorithm based on relaxations must perform
+   (1/2−o(1))n^3 steps
+
 Goal directed or point to point SP
 * A* landmarks and triangle inequality (ALT)
 

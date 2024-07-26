@@ -19,12 +19,12 @@ Teaching
 * [純棋](http://jungo.go-en.com/)
   * [用純棋，10分鐘學會圍棋](https://video.trend.org/course/用純棋10分鐘學會圍棋)
   * [王銘琬九段 純碁講座](https://www.youtube.com/watch?v=jCmHlqIX1p4&t=544s)
-* [Simple Go](https://www.simplego.net/)
 * [Crazy sensei rules](https://www.crazy-sensei.com/?lang=en&location=rules)
 * [SquishyGo](https://puyogo.app/en/)
 * [Nanago](https://nanago.netlify.app/)
 * [Cosumi Jungo](https://www.cosumi.net/jungo.html)
 * [Dieter Verhofstadt recommended introduction](https://senseis.xmp.net/?DieterVerhofstadt%2FrecommendedIntroduction)
+* [Jungo](https://www.jungo.games)
 
 Solving Ponnuki-Go on small boards
 * 6x6 with crosscut: black wins
@@ -49,8 +49,9 @@ Kill-all Go
 Komi
 * points given to white so that optimal play results in a draw
 * [Mini-GO results](https://www.mathpuzzle.com/go.html)
-* [KataGo results](https://www.lifein19x19.com/viewtopic.php?p=259396)
-* under area scoring: 4 for 6x6, 9 for 7x7, 10 for 8x8, 7 for 9x9
+* [KataGo book](https://katagobooks.org/)
+  * under area scoring: 4 for 6x6, 9 for 7x7, 10 for 8x8, 7 for 9x9
+  * under Japanese rules: area scoring komi - 1
 
 Kropki
 * also known as Dots
@@ -63,9 +64,9 @@ Kropki
 9x9 Go
 * https://sites.google.com/view/9x9go/
 * [9x9 Go Reviews](https://9x9go.github.io/reviews/)
-* [GoQuest](http://wars.fm/go9)
-* [Fox Go](https://openfoxwq.com/)
-* [Opening book](https://www.crazy-sensei.com/book/go_9x9/)
+* [GoQuest](http://wars.fm/go9), 3mins+1s/move
+* [minifoxwq](https://openfoxwq.github.io/), 1min+3x20s
+* [9x9 opening explorer](https://go.yannikkeller.de/go)
 
 [Computer Go]({{< relref "computer_go" >}})
 
@@ -93,7 +94,7 @@ Learning resources
 * [101围棋网](https://www.101weiqi.com/)
 * [Michael Redmond's beginner lessons](https://www.youtube.com/playlist?list=PLW5_cMTm0wvamCNX7qNoUqbXxeHt9n67i)
 * [12 Week Miracle by Baduk TV](https://www.youtube.com/playlist?list=PLOZuftTHq-NYwYfT3Pcd5Dzck8_rnlLKk)
-* [极简围棋](https://www.zhihu.com/remix/albums/1023297931847290880)
+* [极简围棋](https://www.bilibili.com/video/BV1Ru411s7Mq/)
 * 用純棋10分鐘學會圍棋
 * 81 Little Lions
-* The Art of 9x9 Go
+* [The Art of 9x9 Go](https://senseis.xmp.net/?TheArtOf9x9Go%2F9x9Proverbs)

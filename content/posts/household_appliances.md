@@ -9,6 +9,8 @@ with wifi + app (Tuya, Smart Life)
 # Electric shaver
 
 philips aquatouch (rotary)
+* free replacement S1301/02
+* bought S1121/41 - Jul 2022 to March 2024
 
 foil
 

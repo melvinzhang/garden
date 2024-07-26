@@ -1,5 +1,7 @@
 {"title": "game ai", "tags": ["interest", "moc"]}
 
+http://www.gameaipro.com/
+
 General game playing
 * General Video Game AI Competition
 

@@ -10,6 +10,9 @@ Open problems
   * provide more feedback
 * How to make algorithms more interesting?
 
+https://idea-instructions.com/
+* A series of nonverbal algorithm assembly instructions.
+
 Stack: an open-source collection of teaching activities for understanding and practicing CS concepts.
 https://github.com/teaching-lab/stack-cs-activities
 

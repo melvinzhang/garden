@@ -40,3 +40,5 @@ Open problems:
 
 [SmartGo One](https://www.smartgo.com/)
 
+[囲碁であそぼ！](https://www.nihonkiin.or.jp/teach/app/igodeasobo/)
+

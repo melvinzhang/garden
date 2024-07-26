@@ -20,8 +20,13 @@ use kopia to backup to storj
 * disable scheduled full maintance as it could be very slow
   * also uses significant egress
   * only do it once a month, manually
+* mounting latest
+  * kopia snapshot list --all | grep "YYYY-MM-DD" > latest_snap
+  * kopia mount `cut -f6 -d' ' latest_snap` mnt
+    * fusermount -u mnt (if kopia process killed but unable to umount)
 
 offsite storage
+* https://cloudbs.dev/research/cloud-object-storage-dubious-savings/
 * storj 4 TB/mth
   * 25GB free storage/egress per mth
   * https://storjstats.info/

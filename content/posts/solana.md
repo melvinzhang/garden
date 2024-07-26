@@ -1,5 +1,7 @@
 {"title": "Solana", "tags": []}
 
+https://github.com/helius-labs/solana-awesome
+
 Supports [rust]({{< relref "rust" >}}) and C/C++, compiles to eBPF and runs with rbpf
 * downtime due to bugs in the single validator
 

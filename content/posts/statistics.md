@@ -27,6 +27,8 @@ uplift modelling
 Bonferroni correction
 
 Bessel's correction
+
+Sequential change-point detection
 ￼
 [Computer Age Statistical Inference](https://hastie.su.domains/CASI/)
 

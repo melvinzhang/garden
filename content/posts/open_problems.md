@@ -1,5 +1,17 @@
 {"title": "open problems", "tags": []}
 
+# Better coordination
+
+How to help people coordinate better to achieve progress?
+* crowd funding
+* citizen science
+* markets
+  * second hand
+  * exchanges
+* polymath
+* open source
+* mmog
+
 # Analysis of public dataset
 
 Example of NYC taxi data visualization on https://www.kaggle.com/muhammedazamkhan/interactive-data-visualization-nyc-taxi-trip

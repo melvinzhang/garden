@@ -1,9 +1,5 @@
 {"title": "health", "tags": ["moc"]}
 
-xylitol prevent cavities, 5g daily
-* gum chewed for 5 mins
-* mints allowed to dissolve
-
 Regular checks stored in [Health record]({{< relref "health_record" >}})
 
 Consistent exercise [Strength training]({{< relref "strength_training" >}})

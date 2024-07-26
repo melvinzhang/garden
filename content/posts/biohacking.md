@@ -1,5 +1,27 @@
 {"title": "biohacking", "tags": []}
 
+schedule
+* xylitol
+* breakfast
+* psyllium husk + NAC
+* xylitol
+* afternoon tea
+* psyllium husk + creatine
+* xylitol
+* dinner
+* omega 3 + NAC
+* xylitol
+* night
+* xylitol
+
+incline bed
+* 190cm long
+* 5.5cm raiser
+* x1 - 1.659°
+* x2 - 3.319°
+
+[Xylitol]({{< relref "xylitol" >}})
+
 creatine stored as phosphocreatine in muscles, excess excreted via urine
 * Creapure
 * 0.03 g/kg body weight
