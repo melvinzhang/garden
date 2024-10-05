@@ -1,7 +1,11 @@
 {"title": "Zero knowledge proofs", "tags": []}
 
+https://tlsnotary.org/
+https://reclaimprotocol.org/
+* selectively disclosure of any content received over TLS
+
 https://github.com/anagrambuild/bonsol
-   run any risc0 program and verify it on solana
+* run any risc0 program and verify it on solana
 
 https://zkcollective.org/
 

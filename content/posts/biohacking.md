@@ -1,17 +1,14 @@
 {"title": "biohacking", "tags": []}
 
 schedule
-* xylitol
 * breakfast
-* psyllium husk + NAC
+* psyllium husk
+* lunch
 * xylitol
 * afternoon tea
-* psyllium husk + creatine
-* xylitol
+* psyllium husk
 * dinner
-* omega 3 + NAC
-* xylitol
-* night
+* [omega-3]({{< relref "omega_3" >}})
 * xylitol
 
 incline bed
@@ -36,6 +33,8 @@ https://drstanfield.com/my-supplements/
 
 Vitamin D
 * https://www.grc.com/health/vitamin-d.htm
+* https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease
+  * recommended daily allowance for adult < 75 is 600 IU
 
 NAC for breaking down mucus
 * active ingredient of Fluimucil, recommends 600mg/day

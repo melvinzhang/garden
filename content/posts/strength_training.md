@@ -1,5 +1,7 @@
 {"title": "Strength training", "tags": []}
 
+[squat-stance deadlift](https://www.advancedhumanperformance.com/the-best-way-to-deadlift-squat-stance-deadlift)
+
 https://stronglifts.com/
 
 https://outlift.com/the-5-big-compound-lifts/

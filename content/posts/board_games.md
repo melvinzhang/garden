@@ -1,5 +1,8 @@
 {"title": "board games", "tags": []}
 
+Play Play Fair 2024
+* https://theaeriegames.com/games/arcana-prophetia
+
 NUS BGAG
 * Terraforming Mars
 * Floriferous

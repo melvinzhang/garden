@@ -1,5 +1,21 @@
 {"title": "Linux desktop setup", "tags": []}
 
+reboot if stuck
+* Alt+PrtSc+
+* r - keyboard to raw mode
+* e - sigterm to all processes
+* i - sigkill to all processes
+* s - flush data to disk
+* u - unmount and remount read-only
+* b - reboot
+* k - kills all programs on the current virtual console
+
+reduce systemd stop timeout
+* DefaultTimeoutStopSec=5 in /etc/systemd/system.conf
+
+stress testing
+* s-tui, stress
+
 bios
 * intel default settings
 * xmp I

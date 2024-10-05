@@ -11,6 +11,7 @@ make your own
 * https://vassalengine.org
 
 multiple games
+* https://lefun.fun/
 * https://rocketcrab.com/
 * https://card-table.app/
 * https://mattle.online/

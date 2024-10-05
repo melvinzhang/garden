@@ -3,6 +3,8 @@
 Dijkstra's Algorithm
 * does not work if graph has negative edge weights
 
+Label correcting algorithms
+
 Bellman-Ford-Moore
 * https://en.wikipedia.org/wiki/Shortest_path_faster_algorithm
 * use a queue to store nodes where we found a shorter path
@@ -23,4 +25,6 @@ Goal directed or point to point SP
 * A* landmarks and triangle inequality (ALT)
 
 [A Survey of Shortest-Path Algorithms](https://arxiv.org/abs/1705.02044)
+
+http://forskning.diku.dk/PATH05/GoldbergSlides.pdf
 

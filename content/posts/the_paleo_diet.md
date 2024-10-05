@@ -10,7 +10,7 @@ Saturated fats: mostly bad (meats and whole dairy products)
 
 Monounsaturated fats: olive oil, nuts, and avocados
 
-Polyunsaturated fats: mixed bag, omega 3 (fish oils) are healthy, omega 6 (vegetable oils, baked goods, snack food) are not good when out of balance with the omega 3
+Polyunsaturated fats: mixed bag, omega-3 (fish oils) are healthy, omega-6 (vegetable oils, baked goods, snack food) are not good when out of balance with the omega-3
 
 Glycemic load = Glycemic index * Carbohydrate content
 
@@ -18,7 +18,7 @@ Potassium-Sodium balance
 
 Acid-Base balance
 
-Walnuts (4.2) and Macadamia nuts (6.3) have a favorable omega 6 to omega 3 ratio
+Walnuts (4.2) and Macadamia nuts (6.3) have a favorable omega-6 to omega-3 ratio
 
 Perilla oil (0.27)
 

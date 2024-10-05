@@ -28,3 +28,7 @@ Markdown in browser
 * https://casual-effects.com/markdeep/
 * https://mathpix.com/docs/mathpix-markdown/overview
 
+notebooks
+* https://jupyter.org/
+* https://marimo.io/
+

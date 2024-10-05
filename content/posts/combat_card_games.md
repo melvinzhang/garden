@@ -33,14 +33,29 @@
 * [Duelyst](https://duelyst.gg/)
 * [Duelyst II](https://duelyst2.com/)
 * [Air, Land, & Sea](https://boardgamegeek.com/boardgame/247367/air-land-sea)
-* Pokemon TCG
-  * https://tcgone.net/
-  * https://github.com/keeshii/ryuu-play
+* [Pokemon TCG]({{< relref "pokemon_tcg" >}})
 * Genesis: Battle of Champions
   * https://genesis.coliseum-of-fate.com/
 * Inscryption
   * https://107zxz.itch.io/inscryption-multiplayer-godot
   * https://github.com/ymyke/cardio
+* [Android: Netrunner](https://www.jinteki.net/)
+* [A Game of Thrones](https://theironthrone.net/)
+* [Legend of the Five Rings](https://jigoku.online/)
+* [LotR LCG]({{< relref "lotr_lcg" >}})
+* [Lord of the Rings TCG](https://play.lotrtcgpc.net/gemp-lotr/)
+* [Star Wars CCG](https://gemp.starwarsccg.org/gemp-swccg/)
+* [Ashes Reborn Online](https://ashteki.com/)
+* Digimon Card Game
+  * manual https://project-drasil.online/login
+  * auto DCGO by Hoang Zero
+* Altered TCG
+  * two areas: hero and companion side
+  * win one at least one terrain to move forward
+* Wizards of the Grimoire
+  * draft spells to form an engine
+  * draw 3 mana per turn to activate spells, then spells go on cooldown
+  * spells are instant, delayed, or ongoing
 
 # Using a standard 52 card deck
 * [Cuttle]({{< relref "cuttle" >}})
@@ -59,6 +74,8 @@
 * Goofspiel/The Game of Pure Strategy
   * http://gcrhoads.byethost4.com/gops.html
 * Diavolo
+* [掼蛋](https://boardgamegeek.com/boardgame/273913/guan-dan)
+  * 2 pairs of players, fixed partners
 
 # reference
 https://www.pagat.com/combat/

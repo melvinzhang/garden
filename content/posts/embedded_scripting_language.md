@@ -5,5 +5,7 @@ Lua
 
 [Terra](https://terralang.org/)
 
-https://github.com/r-lyeh-archived/scriptorium
+JS via https://bellard.org/quickjs/
+
+[Scripting Languages benchmarked](https://github.com/r-lyeh-archived/scriptorium)
 

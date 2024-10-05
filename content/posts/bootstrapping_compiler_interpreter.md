@@ -2,6 +2,12 @@
 
 [scheme2llvm compiler]({{< relref "scheme2llvm_compiler" >}})
 
+[Scopes](https://scopes.readthedocs.io/en/latest/)
+
+https://prescheme.org/
+
+https://github.com/false-schemers/sharpF scheme to C
+
 https://c9x.me/qscm/ self-compiling qscm to C compiler
 
 https://github.com/dubek/malc mal to llvm compiler

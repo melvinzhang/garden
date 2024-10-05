@@ -1,5 +1,8 @@
 {"title": "Python", "tags": []}
 
+[uv](https://docs.astral.sh/uv/)
+* replaces pipenv, pyenv
+
 https://textual.textualize.io/
 
 Multiprocessing

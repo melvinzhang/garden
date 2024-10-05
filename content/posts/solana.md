@@ -1,6 +1,11 @@
 {"title": "Solana", "tags": []}
 
+https://explorer.solana.com/tx/inspector
+* inspect seralized txn
+
 https://github.com/helius-labs/solana-awesome
+
+[IDL-first framework-less solana programming](https://github.com/igneous-labs/ideally)
 
 Supports [rust]({{< relref "rust" >}}) and C/C++, compiles to eBPF and runs with rbpf
 * downtime due to bugs in the single validator
