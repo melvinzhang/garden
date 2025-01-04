@@ -1,5 +1,21 @@
 {"title": "board games", "tags": []}
 
+ABGF 2024
+* Hot Pot Holic
+  * set collection
+  * trick taking
+* Kaki Lima: Downtown KL
+  * sticky activities
+* Yellow House
+  * shedding
+* Manhattan
+  * area majority, able to stack
+* Battle for Treas
+  * hide treasure in chest
+* Legions of Kadmon
+* Ultimate Voyage
+  * navigate and acquire points
+
 Play Play Fair 2024
 * https://theaeriegames.com/games/arcana-prophetia
 

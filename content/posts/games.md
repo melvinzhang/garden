@@ -30,8 +30,6 @@
 
 [Games with build experimentation]({{< relref "games_with_build_experimentation" >}})
 
-[Online Card Games]({{< relref "online_card_games" >}})
-
 [online multiplayer games]({{< relref "online_multiplayer_games" >}})
 
 [recommended games]({{< relref "recommended_games" >}})

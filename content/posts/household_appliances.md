@@ -32,6 +32,17 @@ Easier to operate than a gas top pressure cooker as it comes with a timer.
 Reduces the time to prepare meals.
 
 [Tefal CY601 Home Chef Smart Multicooker](https://www.tefal.com.sg/Cooking-appliances/Electrical-Pressure-Cookers/CY601-Home-Chef-Smart-Multicooker/p/7211003793)
+* inner pot is non-stick (PTFE), not stainless steel
+* portion of base that locks with lid gets rusty after use
+
+# Frying pan
+
+https://www.leafscore.com/eco-friendly-kitchen-products/best-non-toxic-nonstick-pans/
+
+neoflam pote frypan
+* http://www.neoflambrasil.com.br/documents/nova_tecnologia_xtrema.pdf
+* xtrema, ceramic coating
+* ATTI pattern to minimize contact
 
 # Split mechanical keyboard
 

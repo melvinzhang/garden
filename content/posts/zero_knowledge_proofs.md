@@ -1,5 +1,12 @@
 {"title": "Zero knowledge proofs", "tags": []}
 
+zklogin using open id provider to prove user owns wallet
+* generate temp private/public key
+* use public key as nonce for getting JWT
+* generate zkproof of JWT containing public key
+* sign txn with private key
+* contract verifies that txn signature pubkey is nonce of JWT
+
 https://tlsnotary.org/
 https://reclaimprotocol.org/
 * selectively disclosure of any content received over TLS

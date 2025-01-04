@@ -1,5 +1,9 @@
 {"title": "Linux desktop setup", "tags": []}
 
+firefox 128
+* pdf rendering issue https://bugzilla.mozilla.org/show_bug.cgi?id=1904707
+  * mitigation: set gfx.canvas.accelerated=false
+
 reboot if stuck
 * Alt+PrtSc+
 * r - keyboard to raw mode
@@ -11,12 +15,12 @@ reboot if stuck
 * k - kills all programs on the current virtual console
 
 reduce systemd stop timeout
-* DefaultTimeoutStopSec=5 in /etc/systemd/system.conf
+* DefaultTimeoutStopSec=10s in /etc/systemd/system.conf
 
 stress testing
 * s-tui, stress
 
-bios
+bios for TUF GAMING B760-PLUS WIFI
 * intel default settings
 * xmp I
 * disable hyperthreading
@@ -85,6 +89,12 @@ general upgrading
 * upgrade with new packages and delete, apt full-upgrade
 * optionally hold linux-headers-amd64 linux-image-amd64 linux-libc-dev
 
+apt config
+* include kali-last-snapshot and kali-rolling in sources
+* set `APT::Default-Release "kali-last-snapshot";` in /etc/apt/apt.conf.d/local to
+* increase priority of snapshot
+* check with apt-cache policy
+
 Allow unprivileged users to create namespaces, for AppImage to work
 echo 'kernel.unprivileged_userns_clone=1' > /etc/sysctl.d/00-local-userns.conf
 
@@ -96,7 +106,7 @@ files
 
 Terminal
 * rxvt, then kitty
-* alternatives: wezterm, alacritty
+* alternatives: wezterm, alacritty, ghostty
 * Ctrl-[ is equivalent to Esc
 
 Terminal multiplexer
@@ -155,6 +165,7 @@ system
 * wajig
   * logs in ~/.wajig/hostname/Log
   * toupgrade
+  * install pkg=version
 * nvidia-driver nvidia-settings
 
 install

@@ -29,6 +29,7 @@ Courses
 * Harvard's CS50
 * Berkeley's BJC
 * SICPJS https://sourceacademy.org/sicpjs/index
+* [YSC1212 by Olivier Danvy](https://delimited-continuation.github.io/YSC1212/2018-2019_Sem2/index.html)
 
 Using games
 * Minecraft clone in 50 lines Python using the Ursina game engine

@@ -18,6 +18,11 @@ Verus: Verifying Rust Programs using Linear Ghost Types
 
 verified compilers, interpreters
 
+Metamath Zero
+* https://digama0.github.io/mm0/thesis.pdf
+* Metamath One - writing proofs
+* Metamath C - writing verifed programs
+
 ACL2 theorem prover
 
 Jitawa, Milawa

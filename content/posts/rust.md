@@ -1,5 +1,7 @@
 {"title": "rust", "tags": []}
 
+https://dioxuslabs.com/ for desktop, web, mobile
+
 https://quickref.me/rust.html
 
 https://cheats.rs/

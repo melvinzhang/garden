@@ -8,6 +8,8 @@ The meetup is held weekly via Zoom every Friday evening, 7 to 10pm.
 Whenever I come across a potential topic, I note it down in [possible sharing topics]({{< relref "wip_learning_day_topics" >}}).
 
 The following is a list of topics I've shared in past LDs:
+* [LD 181: Special relativity]({{< relref "special_relativity" >}})
+* [LD 177: Marvel Champions]({{< relref "marvel_champions" >}})
 * [LD 175: Pokemon]({{< relref "pokemon" >}})
 * [LD 167: Just One]({{< relref "just_one" >}})
 * [LD 165: Cell division]({{< relref "cell_division" >}})

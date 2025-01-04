@@ -17,9 +17,9 @@ proof of work is implemented in the signing, the hash produced must have a certa
 * the faster can perform each try, the more likely you are to find the hash
 
 use the online sha256 calculator, https://tinyurl.com/sha256calc
-* 000:hello:nounce
-* nounce=b gives 0 for the first 4 bits of the hash, last three digits are 469
-* 469:world:nounce
+* 000:hello:nonce
+* nonce=b gives 0 for the first 4 bits of the hash, last three digits are 469
+* 469:world:nonce
 
 https://guggero.github.io/blockchain-demo/
 

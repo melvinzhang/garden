@@ -14,13 +14,7 @@ IF authoring
 * Informs
 * TADS
 
-MUD
-* MUD1 and MUD2
-* https://www.conquestmud.ca/
-* MOO supports live editing of the game code.
-* Generated MUD https://github.com/melvinzhang/genmud
-* https://empiremud.net/
-* http://wayfar1444.com/
+[MUD]({{< relref "mud" >}})
 
 Roguelike
 * Rogue
@@ -29,8 +23,12 @@ Roguelike
   * descended from PWMAngband
   * https://tangaria.com/history/
 * Cataclysm: Dark Days Ahead
+* Caves of Qud
+* The Doors of Trithius
+* Ultima Ratio Regum
 * https://github.com/tmewett/BrogueCE
 * [Elona+ Custom-GX](https://github.com/Ruin0x11/ElonaPlusCustom-GX)
+* [Elin](https://store.steampowered.com/app/2135150/Elin/)
 * [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
 * Shadow of the Wyrm
 * The Ground Gives Way
@@ -39,6 +37,10 @@ Roguelike
   * spend points in spells/skills to create a build
 * [The only shadow that the desert knows](http://humbit.com/shadow/)
   * time travel to search for artifacts
+* Iter Vehemens ad Necem (IVAN)
+  * https://github.com/Attnam/ivan
+* prospector
+* Approaching Infinity
 
 MMORPG
 * Guild Wars 2

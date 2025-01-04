@@ -1,4 +1,4 @@
-{"title": "Geekcamp 2011", "tags": ["talk"]}
+{"title": "GeekcampSG 2011", "tags": ["talk"]}
 
 kaihendry's suckless talk
 * talks.webconveyer.com/2011-09-30

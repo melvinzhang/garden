@@ -3,9 +3,15 @@ commit to long term memory
 
 review/update notes, incremental writing
 
+benchmarks
+* https://github.com/open-spaced-repetition/srs-benchmark
+
 Ebisu package on Python
+* https://github.com/fasiha/ebisu/
+* v3 uses 3 sub v2 models
 
 FSRS algorithm https://github.com/open-spaced-repetition
+* https://github.com/open-spaced-repetition/py-fsrs
 
 https://www.memcode.com/
 

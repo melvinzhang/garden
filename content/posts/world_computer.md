@@ -13,8 +13,6 @@ https://www.developerreport.com/
 
 Contracts holding assets and operating like a financial institute.
 
-Selling covered calls as a way to take profits.
-
 [blockchain singapore]({{< relref "blockchain_singapore" >}})
 
 [decentralized finance]({{< relref "decentralized_finance" >}})
@@ -28,4 +26,6 @@ Selling covered calls as a way to take profits.
 [Smart contracts]({{< relref "smart_contracts" >}})
 
 [Solana]({{< relref "solana" >}})
+
+[onchain wallet]({{< relref "onchain_wallet" >}})
 

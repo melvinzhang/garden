@@ -1,11 +1,14 @@
 {"title": "Solana", "tags": []}
 
+solana programs
+* https://github.com/codama-idl/codama idl to tools
+* https://github.com/febo/eisodos benchmark of CU for different entrypoint implementation
+* [IDL-first framework-less solana programming](https://github.com/igneous-labs/ideally)
+
 https://explorer.solana.com/tx/inspector
 * inspect seralized txn
 
 https://github.com/helius-labs/solana-awesome
-
-[IDL-first framework-less solana programming](https://github.com/igneous-labs/ideally)
 
 Supports [rust]({{< relref "rust" >}}) and C/C++, compiles to eBPF and runs with rbpf
 * downtime due to bugs in the single validator
@@ -17,6 +20,10 @@ Jump Crypto building second validator, Firedancer
 
 State is stored in accounts. When transfering tokens to a new wallet an
 associated token account is created to hold the balance. The rent required is provider by the sender.
+
+Close ATA with 0 balance
+* https://slotana.io/en/toolkit/closeUnusedTokenAccounts
+* https://tools.blastctrl.com/spl-token-tools/close-empty
 
 realloc can resize an account up to 10KB.
 

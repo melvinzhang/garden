@@ -2,6 +2,9 @@
 
 Dijkstra's Algorithm
 * does not work if graph has negative edge weights
+* optimal for any graph when paired with heap data structure with a working-set property
+  * working set of element x, W_x, is the largest set of elements in the heap that
+  * were inserted after x. ExtractMin should be O(1 + log |W_x|)
 
 Label correcting algorithms
 
@@ -13,6 +16,7 @@ Bellman-Ford-Moore
 * negative cycle detection
   * walk to the root
   * subtree disassembly
+* optimal for shortest hop-bounded paths assuming APSP and Min-Plus convolution
 
 [Randomized Speedup of the Bellman–Ford Algorithm](https://arxiv.org/pdf/1111.5414.pdf)
 * mn/3 + m relaxation steps in expectation

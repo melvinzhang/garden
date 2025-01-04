@@ -1,5 +1,7 @@
 {"title": "Procedural content generation", "tags": ["pcg", "interest"]}
 
+https://nonadecimal.com/site/procedural-narrative/
+
 [Narrative Intelligence Lab](https://www.cs.uky.edu/~sgware)
 
 [PROCJAM](https://www.procjam.com/)

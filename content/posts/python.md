@@ -1,5 +1,8 @@
 {"title": "Python", "tags": []}
 
+Browser UI in Python https://nicegui.io
+* requires Python backend
+
 [uv](https://docs.astral.sh/uv/)
 * replaces pipenv, pyenv
 

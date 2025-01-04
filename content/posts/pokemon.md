@@ -17,3 +17,6 @@ Two version of each generation to facilitate trading
 
 [Pokemon showdown bot]({{< relref "pokemon_showdown_bot" >}})
 
+fan made games
+* Reminiscencia
+

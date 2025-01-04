@@ -48,7 +48,7 @@ All else fails, there is [linux recovery]({{< relref "linux_recovery" >}})
 
 [windows emulation on linux]({{< relref "windows_emulation_on_linux" >}})
 
-[SSH tunnelling]({{< relref "ssh_tunnelling" >}})
+[localhost tunnel]({{< relref "localhost_tunnel" >}})
 
 [immutable distro]({{< relref "immutable_distro" >}})
 

@@ -34,3 +34,5 @@ Gloomhaven
 
 [Thematic or Modern Solitaire/Solo Games Using ONLY a 52-card standard deck](https://boardgamegeek.com/geeklist/264858/thematic-or-modern-solitairesolo-games-using-only)
 
+https://boardgamegeek.com/geeklist/323787/solo-games-you-can-play-in-hand-anywhere-with-a-si
+

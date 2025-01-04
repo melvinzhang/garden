@@ -1,6 +1,9 @@
 {"title": "combat card games", "tags": []}
 
 # Custom cards
+* Sorcery: Contested Realms
+  * 5x4 grid, place site, attack site
+  * online play https://spells.bar/
 * Ashes Reborn
   * roll dice for mana
 * [sanguosha]({{< relref "sanguosha" >}})
@@ -21,8 +24,6 @@
 * Flesh and Blood TCG
   * https://www.felttable.com/fab
   * https://talishar.net/
-* Star Wars Unlimited
-  * https://karabast.net/SWUOnline/MainMenu.php
 * KARDS - The WWII Card Game
 * Spellweaver
 * Causa, Voices of the Dusk
@@ -39,12 +40,22 @@
 * Inscryption
   * https://107zxz.itch.io/inscryption-multiplayer-godot
   * https://github.com/ymyke/cardio
-* [Android: Netrunner](https://www.jinteki.net/)
+* Android: Netrunner
+  * https://www.jinteki.net/
+  * https://chiriboga.sifnt.net.au/
 * [A Game of Thrones](https://theironthrone.net/)
 * [Legend of the Five Rings](https://jigoku.online/)
 * [LotR LCG]({{< relref "lotr_lcg" >}})
 * [Lord of the Rings TCG](https://play.lotrtcgpc.net/gemp-lotr/)
+* Arkham Horror
+  * https://playarkham.azurewebsites.net/
+  * https://arkhamhorror.app/
+* [marvel champions]({{< relref "marvel_champions" >}})
 * [Star Wars CCG](https://gemp.starwarsccg.org/gemp-swccg/)
+* Star Wars Unlimited
+  * https://karabast.net/SWUOnline/MainMenu.php
+  * https://www.forcetable.net/swu
+* Star Wars: The Deckbuilding Game
 * [Ashes Reborn Online](https://ashteki.com/)
 * Digimon Card Game
   * manual https://project-drasil.online/login
@@ -76,6 +87,7 @@
 * Diavolo
 * [掼蛋](https://boardgamegeek.com/boardgame/273913/guan-dan)
   * 2 pairs of players, fixed partners
+* [Arcane Nights](https://arcanenights.net/)
 
 # reference
 https://www.pagat.com/combat/

@@ -1,11 +1,13 @@
 {"title": "high performance computing", "tags": []}
 
+heaptrack
+
 https://www.speedscope.app/
 
 [py-spy](https://github.com/benfred/py-spy)
 
 [scalene](https://github.com/plasma-umass/scalene)
-* Memory/CPU profiler
+* Memory/CPU profiler for Python
 
 flamegraph
 * doesn't work well for recursive functions, should collapse self calls

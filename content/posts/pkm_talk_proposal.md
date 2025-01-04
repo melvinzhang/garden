@@ -1,15 +1,22 @@
 {"title": "PKM talk proposal", "tags": []}
 
-Title: Level up your note taking skills and cultivate new ideas
+Title: Cultivating Your Digital Garden: Thriving in the Age of Information Overload
+* alt: Level up your knowledge work by starting a digital garden
+* alt: Level up your note taking skills and cultivate new ideas
+* alt: Building a personal knowledge mangement tool in Vim
 
-Alt title: Building a personal knowledge mangement tool in Vim
+
+# Main points
+we are awash in information, how to deal with the deluge
+writing is thinking clearly, helps us discover gaps in our understanding
+best way to learn is to teach, writing to teach your future self/your readers
 
 # Elevator Pitch (300 chars)
 
-Do you struggle to remember what you've learned? I took notes for every talk I
-attended, but it was hard to find them again. Then I learned about the
-Zettelkasten method and its modern incarnation, Digital Gardens. Learn how to
-create your own digital garden to learn in public and develop new ideas.
+Feeling overwhelmed by scattered documents, cluttered bookmarks, and too many
+browser tabs? Fret not, tame the tangle of information by cultivating your own
+digital garden. Learn how to use open source tools to start a digital garden, a
+place to capture, organize, and connect your thoughts.
 
 # Topic background
 

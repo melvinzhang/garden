@@ -1,4 +1,4 @@
-{"title": "Geekcamp.SG 2012", "tags": ["talk"]}
+{"title": "GeekcampSG 2012", "tags": ["talk"]}
 
 Bitcoin by U-Zyn Chua
 uzyn.com is a weblog by U-Zyn Chua —A web developer and cloud computing

@@ -14,9 +14,9 @@ high performance FPGA platform
 there is a chassis control computer
 ** using BFGMiner in BTCGuild mining pool
 ** mining details
-640bit header + 32bit nounce
+640bit header + 32bit nonce
 sha-256(first 512 bits of header) = midstate (constant)
-sha-256(second chunk of header + nounce) = round1 output
+sha-256(second chunk of header + nonce) = round1 output
 sha-256(round + midstate) = final hash
 compare final hash with difficulty threshold
 ** achievement

@@ -1,4 +1,20 @@
-{"title": "SSH tunnelling", "tags": []}
+{"title": "localhost tunnel", "tags": []}
+
+microsoft dev tunnel
+* 5gb per month
+* 20mb/s per tunnel
+
+https://github.com/anderspitman/awesome-tunneling
+
+tailscale
+* node sharing
+* funnel
+
+cloudflared tunnel --url http://localhost:2345
+
+https://localhost.run/
+https://serveo.net/
+
 ssh -N -f -R 14443:localhost:22 toydi@mysurface.org
 
 -N do not execute a remote command, useful for just forwarding ports
