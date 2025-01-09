@@ -17,4 +17,5 @@ Wordle
 https://squabble.me/
 
 [High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model](https://github.com/ggerganov/whisper.cpp)
+* https://chidiwilliams.github.io/buzz/
 

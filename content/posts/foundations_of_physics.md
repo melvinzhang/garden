@@ -6,5 +6,7 @@ Existential Physics: A Scientist's Guide to Life's Biggest Questions by Sabine H
 
 [special relativity]({{< relref "special_relativity" >}})
 
+[general relativity]({{< relref "general_relativity" >}})
+
 Concordance Cosmological Model
 

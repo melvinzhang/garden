@@ -1,5 +1,7 @@
 {"title": "statistics", "tags": ["moc"]}
 
+[quantile tracking]({{< relref "quantile_tracking" >}})
+
 [statistics with python]({{< relref "statistics_with_python" >}})
 
 [effect size]({{< relref "effect_size" >}})

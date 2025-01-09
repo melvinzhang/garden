@@ -24,6 +24,11 @@ Many different types of [deadlocks](http://sokobano.de/wiki/index.php?title=Dead
 
 Solving in reverse by pulling boxes, avoid deadlocks.
 
+[The Sorcerer's Detritus](https://chz.itch.io/the-sorcerers-detritus)
+* side view with gravity
+* able to create a new block beneath you pushing you up
+* new block may block you
+
 Patrick's Parabox
 * adds blocks which are levels you can enter
 * [trailer](https://www.youtube.com/watch?v=Rl_ohYPXNMo)
