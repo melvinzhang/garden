@@ -21,6 +21,9 @@ Jump Crypto building second validator, Firedancer
 State is stored in accounts. When transfering tokens to a new wallet an
 associated token account is created to hold the balance. The rent required is provider by the sender.
 
+SOL is stored directly in the wallet account. Rent for 0 bytes wallet account is
+890880 lamports.
+
 Close ATA with 0 balance
 * https://slotana.io/en/toolkit/closeUnusedTokenAccounts
 * https://tools.blastctrl.com/spl-token-tools/close-empty

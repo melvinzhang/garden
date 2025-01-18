@@ -1,18 +1,6 @@
 {"title": "Virtual worlds", "tags": []}
 
-Interactive fiction
-* Colossal Cave Adventure
-* Zork
-* kerkerkruip
-* https://ifdb.org/
-
-IF authoring
-* Curveship
-  * https://nickm.com/curveship/
-* Twine
-* Ink
-* Informs
-* TADS
+[interactive fiction]({{< relref "interactive_fiction" >}})
 
 [MUD]({{< relref "mud" >}})
 

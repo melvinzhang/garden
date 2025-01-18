@@ -162,7 +162,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 71.5]({{< relref "ld_71_5" >}})
 * [LD 71.5: MUD]({{< relref "mud" >}})
 * [LD 71]({{< relref "ld_71" >}})
-* [LD 71: Making Interactive Fiction with Twine]({{< relref "ld_71__making_interactive_fiction_with_twine" >}})
+* [LD 71: Interactive Fiction]({{< relref "interactive_fiction" >}})
 * [LD 70.5]({{< relref "ld_70_5" >}})
 * [LD 70.5: MMORPG]({{< relref "ld_70_5__mmorpg" >}})
 * [LD 70]({{< relref "ld_70" >}})
