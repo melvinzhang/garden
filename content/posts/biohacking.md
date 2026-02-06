@@ -42,10 +42,7 @@ NAC for breaking down mucus
 * short term, 1200mg/day commonly used in studies
 * ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8234027/
 
-matcha contains L-theanine
-
-L-theanine power and coffee
-ratio of 1 caffine to 2 theanine
+[l-theanine]({{< relref "l_theanine" >}})
 
 theobromine, from cocoa, alternative to caffine, milder
 

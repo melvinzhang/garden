@@ -1,5 +1,14 @@
 {"title": "open problems", "tags": []}
 
+# related
+
+https://topp.openproblem.net/
+http://www.openproblemgarden.org/
+
+# Learning from AI
+
+https://www.maiachess.com/
+
 # Better coordination
 
 How to help people coordinate better to achieve progress?
@@ -26,6 +35,9 @@ See https://data.gov.sg/ for other datasets from the Singapore.
 https://magarena.github.io/ uses the Monte-Carlo Tree search AI to play Magic: the Gathering
 
 https://github.com/melvinzhang/ismcts use ISMCTS to play simplified Knockout Whist
+
+https://github.com/sfranzen/ismcsolver is a header only C++14 library for single
+observer and multiple observers ISMCTS
 
 Explore ways to make the AI stronger and play a better game.
 
@@ -152,4 +164,5 @@ It is one of the research areas in [Martin Müller's Research Group](https://web
 * [The Mysterious Physics of 7 Everyday Things](https://www.livescience.com/33537-mysterious-physics-everyday-things.html)
 * [Tadashi's Toys](https://www.msri.org/web/msri/public/tadashis-toys)
 * [What are the coolest physics behind everyday items?](https://www.quora.com/What-are-the-coolest-physics-behind-everyday-items)
+* https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science
 

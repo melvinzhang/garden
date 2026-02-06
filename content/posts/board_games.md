@@ -1,5 +1,24 @@
 {"title": "board games", "tags": []}
 
+Compile: Main 1
+
+108 Outlaws
+
+Bomb Busters
+
+https://boardgamegeek.com/boardgame/400631/cheesars-arena
+* roll mice dice, cat dice, cheese dice
+* choose dice to to action
+* eat 7 cheese to win
+* played @ Singapore Open Gaming
+
+Five Tribes
+
+Fromage
+* worker placement
+* simultaneous turn on a board with 4 mini games that rotate
+* better rewards take the worker more turns
+
 ABGF 2024
 * Hot Pot Holic
   * set collection

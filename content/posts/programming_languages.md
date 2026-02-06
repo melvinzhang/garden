@@ -1,5 +1,7 @@
 {"title": "Programming languages", "tags": ["pl", "interest", "moc"]}
 
+[bflat](https://flattened.net/)
+
 [bruijn](https://bruijn.marvinborner.de/)
 
 [Maru]({{< relref "maru" >}}) [Hacking Maru]({{< relref "hacking_maru" >}})
@@ -47,7 +49,7 @@ Koka: a Functional Language with Effects
 
 [parsing]({{< relref "parsing" >}})
 
-[software verification]({{< relref "software_verification" >}})
+[formal verification]({{< relref "formal_verification" >}})
 
 [algorithmic information theory]({{< relref "algorithmic_information_theory" >}})
 

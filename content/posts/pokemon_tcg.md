@@ -10,6 +10,7 @@
   * https://www.pokedata.ovh/misc/dusting
 
 Simulators
+* https://twinleaf.gg/
 * https://ptcgsim.online/
 * https://tcgone.net/
 * https://ptcg.ryuu.eu/

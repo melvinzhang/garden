@@ -13,9 +13,10 @@ mobile
 
 use borg to backup Modules to toshiba SD card
 
-use kopia to backup to storj
+use kopia to backup to b2
 * repository create
 * repository connect
+  * kopiabb
 * snapshot create
 * disable scheduled full maintance as it could be very slow
   * also uses significant egress
@@ -26,11 +27,17 @@ use kopia to backup to storj
     * fusermount -u mnt (if kopia process killed but unable to umount)
 
 offsite storage
+* approx 50gb
+* b2 6 TB/mth
+  * 10GB free
+  * free egress monthly up to 3x storage
+
+alternatives
 * https://cloudbs.dev/research/cloud-object-storage-dubious-savings/
 * storj 4 TB/mth
-  * 25GB free storage/egress per mth
+  * 7 per TB egress
+  * min $5 per month
   * https://storjstats.info/
-* b2 6 TB/mth (10GB free)
 * idrive e2 4 TB/mth (min is per TB)
 * wasabi 6.99 TB/mth
 

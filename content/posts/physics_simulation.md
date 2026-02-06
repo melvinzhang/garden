@@ -1,5 +1,9 @@
 {"title": "physics simulation", "tags": []}
 
+https://ge.in.tum.de/publications/very-large-scale-two-phase-flip/
+
+[Augmented Vertex Block Descent](https://graphics.cs.utah.edu/research/projects/avbd/)
+
 https://chipmunk-physics.net/
 
 https://box2d.org/

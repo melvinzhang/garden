@@ -1,8 +1,8 @@
 {"title": "abstract games", "tags": []}
 
-[passo]({{< relref "passo" >}})
+https://boardgamegeek.com/geeklist/191897/restaurant-napkin-games-minimalist-abstract-strate
 
-[Set card game]({{< relref "set_card_game" >}})
+[Freeze-dried games pack](https://kevan.org/fdgp/)
 
 https://ludii.games/index.php
 
@@ -16,7 +16,19 @@ http://mrraow.com/index.php/aiai-home/
 
 https://mindsports.nl/
 
+Boop
+
 [Dagaz](https://glukkazan.github.io/)
 
-http://cambolbro.com/games/hex/
+[hex]({{< relref "hex" >}})
+
+[Go]({{< relref "go" >}})
+
+[capture go]({{< relref "capture_go" >}})
+
+[squava]({{< relref "squava" >}})
+
+[passo]({{< relref "passo" >}})
+
+[Set card game]({{< relref "set_card_game" >}})
 

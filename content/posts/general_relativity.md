@@ -2,6 +2,11 @@
 
 extends special relativty by including the effect of gravity
 
+river model of space
+* alternative to curvature
+* gravitational time dilation can be explaination as relativistic time dilation!
+* speed of flow at earth surface = escape velocity = sqrt(2GM/r)
+
 equivalence principle
 * free falling in gravity ~ free floating in space
 * standing in gravity ~ an accelerating frame
@@ -10,7 +15,7 @@ Friedmann-Lemaitre-Robertson-Walker spacetime
 * Space is homogeneous and isotropic
 * Space is uniformly filled with matter
 
-mass warps spaccetime
+mass warps spacetime
 * Schwarzschild radius, r_s = 2GM/c^2
 * (ds)^2 = (1 - r_s/r)(cdt)^2 - (1 + r_s/r)(dx)^2
 * time slows in curved space time

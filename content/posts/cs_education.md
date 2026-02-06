@@ -43,6 +43,7 @@ Using virtual environments
 [Computational thinking]({{< relref "computational_thinking" >}})
 
 Web with Python
+* https://www.transcrypt.org/
 * https://brython.info/
 * https://pynecone.io/
 * https://github.com/zauberzeug/nicegui

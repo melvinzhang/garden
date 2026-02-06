@@ -1,5 +1,8 @@
 {"title": "single source shortest path", "tags": []}
 
+Breaking the Sorting Barrier for Directed Single-Source Shortest Paths
+* O(m log^3/2 n) for directed graph with real non-negative edge weights
+
 Dijkstra's Algorithm
 * does not work if graph has negative edge weights
 * optimal for any graph when paired with heap data structure with a working-set property

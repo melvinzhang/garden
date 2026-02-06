@@ -10,7 +10,7 @@
 
 [JRPG]({{< relref "jrpg" >}})
 
-[combat card games]({{< relref "combat_card_games" >}})
+[card games]({{< relref "card_games" >}})
 
 [board games]({{< relref "board_games" >}})
 

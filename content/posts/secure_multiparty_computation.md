@@ -12,3 +12,5 @@ Secret sharing
 * Each party add up their parts and announce it.
 * Add up all the parts and divide by n to get the average.
 
+[threshold signature scheme]({{< relref "threshold_signature_scheme" >}})
+

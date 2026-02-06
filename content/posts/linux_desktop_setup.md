@@ -1,5 +1,11 @@
 {"title": "Linux desktop setup", "tags": []}
 
+timers
+* systemd-run --user --on-calendar="a-a-a 13:00:00" --unit=mute_sound pactl set-sink-mute @DEFAULT_SINK@ toggle
+* systemctl stop mute_sound.timer --user
+* systemctl list-timers --user
+* journalctl --user -u mute_sound.service
+
 firefox 128
 * pdf rendering issue https://bugzilla.mozilla.org/show_bug.cgi?id=1904707
   * mitigation: set gfx.canvas.accelerated=false
@@ -183,7 +189,7 @@ install
   * includes pdfjam
 * ledger
 * peek
-  * screen recording
+  * screen recording as gif
 
 install steam
 * dpkg --add-architecture i386

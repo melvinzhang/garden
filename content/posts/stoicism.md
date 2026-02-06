@@ -1,5 +1,14 @@
 {"title": "stoicism", "tags": []}
 
+modern stoicism
+* Lawrence Becker's A New Stoicism
+* Massimo's Stoicism 2.0
+* Piotr's Reformed Stoicism
+* Gill's Learning to Live Naturally
+  * Stoic Ethics: The Basics
+* Nancy Sherman's Stoic Wisdom: Ancient Lessons for Modern Resilience
+* William Irvine's The stoic challenge
+
 [intro slides by Donald Robertson](https://melvinzhang.keybase.pub/ld/intro-stoicism.pdf)
 
 relation to

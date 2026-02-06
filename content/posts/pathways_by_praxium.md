@@ -54,3 +54,33 @@ Warm up the audience first. Ask them questions.
 * What less common softare do you use?
 * Ask them to defeat the sample TTT AI. Prepare a harder version with only 1 way to lose.
 
+08/01/2026 at Outram
+* IT as creating digital products/solutions
+  * tiktok, fortnite
+* Solving the right problem
+  * relating to other people
+  * communications, leadership
+  * making a "fun" game
+  * agency, judgement, responsibility
+  * what is relevant?
+
+* Finding a solution compatible with existing
+  * not feasible to rewrite, redo
+  * need to deliver a feature
+
+* What are the kind of problems has a digital solution?
+
+* What might that solution look like?
+
+* What will the future of IT look like?
+  * GenAI is able to solve a defined problem, but still gets things wrong
+  * doesn't work well on unusual situations outside of what it has learned
+
+* activity 1: write the instructions
+  * IT as instructions???
+* activity 2: design a ttt AI
+  * AI is a set of rules
+* how work happens
+* activity 3: should we do that
+  * ethics
+

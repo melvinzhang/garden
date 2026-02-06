@@ -1,5 +1,9 @@
 {"title": "Household appliances", "tags": []}
 
+# Comparison
+
+https://pqs.app/
+
 # Energy monitor
 
 with LCD screen
@@ -22,8 +26,7 @@ The type that vibrates rather than rotate.
 
 Makes brushing fun as the hard work is taken care of.
 
-[Electric Toothbrush](https://www.amazon.com/Electric-Toothbrush-Fairywill-E11-Rechargeable/dp/B08L9CQ9X5)
-* P11 is an older model with 31k VPM vs E11 at 40k VPM
+Fairywill P11 62k brush movements
 
 # Electric pressure cooker
 
@@ -53,10 +56,4 @@ neoflam pote frypan
 Gaming mouse have more durable clickers, e.g. Redragon Centrophorus
 
 Scroll wheel first to stop working, from 02/05/2019 to 08/02/2023, close to 4 years.
-
-# Ebook reader
-
-[ebook reader/note](https://onyxboox.com/boox_nova3)
-
-[ebook reader](https://www.aliexpress.com/item/1005004897333636.html)
 

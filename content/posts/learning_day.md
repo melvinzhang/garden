@@ -85,7 +85,7 @@ The following is a list of topics I've shared in past LDs:
 * [LD 105.5: How much bandwidth do you need?]({{< relref "ld_105_5__how_much_bandwidth_do_you_need_" >}})
 * [LD 105: Groceries]({{< relref "groceries" >}})
 * [LD 104.5: Aavegotchi]({{< relref "ld_104_5__aavegotchi" >}})
-* [LD 104: Simpson's Paradox]({{< relref "ld_104__simpson_s_paradox" >}})
+* [LD 104: Mathematical Paradoxes]({{< relref "mathematical_paradoxes" >}})
 * [LD 103.5: Home remedy]({{< relref "ld_103_5__home_remedy" >}})
 * [LD 103: Proper typing posture]({{< relref "ld_103__proper_typing_posture" >}})
 * [LD 102.5: Desk update]({{< relref "ld_102_5__desk_update" >}})

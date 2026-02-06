@@ -1,5 +1,7 @@
 {"title": "philosophy as a way of life", "tags": []}
 
+Henry David Thoreau, Walden
+
 [Philosophical questions about the “art of living”](https://www.degruyter.com/document/doi/10.1515/humaff-2017-0019/html?lang=en)
 
 Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault by Pierre Hadot

@@ -1,5 +1,8 @@
 {"title": "convex optimization", "tags": []}
 
+lagrangian relaxation
+* aka alien trick, IOI 2016 task
+
 visual explanation
 * https://www.youtube.com/watch?v=AM6BY4btj-M
 * https://www.youtube.com/watch?v=d0CF3d5aEGc

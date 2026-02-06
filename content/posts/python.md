@@ -1,6 +1,8 @@
 {"title": "Python", "tags": []}
 
-Browser UI in Python https://nicegui.io
+Browser UI in Python
+* https://nicegui.io
+* https://rio.dev/
 * requires Python backend
 
 [uv](https://docs.astral.sh/uv/)

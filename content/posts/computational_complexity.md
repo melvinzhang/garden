@@ -11,6 +11,25 @@ there is a nondeterministic Turing machine that solve it in polynomial time
 * this produces a witness as the transitions of the TM
 * then construct the verifier as checking the transitions are valid
 
+co-NP are problems where no instances has a polynomial length certificate and
+and polynomial time verifier of the certificate.
+* believed that NP != co-NP
+
+TFNP are problems where a solution always exists
+* no problem in TFNP are known to be NP-complete
+  * if any TFNP problem is NP-complete, then NP=coNP
+* TFNP does not seem to have complete problems
+* subclasses with complete problems
+  * PPP pigeon hold principle
+  * PPA any finite undirected graph with an odd degree vertex, must have another odd degree vertex
+  * PPAD directed version of PPA (replace odd with unbalanced)
+  * PPADS stronger version of PPAD (replace unbalanced with oppositely unbalanced)
+  * PLS every dag has a sink
+* PTFNP has complete problems and contains the five known classes
+  * defined as all search problems in NP that reduces to Wrong Proof
+
+Factoring is in TFNP, NP, and co-NP
+
 One-way functions exists iff t-time bounded Kolmogorov complexity is mildly hard-on-average (Liu 2020)
 
 Relation to Physics

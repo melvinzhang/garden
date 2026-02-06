@@ -50,3 +50,4 @@
 * [Escape from model land]({{< relref "escape_from_model_land" >}})
 * [Gladiators, pirates and games of trust]({{< relref "gladiators__pirates_and_games_of_trust" >}})
 * [The perfect bet]({{< relref "the_perfect_bet" >}})
+* [mathematics for human flourishing]({{< relref "mathematics_for_human_flourishing" >}})

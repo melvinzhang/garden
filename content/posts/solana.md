@@ -28,6 +28,10 @@ Close ATA with 0 balance
 * https://slotana.io/en/toolkit/closeUnusedTokenAccounts
 * https://tools.blastctrl.com/spl-token-tools/close-empty
 
+Burn SPL token
+* https://www.guacamole.gg/tools/burn-spl-token
+* https://guac.gg/burn-tokens
+
 realloc can resize an account up to 10KB.
 
 ./solana-keygen pubkey 'prompt://?key=0/0' to derive the pubkey from seed phrase

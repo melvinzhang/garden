@@ -1,5 +1,7 @@
 {"title": "Strength training", "tags": []}
 
+[overtraining]({{< relref "overtraining" >}})
+
 [squat-stance deadlift](https://www.advancedhumanperformance.com/the-best-way-to-deadlift-squat-stance-deadlift)
 
 https://stronglifts.com/
@@ -9,6 +11,14 @@ https://outlift.com/the-5-big-compound-lifts/
 [My playlist of barbell lifts](https://www.youtube.com/playlist?list=PLGl18V34_GlIrThHGT9-c4tr-HmsHGtt1)
 
 https://thefitness.wiki/routines/strength-training-muscle-building/
+
+# Vertical pull
+
+chin up
+
+pull up
+
+commando pull up
 
 # Dead hang
 16 in (45 - 9)s = 2.25s per swing

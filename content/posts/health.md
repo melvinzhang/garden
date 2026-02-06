@@ -1,5 +1,9 @@
 {"title": "health", "tags": ["moc"]}
 
+screening
+* minmed
+* NUH wellness centre
+
 Regular checks stored in [Health record]({{< relref "health_record" >}})
 
 Consistent exercise [Strength training]({{< relref "strength_training" >}})

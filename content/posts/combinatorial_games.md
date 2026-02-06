@@ -8,7 +8,7 @@ PSPACE-complete
 * [Othello]({{< relref "othello" >}})
 * Capture Go
 * NoGo
-* Hex
+* [hex]({{< relref "hex" >}})
 * Amazons
 * Dots & Boxes
 * Scrabble

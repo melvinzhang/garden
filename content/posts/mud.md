@@ -41,6 +41,12 @@ family tree
   * http://lpmuds.net/downloads.html
 * DikuMUD
 
+https://www.mystavaria.com/
+
+[After the Plague](http://atp.pedia.szote.u-szeged.hu/~atp/main.html)
+* lpmud
+* simulationist
+
 东方故事2 天朝帝国
 * ES2 mudlib
 
@@ -58,12 +64,9 @@ https://abandonedrealms.com/
 [New Moon](http://newmoonmud.org/index.html)
 * lpmud
 
-[After the Plague](http://atp.pedia.szote.u-szeged.hu/~atp/main.html)
-* lpmud
-* simulationist
-
 [Lost Souls](https://www.lostsouls.org/)
 * no intro
+* simulationist
 
 MajorMUD
 * GreaterMUD

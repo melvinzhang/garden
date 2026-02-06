@@ -20,3 +20,5 @@ https://www.jfedor.org/pfedor/hobbit.html
 
 https://pobtastic.github.io/hobbit/
 
+[Behind the First "Middle Earth" Video Game](https://www.youtube.com/watch?v=rpxG5-YVPNE)
+

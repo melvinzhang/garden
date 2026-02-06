@@ -1,4 +1,8 @@
-{"title": "combat card games", "tags": []}
+{"title": "card games", "tags": []}
+
+# generic
+* https://felttable.com/
+* https://www.tcg-arena.fr/
 
 # Custom cards
 * Sorcery: Contested Realms
@@ -34,6 +38,7 @@
 * [Duelyst](https://duelyst.gg/)
 * [Duelyst II](https://duelyst2.com/)
 * [Air, Land, & Sea](https://boardgamegeek.com/boardgame/247367/air-land-sea)
+* Duel for Cardia
 * [Pokemon TCG]({{< relref "pokemon_tcg" >}})
 * Genesis: Battle of Champions
   * https://genesis.coliseum-of-fate.com/
@@ -53,7 +58,9 @@
 * [marvel champions]({{< relref "marvel_champions" >}})
 * [Star Wars CCG](https://gemp.starwarsccg.org/gemp-swccg/)
 * Star Wars Unlimited
-  * https://karabast.net/SWUOnline/MainMenu.php
+  * https://www.holonetunlimited.com/
+  * https://karabast.net/
+  * https://petranaki.net/Arena/MainMenu.php/
   * https://www.forcetable.net/swu
 * Star Wars: The Deckbuilding Game
 * [Ashes Reborn Online](https://ashteki.com/)
@@ -69,6 +76,7 @@
   * spells are instant, delayed, or ongoing
 
 # Using a standard 52 card deck
+* [River Rats](https://riverratscardgame.com/rules-player-aids/)
 * [Cuttle]({{< relref "cuttle" >}})
 * [Regicide]({{< relref "regicide" >}})
 * [Skull]({{< relref "skull" >}})

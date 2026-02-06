@@ -72,6 +72,7 @@ Implementation:
 Other tools:
 * [logseq](https://logseq.com/)
 * [obsidian](https://obsidian.md/)
+* [edna](https://github.com/kjk/edna)
 * [foam](https://foambubble.github.io/foam/)
 * [dendron](https://www.dendron.so/)
 * [Silver Bullet](https://silverbullet.md/)

@@ -4,8 +4,6 @@
 
 [DeFi MOOC]({{< relref "defi_mooc" >}})
 
-[Crypto lending]({{< relref "crypto_lending" >}})
-
 [algorithmic trading]({{< relref "algorithmic_trading" >}})
 
 Panoptic

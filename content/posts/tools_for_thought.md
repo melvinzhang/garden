@@ -4,6 +4,8 @@
 
 [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 
+[Tools for Thought as Cultural Practices, not Computational Objects](https://maggieappleton.com/tools-for-thought/)
+
 https://untools.co/
 
 https://www.bytesized.xyz/tools-for-thought/

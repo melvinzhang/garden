@@ -2,6 +2,10 @@
 
 does not depend on hidden moves
 
+Color changing Hexagon
+* illusion based on perspective
+* https://www.youtube.com/watch?v=BykztuV5S-Q
+
 Baby Hummer by Charles Hudson
 * put chosen as third, first card face up
 * turn over two and cut as many times

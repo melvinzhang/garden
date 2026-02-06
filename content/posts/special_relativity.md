@@ -1,5 +1,9 @@
 {"title": "special relativity", "tags": []}
 
+Premise about space-time + observations => Lorentz => cosmic speed limit c
+* equivalence of inertial frames and transformations forms a group implies either Galilean or Lorentz, Galilean can be ruled out from observation.
+* https://arxiv.org/pdf/1504.02423
+
 Einstein 1905
 * laws of electromagnetism should be consistent with the principle of relativity
 * spacetime interval (ds)^2 = (dt)^2 - (dx)^2

@@ -5,6 +5,9 @@ tried emacs but could not get used to it
 
 neovim is current editor of choice
 
+vim digraphs
+* in insert mode, ctrl-k l* produces λ
+
 other modal editors:
 [Kakoune](https://kakoune.org/)
 [helix](https://helix-editor.com/)

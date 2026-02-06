@@ -1,6 +1,36 @@
-{"title": "software verification", "tags": ["verification", "interest"]}
+{"title": "formal verification", "tags": ["verification", "interest"]}
 
-aka formal verification
+Verified Textbook Algorithms
+
+https://github.com/Certora/CertoraProver
+
+https://github.com/CertiGraph/CertiGraph
+
+https://fstar-lang.org/
+
+[Satisfiability modulo theories]({{< relref "satisfiability_modulo_theories" >}})
+
+creusot
+* Rust -> Coma -> Why3
+
+[prusti](http://prusti.org/)
+* Rust MIR -> Viper IR
+* does not catch panic from unwarp None
+
+Why3
+* https://toccata.gitlabpages.inria.fr/toccata/gallery/why3.en.html
+
+Spark
+
+Knuckledragger
+
+[Deduce](https://jsiek.github.io/deduce/index.html)
+
+https://github.com/teorth/estimates
+
+[Prove-It](https://github.com/sandialabs/Prove-It)
+
+HolPy
 
 Ivy uses only the decidable fragment of SMT, see
 http://microsoft.github.io/ivy/decidability.html

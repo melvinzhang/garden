@@ -1,8 +1,15 @@
 {"title": "Computer Go", "tags": []}
 
 [Go-Playing Programs](https://senseis.xmp.net/?GoPlayingPrograms)
-
-[Igowin](https://www.smart-games.com/igowin.html)
+* [KataGo](https://github.com/lightvector/KataGo)
+  * https://github.com/maksimKorzh/go/
+* [Tamago](https://github.com/kobanium/TamaGo) in Python3
+* [Maru](https://github.com/takedarts/maru)
+* [Ray](https://github.com/kobanium/Ray) MCTS no DL
+* [Pachi](https://github.com/pasky/pachi)
+* [Leela Zero](https://github.com/leela-zero/leela-zero)
+* [Igowin](https://www.smart-games.com/igowin.html)
+* [Sayuri](https://github.com/CGLemon/Sayuri)
 
 [AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago)
 
@@ -27,9 +34,6 @@ Open problems:
 [SAI](https://github.com/sai-dev/sai)
 * Sensible Artificial Intelligence that plays with handicap and targets high scores in 9×9 Go
 
-[KataGo](https://github.com/lightvector/KataGo)
-* [Opening books for 7x7 and 8x8](https://katagobooks.org/)
-
 [KaTrain](https://github.com/sanderland/katrain)
 
 [AhQ Go](https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview)
@@ -41,4 +45,6 @@ Open problems:
 [SmartGo One](https://www.smartgo.com/)
 
 [囲碁であそぼ！](https://www.nihonkiin.or.jp/teach/app/igodeasobo/)
+
+https://github.com/cameron-martin/tsumego-solver
 

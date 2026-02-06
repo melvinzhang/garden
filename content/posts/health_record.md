@@ -1,4 +1,39 @@
 {"title": "Health record", "tags": []}
+
+# 2025-04-05
+
+blood count, calcium, sodium, potassium, creatinine, thyroid
+
+# 2024
+
+Glucose + Lipid lab at Jurong Polyclinic done on 02/02/2024
+
+Cholesterol-Total: 4.4mmol/L (< 5.2)
+Cholesterol-HDL:   1.3mmol/L (1.0 - 1.5)
+Cholesterol-LDL:   2.7mmol/L (< 3.4)
+Triglycerides:     0.9mmol/L (< 2.3)
+Cholesterol/HDL Ratio: 3.4   (<= 4.5)
+Glucose (Fasting): 4.70mmol/L (4.0-6.0)
+
+# 2023
+
+Glucose + Lipid lab at Jurong Polyclinic done on 02/02/2023
+
+Cholesterol-Total: 5.2mmol/L (< 5.2)
+Cholesterol-HDL:   1.5mmol/L (> 1.5)
+Cholesterol-LDL:   3.3mmol/L (< 3.5)
+Triglycerides:     0.8mmol/L (< 1.7)
+Cholesterol/HDL Ratio: 3.5   (< 4.5)
+Glucose (Fasting): 4.5mmol/L (4.0-6.0)
+
+Consult and measurements done on 09/02/2023
+W: 59.05kg
+H: 170.8cm
+BP: 109/61mmHg (< 120/80)
+HR: 87/min (60-90)
+
+# Earlier
+
 20100728 - 171cm, 53kg, 18.1BMI
 
 BMI Categories:
@@ -94,28 +129,4 @@ Glucose (Fasting): 5.20mmol/L (3.0-6.0)
 BP: 132/68 (above 90/60 and below 120/80)
 W: 59.75
 H: 171.5
-
-Glucose + Lipid lab at Jurong Polyclinic done on 02/02/2023
-
-Cholesterol-Total: 5.2mmol/L (< 5.2)
-Cholesterol-HDL:   1.5mmol/L (> 1.5)
-Cholesterol-LDL:   3.3mmol/L (< 3.5)
-Triglycerides:     0.8mmol/L (< 1.7)
-Cholesterol/HDL Ratio: 3.5   (< 4.5)
-Glucose (Fasting): 4.5mmol/L (4.0-6.0)
-
-Consult and measurements done on 09/02/2023
-W: 59.05kg
-H: 170.8cm
-BP: 109/61mmHg (< 120/80)
-HR: 87/min (60-90)
-
-Glucose + Lipid lab at Jurong Polyclinic done on 02/02/2024
-
-Cholesterol-Total: 4.4mmol/L (< 5.2)
-Cholesterol-HDL:   1.3mmol/L (1.0 - 1.5)
-Cholesterol-LDL:   2.7mmol/L (< 3.4)
-Triglycerides:     0.9mmol/L (< 2.3)
-Cholesterol/HDL Ratio: 3.4   (<= 4.5)
-Glucose (Fasting): 4.70mmol/L (4.0-6.0)
 

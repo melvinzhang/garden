@@ -7,3 +7,6 @@ Cooking breakfast on Sunday for Monday to Thursday.
 * pizza
 * loh mai kai
 
+Steamed mackerel
+* 3mins steam on Instant Pot
+

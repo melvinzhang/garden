@@ -1,5 +1,10 @@
 {"title": "foundations of physics", "tags": []}
 
+Noether's theorem
+* time symmetry <-> conservation of energy
+* translational symmetry <-> conservation of linear momentum
+* rotational symmetry <-> conservation of angular momentum
+
 https://theoreticalminimum.com/
 
 Existential Physics: A Scientist's Guide to Life's Biggest Questions by Sabine Hossenfelder

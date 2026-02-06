@@ -1,6 +1,9 @@
 {"title": "Graph algorithms", "tags": ["algorithm"]}
 CREATED: 200701060654
 
+dynamic dag reachability
+* A fully dynamic reachability algorithm for directed graphs with an almost linear update time
+
 Undirected connectivity in log-space
 
 `O(sqrt(|V|)E)` for matching by running BFS on all free vertices in parallel

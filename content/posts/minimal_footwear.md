@@ -1,6 +1,19 @@
 {"title": "Minimal footwear", "tags": ["footwear", "minimalist"]}
 CREATED: 201003100610
 
+Feet ~ 26.8cm
+
+Men Trekking Sandals Forclaz Trek 500
+* decathlon
+
+Mekyo sandals
+* but all have a toe strap
+
+Trekker 2.0 from fipper
+* UK size 9
+
+Pulltop wide barefoot sandals
+
 Water Shoes, used in kayaking
 
 Vivobarefoot Evo

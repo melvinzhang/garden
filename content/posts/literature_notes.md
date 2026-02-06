@@ -739,6 +739,7 @@
 * [AI: what little we know]({{< relref "ai__what_little_we_know" >}})
 * [Visions of AI Lighting talk]({{< relref "visions_of_ai_lighting_talk" >}})
 * [Panel dissusion at Visions for AI Future]({{< relref "panel_dissusion_at_visions_for_ai_future" >}})
+* [PyConSG Education summit 2025]({{< relref "pyconsg_education_summit_2025" >}})
 * [Learning programming and problem solving through solving algorithm problems]({{< relref "learning_programming_and_problem_solving_through_solving_algorithm_problems" >}})
 * [Using Python to automate coding assignment]({{< relref "using_python_to_automate_coding_assignment" >}})
 * [Computing @ Zhonghua]({{< relref "computing___zhonghua" >}})
