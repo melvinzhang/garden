@@ -24,6 +24,10 @@
 
 [Efficient sampling from a finite discrete distribution]({{< relref "efficient_sampling_from_a_finite_discrete_distribution" >}})
 
+[stocastic process]({{< relref "stocastic_process" >}})
+
+[Penney's game]({{< relref "penney_s_game" >}})
+
 uplift modelling
 
 Bonferroni correction
